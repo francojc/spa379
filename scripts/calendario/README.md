@@ -1,5 +1,7 @@
 # Schedule (`scripts/calendario/`)
 
+> **STATUS (SPA 379): unused.** `horario.qmd` now renders directly from `_data/horario.csv` (decision D2). The Google-Sheet sync below is retained from the template but is **not wired**; `schedule-config.R`'s `workbook` is intentionally left empty. Re-enable only if a Sheets workflow is later desired.
+
 Automation for the course schedule.
 
 ## Workflow

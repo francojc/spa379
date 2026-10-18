@@ -1,0 +1,48 @@
+---
+title: "Unidad A — Orden de palabras y expresión del sujeto"
+subtitle: "SPA 379 · S07–S13"
+categories: [Unidad A]
+date: 2027-02-02
+---
+
+## Calentamiento {.smaller}
+
+- Rappel del kit (30 s): muestreo · comparabilidad.
+- ¿Qué escala de marcado usamos aquí: **tipológica** o **interna**?
+
+## Bosquejo
+
+- El parámetro pro-drop y su rango tipológico (S07)
+- Baseline pan-hispano (S08)
+- El continuo Caribe → Peninsular → Andino (S09)
+- Datos reales I y II (S10–S11) · **T2A**
+- Información estructura / periferia izquierda (S12)
+- Síntesis (S13)
+
+## El parámetro
+
+- La **expresión del sujeto**: ¿pronombre obligatorio o permitido omitirlo?
+- El español es (tipológicamente) **marcado**: **sujeto nulo** — la mayoría del mundo no lo permite o no exige concordancia.
+
+## El continuo pro-drop
+
+- Caribe → sujeto expreso alto
+- Peninsular → medio
+- Andino → fuerte retención del sujeto nulo
+- Pregunta: ¿**cambio de tipo** o **cambio de frecuencia**?
+
+## Datos reales (S10–S11)
+
+- App Tier-1: distribuciones de sujeto expreso por variedad.
+- **Criterios de decisión** tipo vs. frecuencia (no "a ojo").
+- **Limitación honesta:** Caribe/Andino vienen de **recuentos publicados**, no de ACTIV-ES (AR/MX/peninsular) → un problema de **muestreo** real.
+
+## 3.1.3 en datos
+
+- Analiza la **función sintáctica** del constituyente en contexto de variación (periferia izquierda, dislocación).
+- No es gramática aislada: es análisis **sobre datos de variación**.
+
+## Resumen (S13)
+
+- ¿Puede un dialecto cambiar su **perfil tipológico**, o solo la frecuencia de una forma?
+- Puente a B: el sujeto nulo NO es el único rasgo marcado del español…

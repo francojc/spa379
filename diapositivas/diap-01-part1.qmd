@@ -1,0 +1,57 @@
+---
+title: "Part I — El kit tipológico"
+subtitle: "SPA 379 · S01–S06"
+categories: [Part I]
+date: 2027-01-12
+---
+
+## Calentamiento {.smaller}
+
+- Pregunta en la pizarra: *¿Hay un solo español "correcto"?*
+- ¿Tu español es un **dato**… o la **norma**?
+
+## Bosquejo
+
+- ¿Qué es la tipología? (S01)
+- Los 3 problemas del método (S02)
+- Universales y marcado (S03)
+- Un micro-ejemplo trabajado (S04)
+- El pan-hispano como objeto técnico (S05)
+- **Las dos escalas de marcado** (S06)
+
+## ¿Qué es la tipología?
+
+- Comparar estructuras **entre lenguas** para ver patrones.
+- NO es clasificar por familia (genealógico).
+- NO es describir una sola lengua (gramática).
+- Hábito a desaprender: **los tipos son continuos, no cajas**.
+
+## Los 3 problemas (S02)
+
+- **Muestreo** — ¿qué lenguas, cuántas, y son independientes o herencia/contacto?
+- **Comparabilidad** — el *tertium comparationis*: ¿qué cuenta como "el mismo" rasgo?
+- **Correlación ≠ causalidad** — areal vs. genealógico vs. funcional.
+
+## Universales y marcado (S03)
+
+- Greenberg: implicaciones (trial → dual → singular/plural).
+- **Absoluto** vs. **estadístico**.
+- Marcado = raro · tardío en adquisición · primero en perderse · baja frecuencia.
+
+## El micro-ejemplo (S04)
+
+- Una variable WALS/Grambank de punta a punta: muestra → codificación → normalización → conteos → mapa.
+- Lección: **procesar es decidir**. Esto licencia nuestro "dato pre-procesado".
+- Caso paralelo: *hablaste → hablastes* (raw → normalizado → conteo).
+
+## Las dos escalas (S06)
+
+- **Tipológica** — español vs. el mundo.
+- **Interna/área** — variedad vs. **núcleo pan-hispano**.
+- Mismo concepto, dos varas; **nunca confundirlas**.
+
+## Resumen (hilo del curso)
+
+- Perfil marcado del español = **sujeto nulo + subjuntivo + cliticos**.
+- Pregunta para Part II: *¿qué le pasa a una estructura marcada bajo variación y contacto?*
+- → Unidad A (sujeto) · Unidad B (modo) · Unidad C (contacto).

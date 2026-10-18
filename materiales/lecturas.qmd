@@ -1,0 +1,48 @@
+---
+title: "Banco de lecturas (Spanish-first)"
+subtitle: "D3 · Per-unit sourcing"
+description: |
+    Lecturas por unidad, en español siempre que existe; en inglés solo fuente sin equivalente. Presupuesto ≈ 40–60 págs./semana.
+lang: es
+date: 2027-01-12
+---
+
+No hay libro único. Cada lectura se anuncia en su **plan de clase**. Esta es la fuente, por unidad. **Spanish-first**; inglés solo si no hay equivalente.
+
+## Part I — El kit
+
+- **Comrie, B.** — *Teoría tipológica de las estructuras naturales* (Gredos) — marcado, implicaciones, universales. **ES.**
+- **RAE** — *Nueva gramática de la lengua española* — para el **núcleo pan-hispano** (excerpts). **ES.** Fuente autorizada en español para la baseline (S05–S06).
+- **WALS / languatypologies** (doc en español) — el micro-ejemplo de S04 y las apps Tier-1. **ES/interactiva.**
+- Presentaciones propias del curso (micro-intro en español del pipeline y la proveniencia de datos). **ES (custom).**
+
+## Unidad A — Sujeto / orden
+
+- **Francom, J.** — cap. de *The Handbook of Hispanic Linguistics* (wh-movement / sintaxis) — **adaptado al español** para el marco de periferia izquierda. *(custom ES)*
+- Reseñas de **variación sintáctica del español** (sujeto expreso) — ES donde existen.
+- Introducciones a datos: presentación propia para la app de sujeto expreso. **ES (custom).**
+- *(Solo si hace falta: estudios primarios de pro-drop en inglés.)*
+
+## Unidad B — Modo / subjuntivo
+
+- **Gal, S. et al. (2019)**, *Spanish in Context* — variación cross-dialect del subjuntivo. **ES.**
+- **Lipski, J.** — español de Guinea Ecuatorial / contacto — muchos artículos en español. **ES.**
+- ⚠️ **Silva-Corvalán (1994)** — "gradual loss of mood distinctions", *Language Variation and Change* — **INGLÉS** (fuente sin equivalente; la usamos como dato interpretado, no como texto largo).
+
+## Unidad C — Contacto + ideología
+
+- **Lipski** y estudios sobre español andino/paraguayo/bozal-Pichi — **ES** mayormente.
+- Marco **lengua vs. dialecto** (Abstand/Ausbau): explicación propia en español + Brown & Gilman (T/V) para *vos/vosotros*.
+- **Sheet de auditoría GenAI** (actividad T6): [GenAI como agregado](genai-audit.html).
+
+## Capstone (T3)
+
+- Hoja de tarea + rúbrica en español (custom). Eligen entre las fuentes ya vistas.
+
+## Sobre el libro *Quantitative Text Analysis* (QTA)
+
+- **Rol:** **soporte metodológico**, no texto del curso. El libro es del docente, en **inglés**, CC BY-NC-ND (qtalr.com/book).
+- **Dónde sirve:** el módulo "cómo se hace el dato" (S04) y el pipeline *hablaste→hablastes*; apoyo para **construir las apps** (D4).
+- **Uso estudiantil:** referencia opcional con atribución; no se redistribuye traducción. Ver nota de licencia.
+
+> **Verificar antes de usar:** las citas bibliográficas de `design/README.md` están marcadas "provisional; verify before use". Confirma datos exactos de cada fuente al preparar la unidad.

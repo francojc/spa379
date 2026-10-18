@@ -1,0 +1,42 @@
+---
+title: "Glosario de términos clave"
+subtitle: "SPA 379"
+description: |
+    Definiciones en español (con glos en inglés) de los términos del curso. Página viva: crece con cada unidad.
+lang: es
+date: 2027-01-12
+---
+
+Definiciones operativas para el curso. El **glo** es solo un ancla; el objetivo es usar el término en español.
+
+## Tipología y método
+
+- **Tipología lingüística** *(linguistic typology)* — comparación sistemática de estructuras entre lenguas para hallar patrones. *No es* clasificar por familias.
+- **Muestra** *(sample)* — las lenguas/variedades que incluimos; nunca neutra. Ver **problema del muestreo**.
+- **Independencia de puntos de datos** *(data-point independence)* — lenguas emparentadas o en contacto **no** son observaciones independientes.
+- **Comparabilidad / *tertium comparationis*** — "la misma" cosa que comparamos entre lenguas; una decisión del analista, no un hecho.
+- **Areal / genealógico / funcional** — tres explicaciones rivales de un patrón (contacto / herencia / presión cognitiva). **Correlación ≠ causalidad.**
+
+## Marcado y universales
+
+- **Universal absoluto** — vale para (casi) todas las lenguas. **Universal estadístico** — tendencia, no ley.
+- **Implicacional** — "si X, entonces Y" (p. ej., trial → dual → singular/plural).
+- **Marcado** *(marked)* — raro · tardío en adquisición · primero en perderse · baja frecuencia.
+- **Marcado tipológico** vs. **marcado interno/área** — las **dos escalas** del curso. Ver *Estrategias*.
+- **Núcleo pan-hispano** *(cross-varietal common core)* — lo compartido entre variedades; **no** una norma prestigiosa.
+
+## Estructuras del español (nuestros casos)
+
+- **Pro-drop / sujeto nulo** — permitir/ exigir omitir el sujeto. El español es marcado (lo permite con concordancia rica).
+- **Sujeto expreso / overt** — pronombre pronunciado; su tasa define el continuo interno.
+- **Periferia izquierda** *(left periphery)* — zona inicial de la oración (foco, tema, dislocación).
+- **Irrealis / subjuntivo** — modo de lo no comprometido; tipológicamente raro.
+- **Cópula doble (*ser/estar*)** y **clíticos de objeto** — marcas tipológicas del español.
+- **Abstand / Ausbau** — distancia lingüística real vs. construcción institucional de "una lengua".
+
+## Contacto
+
+- **Sustrato** — influencia de una lengua desplazada sobre la que la sustituye.
+- **Reestructuración** — reorganización de forma/función por contacto.
+- **Criollización** — creación de una gramática nueva en contacto intenso.
+- **Convergencia** — moverse **hacia** lo tipológicamente común (ojo: contracorriente **areal** del sustrato).

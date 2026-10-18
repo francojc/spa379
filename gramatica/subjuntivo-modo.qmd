@@ -1,0 +1,27 @@
+---
+title: "Modo y subjuntivo"
+subtitle: "Unidad B"
+description: |
+    Referencia de la Unidad B: el marcado tipológico del irrealis y el diagnóstico en disputa sobre la "pérdida" del subjuntivo.
+categories: [semántica, morfología, variación]
+date: 2027-02-25
+---
+
+## Descripción
+
+El **subjuntivo** marca lo irreal/no comprometido (deseo, duda, emocionalidad, hipotético). Es **tipológicamente raro**: la mayoría de las lenguas del mundo no tienen un modo subjuntivo gramaticalizado. Por eso el español es **marcado** en la escala tipológica por *tenerlo*.
+
+## Explicación
+
+- **Marcado del irrealis:** baja frecuencia, semánticamente "ligero", alomorfo rico. El marcado (raro/tardío/primeramente perdido) predice dónde buscar erosión.
+- **Los *outcomes* (enseñamos los resultados, no la teoría):**
+  - **Guinea Ecuatorial:** colapso casi total indicativo/subjuntivo (Lipski).
+  - **Patrimonio LA:** pérdida **gradual** de distinciones de modo (Silva-Corvalán 1994).
+  - **Contraste monolingüe cross-dialect:** variación real (Gal 2019).
+- **Diagnóstico EN DISPUTA:** ¿pérdida real del modo, o **renegociación forma–función** (p. ej., indicadores contextuales sustituyen la marca verbal)? *Nunca* presentamos "se pierde el subjuntivo" como hecho: la disputa es el modelo de pesar evidencia (U7).
+- **Puente tipológico:** si el subjuntivo es marcado en el mundo, ¿se erosiona **primero** bajo contacto? La **dirección** del cambio (hacia el indicativo) es convergencia a lo tipológicamente común — igual que el sujeto expreso en A.
+
+## Actividades prácticas
+
+- Ítem **T5** (S20): reescribe "el subjuntivo está desapareciendo" (prescriptivo/teleológico) como cuenta **descriptiva** de re-distribución funcional.
+- Ficha **T2B** (S18): qué evidencia inclinaría pérdida ↔ renegociación.

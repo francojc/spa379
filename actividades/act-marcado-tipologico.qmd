@@ -1,0 +1,50 @@
+---
+title: "Marcado tipológico vs. interno"
+subtitle: "Part I / a lo largo del curso"
+description: |
+    Práctica interactiva: distinguir las DOS escalas de marcado. No confundir "raro en el mundo" con "desviado del español estándar".
+categories: [actividad, tipología, variación]
+date: 2027-02-02
+lang: es
+---
+
+```{r, echo=FALSE, results='asis'}
+library(webexercises)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Recuerda las dos varas:
+
+- **Tipológico** = español **vs. las lenguas del mundo**.
+- **Interno/área** = una variedad **vs. el núcleo pan-hispano**.
+
+Un rasgo puede ser marcado en una escala y no en la otra. La confusión es el error conceptual del curso.
+
+## ¿Tipológico o interno? (múltiple choice)
+
+El **subjuntivo** es raro en las lenguas del mundo. Esto lo hace…
+
+`r mcq(c("marcado internamente (una variante se desvía)", answer = "marcado tipológicamente (raro en el mundo)", "de ninguna forma: es normal en todos lados"))`
+
+La **aspiración de /s/ final** caribeña desvía de la norma pan-hispana pero es común en muchas lenguas. Es…
+
+`r mcq(c(answer = "marcado interno/área (no tipológico)", "marcado tipológico (raro en el mundo)", "no marcado en ninguna escala"))`
+
+## Completar (fill-in)
+
+- El sujeto nulo hace al español tipológicamente `r fitb("marcado", ignore_case = TRUE)` (la mayoría de lenguas europeas lo exige).
+- Los tipos no son cajas: son `r fitb("continuo", ignore_case = TRUE)` (un continuo).
+- Decidir "tipo distinto vs. frecuencia distinta" requiere `r fitb("criterio", ignore_case = TRUE)`s explícitos, no una corazonada.
+
+## Verdadero o falso
+
+- La **retención** del subjuntivo es, ella misma, el estado tipológicamente marcado del español; su erosión acerca al indicativo = **convergencia** a lo común. `r torf(TRUE)`
+- Si una variedad andina se acerca a lo tipológicamente común por contacto quechua, la evidencia apoya que el sustrato empuja hacia lo **global** (no hacia lo areal). `r torf(FALSE)`
+
+## Por qué importa
+
+::: .webex-check
+
+Si confundes las dos escalas, terminas diciendo que una variedad dialectal es "menos española" **y** "más raro en el mundo" a la vez — o, al revés, que es "más correcta" porque converge a un universal. Las dos conclusiones son malas. El marcador de la buena práctica es poder nombrar en qué **escala** estás marcando.
+
+:::

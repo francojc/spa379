@@ -1,0 +1,57 @@
+---
+title: "S01 · ¿Qué es la tipología?"
+description: |
+    Abrimos el curso y el kit tipológico: comparar estructuras entre lenguas para ver patrones. Des-aprendemos los "cajas": los tipos son continuos.
+categories: [Part I, kit]
+date: 2027-01-12
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Definir** la tipología por contraste con la clasificación genética (familias) y la gramática descriptiva de una sola lengua.
+- **Explicar** con mis palabras por qué "ninguna lengua *es* SOV; es *más* SOV que lo contrario".
+- **Plantear** la pregunta del curso: ¿las variedades del español difieren tipológicamente o solo en la superficie?
+- **Nombrar** los tres problemas que limitarán toda conclusión (muestreo, comparabilidad, correlación ≠ causalidad), que veremos a fondo mañana.
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- Lee la presentación del curso (este plan) y la **Página 1 del glosario** (tipología, muestra, rasgo).
+- Trae **un ejemplo** de tu español que "suene raro" en otro lado (para S05/S06).
+
+#### Después de clase
+
+- [Diapositivas](../diapositivas/diap-01-part1.html)
+- Apunta en tu cuaderno: 3 estructuras del español que crees que son "normales" y una que creas "rara".
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+Propósito: llegar con una intuición propia para confrontarla.
+
+**1. Sondeo rápido (5 min)** — en el foro: una forma de tu variedad que otros marcarían como "incorrecta". Sin juicio; solo dato.
+
+#### En clase (75 min)
+
+- **Arranque / rappel (10):** la pregunta del día en la pizarra; no-notes-dump del sondeo.
+- **Entrada (20):** mini-expo + ejemplos: comparar vs. clasificar vs. describir; el **continuo, no la caja** (un diagrama de gramaje SOV–VSO).
+- **Taller (30):** en parejas, toman 5 lenguas de languatypologies y ubican *una* estructura; reportan si "encaja en una caja" (no).
+- **Plenaria (15):** ponemos en común; sembramos los tres problemas para S02.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **Próxima evaluación:** T1 · Cuaderno de evidencia #1 (S02). Empieza hoy la primera entrada de la lista de "supuestos" propios.

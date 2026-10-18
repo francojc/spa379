@@ -1,0 +1,41 @@
+---
+title: "Frases para discutir en español"
+subtitle: "Movimientos de la disposición crítica"
+description: |
+    Tarjetas de frases para participar, analizar y defender (T1–T3). Úsalas literalmente; luego hazlas tuyas.
+lang: es
+date: 2027-01-12
+---
+
+## Plantear una postura matizada
+
+- "La evidencia **favorece** X, **aunque** Y es un contra-caso porque…"
+- "Mi hipótesis es X; **lo que la sostendría** sería el dato Z."
+- "No diría que es *hecho*, sino que **pesa más** la evidencia de…"
+
+## Nombrar la escala (el movimiento clave)
+
+- "Eso es marcado **tipológicamente** (raro en el mundo), **no** necesariamente dentro del español."
+- "Cuidado: aquí la desviación es **interna** (vs. el núcleo pan-hispano), no **global**."
+- "¿En qué **escala** lo estamos midiendo?"
+
+## Descriptivo, no prescriptivo
+
+- "No es que se *pierda* la estructura; se **re-distribuye la función**."
+- "Es variación **sistemática**, no error."
+- "Deja de ser 'correcto/incorrecto' y pasa a ser 'más/menos frecuente **en qué condiciones**'."
+
+## Manejar el desacuerdo y el método
+
+- "Aquí los autores discrepan sobre **la interpretación**, no sobre el dato."
+- "Ojo con el **muestreo**: ¿estos puntos son **independientes**?"
+- "¿Es el mismo rasgo de verdad? — problema de **comparabilidad**."
+- "¿Frecuencia distinta o **tipo** distinto? ¿Qué **criterio** lo decide?"
+
+## Cerrar con posición propia (el final de T3)
+
+- "En mi variedad yo **daba por hecho** que…; los datos me mostraron que…"
+- "Mi español es **un dato más**, no el punto de neutro."
+- "Lo que antes sonaba 'raro' resulta ser **sistemático**."
+
+> Para la **defensa oral**: prepara 3 de estas antes de entrar. Reduce la carga y sube la calidad del razonamiento. Ver [Estrategias](../strategies.html).

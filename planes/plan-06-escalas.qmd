@@ -1,0 +1,52 @@
+---
+title: "S06 · Las dos escalas de marcado (y el perfil del español)"
+description: |
+    El momento bisagra del curso: marcado TIPOLOGICO (vs. el mundo) ≠ marcado INTERNO/AREA (vs. el núcleo pan-hispano). Nombramos ambas escalas para no confundirlas jamás.
+categories: [Part I, mapa, spine]
+date: 2027-01-28
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Definir** el **núcleo pan-hispano** como objeto técnico (lo compartido entre variedades), NO una variedad prestigiosa.
+- **Distinguir y nombrar** las **dos escalas de marcado**: tipológica y interna/área.
+- **Puntuar** el español contra las lenguas del mundo en ambas direcciones:
+  - *Poco marcado:* alineativo nominativo-acusativo; SVO; 5 vocales; sin tono; dos géneros; aspecto PF/IMP.
+  - *Marcado (las sorpresas):* **sujeto nulo**, **subjuntivo**, cópula doble *ser/estar*, cliticos, orden N-Adj mixto, residuo neutro *lo*.
+- **Preparar** la pregunta de Part II: *¿qué le pasa a una estructura marcada bajo variación y contacto?* (→ Units A y B).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- **S05 (mapa):** lecturas sobre el núcleo común; trae tu ejemplo de variedad de la S01.
+- Comrie (español), cap. de marcado — selección.
+
+#### Después de clase
+
+- Cuaderno T1 **#2**: una estructura del español en CADA escala (tipológica e interna), sin confundirlas.
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** "un dialecto con ejército y marina" — siembra de lengua vs. dialecto.
+- **Entrada (20):** el núcleo pan-hispano (¿por qué definirlo evita decir que hay un "español real"?); las dos escalas.
+- **Taller (30):** tarjetas de rasgos; en equipos clasifican cada uno: ¿marcado **tipológica**mente? ¿marcado **internamente** (alguna variedad se desvía)? — la simetría es la lección crítica.
+- **Plenaria (15):** fijamos el "perfil marcado del español = sujeto nulo + subjuntivo + cliticos" como hilo de todo el curso.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- Cierre de Part I. Mañana (S07) **Unidad A**. La defensa capstone (T3) **debe** usar explícitamente las dos escalas; entrena eso en cada entrada T1.

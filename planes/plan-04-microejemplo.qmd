@@ -1,0 +1,56 @@
+---
+title: "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)"
+description: |
+    Enseñamos el método POR un caso: una variable WALS/Grambank de principio a fin. Aquí se ve qué decide el pipeline y se mata la crítica de "caja negra".
+categories: [Part I, kit, metodo]
+date: 2027-01-21
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Trazar** una variable tipológica desde la muestra de lenguas → codificación del rasgo → normalización → conteos → mapa/estadística.
+- **Identificar** dónde *decidió* el analista (comparabilidad: ¿qué cuenta como "el mismo" rasgo?) y cómo eso sesga el resultado.
+- **Distinguir** universal **absoluto** de **estadístico** leyendo la distribución.
+- **Justificar** por qué nosotros interpretamos datos *pre-procesados* (no codificamos): el pipeline ya tomó decisiones.
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- Explora libremente una entrada de **languatypologies / WALS** (elegida en clase). Lee el "How this feature was coded".
+- Revisa el glosario: *tertium comparationis*, normalización, rasgo.
+
+#### Después de clase
+
+- Apunte de método en el cuaderno: "3 decisiones que tomó el pipeline de esta variable".
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+Propósito: ver la "tripa" antes de usar la app.
+
+1. Captura de pantalla del mapa de tu rasgo + 2 lenguas que te sorprendan.
+
+#### En clase (75 min)
+
+- **Arranque (10):** rappel S02-S03 (los 3 problemas; implicaciones de Greenberg).
+- **Entrada (20):** recorremos JUNTOS una variable de punta a punta; el caso paralelo del **leveling** (*hablaste → hablastes*: corpus crudo → normalizado → conteos) muestra que "procesar" es *decidir*.
+- **Taller (30):** en parejas, otra micro-variable; marquen 1 decisión de comparabilidad y 1 riesgo de muestreo.
+- **Plenaria (15):** "¿qué nos hizo decidir el dato por nosotros?" → licencia el diseño Tier-1 de todo el curso.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **Hoy se entrega T4** (lectura interpretativa breve): reformula la tesis de una nota metodológica en español; identifica 1 evidencia de apoyo. **Núcleo no delegable:** interpretas antes de cualquier resumen automático.

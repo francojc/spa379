@@ -1,0 +1,52 @@
+---
+title: "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)"
+description: |
+    Corazón de la Unidad A. Interpretamos distribuciones reales de sujeto expreso y decidimos con criterios explícitos si una variedad cambió su TIPO tipológico o solo la FRECUENCIA de una forma.
+categories: [Unidad A, datos, T2]
+date: 2027-02-16
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Leer** las distribuciones de sujeto expreso vs. nulo por variedad en la app **Tier-1**.
+- **Aplicar** criterios de decisión: ¿en qué caso diríamos "nuevo tipo" y no "misma forma, distinta frecuencia"?
+- **Analizar** la función sintáctica de constituyentes en datos de variación (**SLO 3.1.3**): sujeto léxico vs. clítico/empty en contexto de periferia.
+- **Conectar** la forma con región/comunidad/contacto (**SLO 3.2.2**) y con un proceso tipológicamente frecuente (**3.2.3**): la deriva hacia lenguas no-pro-drop.
+- **Nombrar** una limitación de los datos (¿Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES? → problema de **muestreo**, U5).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- Continúa **S09–S10**: ya viste el continuo Caribe → Peninsular → Andino y las distribuciones I.
+- **T4 (S09)** leído; trae tus notas del *tertium comparationis*.
+
+#### Después de clase
+
+- Entrega **T2A** (análisis contextualizado) por Canvas. Rubrica R-T2 (3.2.1–3).
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** rappel del kit (30 s): muestreo / comparabilidad. ¿Qué escala de marcado estamos usando aquí? (interna vs. tipológica).
+- **Entrada (15):** walkthrough de la app Tier-1 con una variable; modelamos leer una distribución *sin* saltar a "correcto/incorrecto".
+- **Taller (35):** en parejas, interpretan el continuo de sujeto expreso; completan la ficha T2A: (a) colocan cada variedad; (b) deciden tipo vs. frecuencia con criterio; (c) escriben "¿qué evidencia lo resolvería?". **Núcleo no delegable:** interpretan el dato antes de cualquier ayuda.
+- **Plenaria (15):** contrastamos decisiones; discutimos el sesgo de muestreo de los endpoints.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **T2A ENTREGABLE (30% del componente de análisis).** Revisa R-T2 antes de entregar: ¿distingues las dos escalas? ¿nombras una limitación de datos?
+- Próximo: cierre de Unidad A (S12–S13) y puente a **Unidad B** (subjuntivo).

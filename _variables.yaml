@@ -1,31 +1,32 @@
 author:
 
 instructor:
-  name:
-  name_short:
-  title:
-  email:
-  office:
-  appointment_url:
+  name: Jerid C. Francom
+  name_short: Jerid Francom
+  title: Associate Professor of Spanish and Linguistics
+  email: ""                    # TODO: WFU email
+  office: ""                   # TODO: office/room (Dept. of Spanish / Romance Languages)
+  appointment_url: ""          # TODO: scheduling link
   photo: assets/instructor.png
-  github:
+  github: ""                   # TODO: GitHub handle (optional)
 
 course:
-  title:
-  description:
+  title: "El español en perspectiva tipológica: universales, variación y contacto"
+  description: "¿Se diferencian tipológicamente las variedades del español, o solo en la superficie? Un seminario que usa la tipología como lente sobre la variación del español."
   sticker: assets/course-sticker.png
-  number:
-  semester:
-  year:
-  institute:
-  meeting_time:
-  meeting_location:
-  web:
-  schedule:
-  github:
-  textbook:
+  number: SPA 379
+  semester: Spring
+  year: 2027
+  institute: Department of Spanish (Romance Languages), Wake Forest University
+  meeting_time: "Martes y jueves · 75 min"
+  meeting_location: ""         # TODO: room
+  web: ""                      # TODO: site URL (set after publish)
+  schedule: ""                 # used by diapositivas template (Presentación link)
+  github: ""                   # TODO: repo (github.com/francojc/spa379)
+  textbook: "Sin libro único: banco de lecturas Spanish-first (personalizadas)"
 
 # LMS links. Add keys as needed per course (e.g., canvas.quiz_01, canvas.assignment_01).
 # Reference from .qmd with: {{< var canvas.quiz_01 >}}
 canvas:
-  course:
+  course: ""                   # TODO: Canvas course URL
+  eval_01: ""                  # used by diapositivas template (Evaluación diaria)

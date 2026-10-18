@@ -1,0 +1,50 @@
+---
+title: "S27 · Escritura de la defensa interpretativa (capstone)"
+description: |
+    Alto y final de la disposición. Cada estudiante construye la defensa de UNA pregunta abierta en español: tesis + evidencia + manejo de contra-evidencia + posición propia (variedad como dato).
+categories: [Capstone, T3, presentacional]
+date: 2027-04-20
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Formular** una tesis/interpretación defendible sobre una pregunta abierta del curso (p. ej., "¿hay un solo español?", "¿el contacto cambió el tipo del andino?", "¿se pierde o se renegocia el subjuntivo?").
+- **Sustentarla** con evidencia real (datos/estudios) y **nombrar el desacuerdo experto** (U7) — presentar la hipótesis como *peso de la evidencia*, no como hecho.
+- **Usar las dos escalas** de marcado sin confundirlas (U3) y proponer una **dirección** de cambio (U6).
+- **Cerrar con positionality**: tu propia variedad como dato + un supuesto que traías (S8 + S10).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- **S26** (taller): pregunta elegida + esqueleto de evidencia.
+- Rúbrica **R-T3** (SLO 1.3.4–6) leída.
+
+#### Después de clase
+
+- Borrador → retro → **entrega escrita en S28**; **defensa oral** en el bloque final (opcional; no hay examen escrito final).
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** criterios de una defensa sólida (de la rúbrica) en la pizarra.
+- **Entrada (10):** cómo *no* cerrar la pregunta: defender una interpretación matizada.
+- **Taller (40):** escritura guiada en clase + **peer-review** con la rúbrica (roles: moderador / relator / provocador). Pares cuestionan la evidencia, no la opinión.
+- **Plenaria (15):** 2–3 volunteers presentan su tesis + 1 contra-ejemplo; entrenamos el manejo de la objeción.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **T3 = 30%.** Pisos de SLO 1.3: 1.3.4 tesis, 1.3.5 evidencia, 1.3.6 conectores/organización — deben alcanzarse en la **defensa oral**. Usa las tarjetas de frases. **Núcleo no delegable:** tesis y evidencia son tuyas (ver política de IA §V).

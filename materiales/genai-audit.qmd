@@ -1,0 +1,46 @@
+---
+title: "GenAI como agregado: ¿un dato o la norma?"
+subtitle: "Actividad T6 · Unidad C"
+description: |
+    Auditoría discreta (no recurrente) del español de un modelo generativo. Tratas su salida como una MUESTRA de su entrenamiento y juzgas si refleja el uso real del español.
+lang: es
+date: 2027-04-06
+---
+
+::: callout-note
+**Regla de oro (núcleo no delegable):** interpreta primero los **datos reales** del rasgo. Solo después consultas el modelo. Aquí la IA es el **objeto de análisis**, no una ayuda para pensar por ti.
+:::
+
+## Paso 1 — El dato real (antes de la IA)
+
+Elige **un** rasgo de las unidades (sujeto expreso, subjuntivo, *vos/vosotros*, cliticos, aspiración). Registra cómo **se comporta de verdad**:
+
+| Pregunta | Tu lectura de los datos / app |
+| :-- | :-- |
+| ¿En qué variedades aparece y con qué frecuencia? | |
+| ¿Qué **escala de marcado** aplica (tipológica o interna)? | |
+| ¿Qué dice una **fuente real** (estudio/recuento)? | |
+
+## Paso 2 — La salida del modelo
+
+Escribe una pregunta **descriptiva** pero formulada **como si fuera prescriptiva** (para ver la trampa). Ej.: *"¿Cuál es la forma correcta de decir ___ en español?"* Guarda la respuesta.
+
+## Paso 3 — La auditoría (3 movimientos)
+
+Compara Paso 1 vs. Paso 2 y responde:
+
+1. **¿Aplanó dialectos?** — ¿el modelo presentó una sola norma donde hay variación real? Da un ejemplo concreto.
+2. **¿Borrase o estereotipó?** — ¿desapareció *vos*, la aspiración, un sustrato andino; o asignó identidad al hablante con exceso de confianza?
+3. **¿Prescribió en vez de describir?** — ¿trató variación sistemática como "error"?
+
+## Paso 4 — Explicarlo por el método (el punto del curso)
+
+> El modelo es un **agregado estadístico sobre su corpus de entrenamiento**. ¿Ese corpus es una **muestra representativa** del español mundial? Discute:
+
+- ¿Qué variedades están **sobrerrepresentadas** (norma escrita prestigiosa, web en estándar)?
+- ¿Conecta esto con el **problema del muestreo** (U5) y la **comparabilidad**?
+- ¿A quién se trata como "autoridad" cuando la salida del modelo se toma como "el español"?
+
+## Entrega
+
+Los **3 movimientos + 1 ejemplo concreto** + la explicación de muestreo = T6 (rubrica R-T6, pass/fail). Rúbrica y política de IA: Programa §IV–V.

@@ -1,0 +1,51 @@
+---
+title: "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas"
+description: |
+    Unidad C sintetiza A y B en un marco: ¿puede el contacto mover el PERFIL tipológico de una variedad, y en qué se diferencia de un cambio "normal"? Aquí aterrizamos SLO 3.2.3 (poblaciones históricamente marginadas).
+categories: [Unidad C, sintesis, contacto]
+date: 2027-04-13
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Sintetizar** en un solo marco: modo (B) + *vos/vosotros* + cliticos (A), visto bajo contacto (C).
+- **Evaluar** la pregunta de convergencia: cuando una variedad se desvía *internamente*, ¿se mueve **hacia o lejos** de lo tipológicamente común? (contracorrientes: sesgo de selección vs. arrastre del sustrato).
+- **Aplicar** el cuadro *Abstand/Ausbau* (S24) para decidir "tipo distinto vs. frecuencia distinta" con criterio.
+- **Contextualizar** con **poblaciones históricamente marginadas**: quechua→andino, guaraní→paraguayo, bozal/Pichi (**SLO 3.2.3**).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- **S21–S24** vistos (tipología del contacto; casos; GenAI/T6; lengua vs. dialecto).
+- T1 #5 entregado (S22).
+
+#### Después de clase
+
+- T1 **#6** (síntesis de las tres unidades en una entrada).
+- Elige tu **pregunta abierta** para el capstone (T3).
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** rappel del kit + "una lengua es un dialecto con ejército y marina".
+- **Entrada (15):** ponemos A y B JUNTO a un caso de contacto: ¿reestructuración o frecuencia? ¿converge o diverge?
+- **Taller (30):** en equipos, un caso de contacto; deciden con criterios explícitos y escriben QUÉ evidencia resolvería el caso.
+- **Plenaria (20):** mapeamos los tres "hilos" del curso (sujeto / modo / contacto) sobre una sola pizarra — el cierre del arco.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- Cierre de las tres unidades. Mañana: **taller del capstone (S26)**. Tu defensa (T3) debe mostrar las **dos escalas** y una **dirección** de cambio con evidencia.

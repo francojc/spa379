@@ -1,0 +1,30 @@
+---
+title: "Expresión del sujeto (pro-drop)"
+subtitle: "Unidad A"
+description: |
+    Referencia de la Unidad A: el parámetro de expresión del sujeto, su rango tipológico y el continuo del español.
+categories: [sintaxis, variación]
+date: 2027-02-02
+---
+
+## Descripción
+
+El **parámetro pro-drop** (dropping de pronombre) pregunta si una lengua permite/ exige omitir el sujeto sintáctico. El español es, tipológicamente, **marcado**: permite sujeto nulo con **concordancia rica** en el verbo (*como* 'I eat'), mientras la mayoría de lenguas europeas (inglés, francés) exigen pronombre explícito.
+
+## Explicación
+
+- **Rango tipológico:** no-pro-drop → parcial (italiano) → pleno (español). "Tipos continuos, no cajas": ninguna lengua *es* pro-drop; es *más* o menos permisiva.
+- **El continuo interno del español** (marcado **interno/área**, vs. el núcleo pan-hispano):
+  - Caribe → **sujeto expreso** alto
+  - Peninsular → medio
+  - Andino → fuerte retención del sujeto nulo
+- **Criterio tipo vs. frecuencia:** si todas las variedades conservan la *regla* de omisión y cambian la *tasa* de pronombres, es **frecuencia**; si alguna variedad pierde la **permisividad estructural** (necesita concordancia o sujeto), es candidato a **cambio de tipo**. Esto es lo que se debate con datos.
+- **Conexión:** más sujeto expreso bajo contacto/erosión acerca la variedad al patrón **tipológicamente dominante** (no-pro-drop). La retención pan-hispana es el estado marcado.
+
+**Lea también:** el constituyente en **periferia izquierda** (dislocación, focos) para el análisis de función sintáctica (SLO 3.1.3) sobre datos reales.
+
+## Actividades prácticas
+
+- [Actividad: marcado tipológico vs. interno](../actividades/act-marcado-tipologico.html)
+- Ficha **T2A** (S11): coloca cuatro variedades en el continuo y decide tipo vs. frecuencia con criterio.
+- Limitación honesta: los endpoints Caribe/Andino vienen de **recuentos publicados**, no de ACTIV-ES (AR/MX/peninsular) — un problema de **muestreo** para discutir.

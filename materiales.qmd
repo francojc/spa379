@@ -1,0 +1,14 @@
+---
+title: "{{< fa folder-open >}} Materiales"
+listing:
+  id: materiales-listing
+  contents: materiales
+  type: table
+  filter-ui: true
+  sort: "subtitle"
+  fields: [subtitle, title, description]
+page-layout: full
+title-block-banner: false
+---
+
+Apoyos del curso (Spanish-first): el glosario, las tarjetas de frases para discutir, el banco de lecturas y la hoja de auditoría GenAI.

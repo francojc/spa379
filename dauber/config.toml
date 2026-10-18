@@ -1,15 +1,16 @@
 # Dauber configuration — Canvas LMS integration
-# Replace values with your course-specific settings.
 # See: https://github.com/opensec-git/dauber
+# Filled for SPA 379 (Spring 2027). Live publish happens in Phase 6 and needs
+# canvas_course_id + credentials; those stay as TODO until then.
 
-course_title = ""          # e.g., "Advanced Spanish Language and Grammar"
-course_code = ""           # e.g., "SPA-201-A"
-canvas_course_id = 0       # Numeric Canvas course ID
-term = ""                  # e.g., "Fall", "Spring"
-year = 0                   # e.g., 2026
-level = "undergraduate"    # "undergraduate" or "graduate"
-feedback_language = ""     # Language for student feedback (e.g., "Spanish", "English")
-language_learning = true   # true for language courses
-language_level = ""        # e.g., "Advanced Low", "Intermediate High"
-formality = "casual"       # "casual" or "formal"
-anonymize = true           # Anonymize student names in output
+course_title = "El español en perspectiva tipológica: universales, variación y contacto"
+course_code = "SPA-379-A"
+canvas_course_id = 0       # TODO: numeric Canvas course ID (set before Phase 6 publish)
+term = "Spring"
+year = 2027
+level = "undergraduate"
+feedback_language = "Spanish"
+language_learning = false  # content seminar taught IN Spanish, not a proficiency course
+language_level = "Advanced" # Spanish-medium discussion/defense level expected (Adv Mid–High cohort)
+formality = "formal"
+anonymize = true

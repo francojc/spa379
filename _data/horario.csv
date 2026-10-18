@@ -1,1 +1,29 @@
 Objetivo,Fase,Capítulo,Día,Fecha,Enfoque,Plan,Diapositiva
+lectura,Part I · Kit,Qué es la tipología,1,2027-01-12,"Comparar vs. clasificar vs. describir; los tipos son continuos, no cajas",./planes/plan-01-kit.html,./diapositivas/diap-01-part1.html
+análisis,Part I · Kit,Los 3 problemas del método,2,2027-01-14,Muestreo · comparabilidad (tertium) · areal/genealógico/funcional — T1 #1,,
+análisis,Part I · Kit,Universales y marcado,3,2027-01-19,Implicaciones de Greenberg; marcado = raro/tardío/perdido/frecuente,,
+análisis,Part I · Kit,Micro-ejemplo trabajado,4,2027-01-21,Una variable WALS/Grambank: cómo se codifica → qué decide el pipeline — T4,./planes/plan-04-microejemplo.html,
+debate,Part I · Mapa,Pan-hispano como objeto técnico,5,2027-01-26,El núcleo común (no prestigio); Nueva gramática de la RAE,,
+análisis,Part I · Mapa,Las dos escalas de marcado,6,2027-01-28,"Tipológico vs. interno/área; perfil del español (sujeto nulo, subjuntivo, cliticos) — T1 #2",./planes/plan-06-escalas.html,
+lectura,Unidad A,Expresión del sujeto: parámetro,7,2027-02-02,Rappel del kit; parámetro pro-drop y su rango tipológico,,./diapositivas/diap-07-unidadA.html
+análisis,Unidad A,Baseline pan-hispano,8,2027-02-04,Qué hace al español una lengua de sujeto nulo,,
+análisis,Unidad A,El continuo pro-drop,9,2027-02-09,Caribe (sujeto overt alto) → Peninsular → Andino (retención) — T4,,
+análisis,Unidad A,Datos reales I,10,2027-02-11,Distribuciones de sujeto overt (app Tier-1),,
+análisis,Unidad A,Datos reales II: tipo vs. frecuencia,11,2027-02-16,¿Cambio de tipo o de frecuencia? criterios de decisión — T2A,./planes/plan-11-sujeto-datos.html,
+debate,Unidad A,Información estructura,12,2027-02-18,Orden de palabras y periferia izquierda,,
+debate,Unidad A,Síntesis A,13,2027-02-23,¿Puede un dialecto cambiar su perfil tipológico? — T1 #3,,
+lectura,Unidad B,El subjuntivo es raro,14,2027-02-25,Rappel del kit; marcado del irrealis,,./diapositivas/diap-14-unidadB.html
+análisis,Unidad B,Colapso en Guinea Ecuatorial,15,2027-03-02,"Indicativo/subjuntivo (Lipski): outcomes, no teoría",,
+análisis,Unidad B,Pérdida en patrimonio LA,16,2027-03-04,Pérdida gradual del modo (Silva-Corvalán 1994) — T4,,
+análisis,Unidad B,Realidad monolingüe,17,2027-03-16,Variación cross-dialect (Gal 2019) como contraste — T1 #4,,
+análisis,Unidad B,Datos reales: modo,18,2027-03-18,Distribuciones de modo + diagnóstico en disputa — T2B,./planes/plan-18-subjuntivo-datos.html,
+debate,Unidad B,Desacuerdo experto,19,2027-03-23,Pérdida vs. renegociación: dónde discrepan y por qué,,
+debate,Unidad B,Puente a C: dirección del cambio,20,2027-03-25,Hacia o lejos de los universales — T5 descriptivo/prescriptivo,,
+lectura,Unidad C,Tipología del contacto,21,2027-03-30,Rappel; restructuración / sustrato / criollización,,./diapositivas/diap-21-unidadC.html
+análisis,Unidad C,Casos de contacto,22,2027-04-01,Quechua→andino · Guaraní→paraguayo · español EE.UU. · bozal/Pichi — T1 #5,,
+debate,Unidad C,GenAI como agregado,23,2027-04-06,La salida del modelo: ¿un dato o la norma? — T6,./planes/plan-23-genai.html,
+debate,Unidad C,Lengua vs. dialecto,24,2027-04-08,Abstand/Ausbau; ideología lingüística,,
+análisis,Unidad C,Síntesis C,25,2027-04-13,Modo + vos/vosotros + cliticos; poblaciones marginadas (3.2.3) — T1 #6,./planes/plan-25-sintesis-c.html,
+análisis,Capstone,Taller de la defensa,26,2027-04-15,Elegir pregunta abierta; evidencia; estructura — T1 #7,,
+presentacional,Capstone,Escritura de la defensa,27,2027-04-20,Tesis + evidencia + positionality (propia variedad como dato),./planes/plan-27-defensa.html,./diapositivas/diap-27-capstone.html
+presentacional,Capstone,Entrega y simulacro,28,2027-04-22,Ensayo entregado; preparación de la defensa oral — T3 escrito,,

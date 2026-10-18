@@ -12,18 +12,13 @@ execute:
 #| label: setup
 #| echo: false
 
-library(googlesheets4)
+# Schedule is rendered directly from the canonical CSV (D2: no Google Sheet).
+# `scripts/calendario/sync-schedule.R` + `schedule-config.R` are retained but unused.
+library(readr)
 library(gt)
 library(tidyverse)
-source("scripts/calendario/schedule-config.R")
-gs4_deauth()
 
-sheet <-
-  read_sheet(
-    schedule_config$workbook,
-    sheet = schedule_config$target_tab,
-    range = "A:I"
-  )
+sheet <- read_csv("_data/horario.csv", show_col_types = FALSE)
 ```
 
 
@@ -76,9 +71,10 @@ sheet2 |>
   ) |>
   text_transform(cells_body(columns = c(Objetivo)), fn = function(x) {
     case_when(
-      x == "interpretive" ~ as.character(fontawesome::fa("video")),
-      x == "interpersonal" ~ as.character(fontawesome::fa("comments")),
-      x == "presentational" ~ as.character(fontawesome::fa("share-nodes")),
+      x == "análisis" ~ as.character(fontawesome::fa("table-cells-large")),
+      x == "lectura" ~ as.character(fontawesome::fa("book-open")),
+      x == "debate" ~ as.character(fontawesome::fa("comments")),
+      x == "presentacional" ~ as.character(fontawesome::fa("share-nodes")),
       x == "assessment" ~ as.character(fontawesome::fa("file-pen")),
       x %in% c("info", "administración") ~ as.character(fontawesome::fa("info-circle")),
       TRUE ~ ""
@@ -109,8 +105,9 @@ sheet2 |>
 
 ### Leyenda
 
-{{< fa info-circle >}} = Información \
-{{< fa video >}} = Interpretativo \
-{{< fa comments >}} = Interpersonal \
+{{< fa table-cells-large >}} = Análisis (datos) \
+{{< fa book-open >}} = Lectura \
+{{< fa comments >}} = Debate \
 {{< fa share-nodes >}} = Presentacional \
-{{< fa file-pen >}} = Evaluación
+{{< fa file-pen >}} = Evaluación \
+{{< fa info-circle >}} = Información

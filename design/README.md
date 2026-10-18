@@ -1,18 +1,22 @@
 # SPA 379: Seminar in Hispanic Linguistics
 
-> Title: TBD
+> Title: El español en perspectiva tipológica: universales, variación y contacto *(working)*
 > Semester: Spring 2027
 > Meeting:
-> - Dates: Tuesay and Thursday
+> - Dates: Tuesday and Thursday
 > - Time: 75 minutes
+> - Credits: 3 credit-hours
 > Classes:
-> - Start:
-> - End:
+> - Start: 2027-01-12 (Tue)
+> - End: 2027-04-22 (Thu) — 28 sessions
+> - Break: 2027-03-08 – 03-12 (no classes; resume 03-16)
+> - Final block: 2027-04-28 – 05-05 (**optional**; T3 capstone oral defense in Spanish — no written final exam required)
 
 # Core
 
 ## Spanish Student Learning Outcomes (SLOs)
 
+> Full rubric criteria and the course-band assessment-site map live in the [Department SLO doc](./documents/spa-dept-learning-outcomes.md). Reporting is **pooled across courses**; this seminar covers the SLOs mapped to the SPA 370–389 linguistics band. Target vs. reinforcing split is set below and formalized in [Stage 1](./01-stage1-desired-results.md).
 
 ## Seminar in Hispanic Linguistics
 
@@ -34,21 +38,22 @@ Our department has developed a set of [Student Learning Outcomes (SLOs)](./docum
 
 **Target SLOs**
 
+> Corrected against [SLO doc](./documents/spa-dept-learning-outcomes.md). Department reporting is **pooled across courses**; a seminar covers the SLOs mapped to its band (SPA 370–389 linguistics seminars). See [Stage 1 — SLO map](./01-stage1-desired-results.md).
 
-| Outcomes | Sub outcomes |
-| :---- | :---- |
-|  | (C) **(Reflect)** …reflect on their experiences with products in Spanish-speaking cultures to recognize their cultural assumptions and suspend judgment |
-| SLO 3: **Language Analysis** *Upon completion of the Spanish major students will be able to  **analyze and contextualize language variation across the Spanish-speaking world.*** | (A) (**Analyze)** …analyze language samples by applying knowledge of linguistic systems and language acquisition. |
-|  | (B) **(Contextualize)** …apply knowledge of language variation to identify differences of dialect, sociolect, and register across time, regions, cultures and communities, including historically marginalized populations. |
-|  | (C) **(Reflect)** …reflect on their experiences using Spanish to interact with people from Spanish-speaking communities to evaluate progress and identify areas for improvement |
-
+| Outcomes | Sub outcomes | Why here |
+| :---- | :---- | :---- |
+| SLO 3: **Language Analysis** *Upon completion of the Spanish major students will be able to **analyze and contextualize language variation across the Spanish-speaking world.*** | (B) **(Contextualize)** …apply knowledge of language variation to identify differences of dialect, sociolect, and register across time, regions, cultures and communities, including historically marginalized populations. | **CORE.** 3.2.1–3.2.3 are the designated evidence for this band; 3.2.3 names a *typologically frequent* process. |
+| SLO 1: **Language Proficiency** *…communicate effectively in Spanish… (Advanced Low is the major's exit floor; seminar enrollees run Advanced Mid–High).* | (A) **(Interpretive)** …restate the main thesis and identify supporting evidence in complex informational texts (1.1.4–1.1.5). | Mapped to SPA 370–389; served natively by Spanish-medium custom readings. |
+|  | (C) **(Presentational)** …produce detailed and organized presentations on familiar and unfamiliar concrete topics, in paragraphs, across time frames, spoken and written (1.3.4–1.3.6). | Mapped to SPA 330–389; Spanish argumentative defense, carries the folded positionality reflection. |
+| SLO 3 (added — pooled) | (A) **(Analyze)** …differentiate descriptive vs. prescriptive statements (3.1.4), and analyze syntactic function in real variation data (3.1.3). | 3.1's primary site is SPA 320; pooled reporting lets this seminar contribute the artifact that **breaks the depth ceiling**. |
 
 ### Reinforcing SLOs:
 
-
 | Outcomes | Sub outcomes |
 | :---- | :---- |
-| SLO 1: **Language Proficiency** *Upon completion of the Spanish major, students will be able to  **communicate effectively in Spanish in a variety of contexts according to ACTFL criteria for Advanced Low level.*** |(C) **(Presentational communication)** …produce detailed and organized presentations on familiar as well as unfamiliar concrete topics, in paragraphs and using various time frames through spoken and written language. |
+| SLO 3: **Language Analysis** | (A) **(Analyze)** …analyze language samples by applying knowledge of linguistic systems and language acquisition — *introduced/assessed at SPA 320; deepened here, not the primary report.* |
+|  | (C) **(Reflect)** …reflect on experiences using Spanish to interact with people from Spanish-speaking communities — *assessed in OPE courses; reinforced here through the critical-linguist disposition, not reported as 3.3.* |
+| SLO 2: **Cultural Analysis** | 2.3 (Reflect) …suspend judgment on cultural products — *overlaps the disposition; assessed at SPA 396 Assessment Day; the previously mis-pasted row here has been removed from the SLO-3 table.* |
 
 
 # Context
@@ -149,6 +154,13 @@ What is missing from – and could complement – the language/Hispanic-linguist
 # Proposal
 
 > STATUS: Early-stage brainstorm, not a finished proposal. The content below is a set of *starting questions and candidate directions* to be fed into a formal backwards-design process (goals → evidence → learning activities → sequence). Do not read the arc, readings, or assessments as decided. They are placeholders to argue with.
+>
+> **Stage 1 (Desired Results) is LOCKED → [./01-stage1-desired-results.md](./01-stage1-desired-results.md).** It carries the locked decisions: transfer = *think like a critical linguist*; language of instruction = **Spanish**; recruitment = broad anchor **with full supports**; triage = **A + B deep, C synthesis**; and the corrected SLO map (core = 3.2; + 1.1/1.3 mapped to this band; 3.1.4 [+3.1.3] contributed via pooled reporting; 3.3 supported-not-measured; 2.3 not relevant).
+
+> **Artifact separation (single source of truth).** Two layers, deliberately not duplicated:
+> - **`design/`** = *planning* rationale & the UbD spine (Stage 1 `01-…`, Stage 2 `02-…`, Stage 3 `03-…`). Internal, instructor-facing; may use English for design clarity.
+> - **site `planes/`, `diapositivas/`, `materiales/`, `actividades/`** = *delivery*, **student-facing, in Spanish**. Each lesson plan is a **rendering of the Stage 3 session map**, not a copy of the design rationale. The design docs drive them; they do not fork.
+> - Rule to avoid drift: content lives once in delivery dirs; `design/` holds only goals/evidence/rationale + the session *map*. The `_data/horario.csv` + Stage 3 map are the join between the two. See [PLAN.md](../PLAN.md).
 
 **Working title (tentative):** Spanish in Typological Perspective: Universals, Variation, and Contact
 
@@ -254,9 +266,9 @@ Repeating unit template – the anti-"two-halves" mechanism. Each unit re-invoke
 - **Part I time budget** – keep it lean or it becomes a mini-methods course; teach method through one worked micro-example, not abstraction.
 - **Reconcile the two markedness stories** – Module 1 frames marked = rare = erodes; Part II reframes the *eroded* outcome as typologically *normal* (pan-Hispanic is the marked state holding it back). Present these as the same phenomenon read on two scales, not a contradiction – a real design decision for the formal doc.
 - **Textbook/reading sourcing** – no ready Hispanic-linguistics-typology hybrid; readings are custom.
-- **OPE / SLO 1C** – theoretical/comparative ≠ Advanced-Low speaking; a Spanish-oral assessment must be built in, not assumed.
+- **OPE / SLO** – theoretical/comparative ≠ Advanced-Low speaking; a Spanish-oral assessment must be built in, not assumed. **Update:** the seminar is Spanish-medium, so presentational (SLO 1.3) + interpretive (1.1) evidence are native to it; 3.3 (reflect) is *supported but measured in OPE*, not here.
 - **Not a 370 replacement** – typology is synchronic/comparative; diachrony arrives only via the leveling/grammaticalization mechanism modules. Flag for the concentration/sequence planning.
-- **Cross-listing** – decide relationship with the LIN department (comparative syntax, typology) vs. keeping it a Spanish-major course.
+- **Cross-listing** – **RESOLVED (D5 = SPA-only):** no LIN cross-list. Kept a Spanish-major/minor course; Spanish-medium + Spanish-first readings (see [PLAN.md](../PLAN.md) and [Stage 1](./01-stage1-desired-results.md)).
 - **Convergence framing** – the Part II "toward/away from typological universals" thread partly *reverses* the Part I premise (Spanish's *retention* of null-subjunctive is the marked global state, so erosion = convergence to the norm). Verify this is consistent across units rather than a subjunctive-only quirk, and keep it a question-to-test, not a thesis-to-defend.
 
 ## Candidate readings / sources (provisional; verify before use)

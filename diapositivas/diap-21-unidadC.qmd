@@ -1,0 +1,41 @@
+---
+title: "Unidad C — Tipología del contacto"
+subtitle: "SPA 379 · S21–S25 (síntesis)"
+categories: [Unidad C]
+date: 2027-03-30
+---
+
+## Calentamiento {.smaller}
+
+- Rappel del kit. "Una lengua es un dialecto con ejército y marina."
+- ¿Puede el **contacto** cambiar un **perfil tipológico**? ¿En qué difiere de un cambio "normal"?
+
+## Bosquejo
+
+- Reestructuración · sustrato · criollización (S21)
+- Casos (S22): quechua→andino · guaraní→paraguayo · español EE.UU. · bozal/Pichi
+- **GenAI como agregado** (S23) · **T6**
+- Lengua vs. dialecto (S24): Abstand/Ausbau + ideología
+- **Síntesis** (S25)
+
+## Los casos
+
+- Sustrato y contacto moviendo forma y función.
+- Aquí **aterrizamos SLO 3.2.3**: poblaciones históricamente marginadas (bozal/Pichi, variedades de sustrato).
+
+## GenAI como agregado (S23)
+
+- La salida del modelo = una **muestra agregada** de su corpus de entrenamiento, no "el español".
+- ¿Qué variedad/registro **aplanó** o **estereotipó**?
+- **Núcleo no delegable:** interpretas el **dato real antes** de consultar el modelo. → problema de **muestreo (U5)**.
+
+## Lengua vs. dialecto (S24)
+
+- **Abstand** (distancia lingüística) / **Ausbau** (construcción institucional).
+- Criterios de decisión: ¿qué contaría como "tipo distinto" vs. "frecuencia distinta"? → método, no "vibra".
+
+## Síntesis del arco (S25)
+
+- **Modo + vos/vosotros + cliticos** en un solo marco.
+- Pregunta de convergencia: ¿**hacia o lejos** de los universales? Contracorrientes: **sesgo de selección** vs. **arrastre del sustrato** (areal ≠ global).
+- Tres hilos (A sujeto · B modo · C contacto) → un solo cuadro.

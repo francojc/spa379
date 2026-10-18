@@ -11,9 +11,10 @@ execute:
   message: false
   warning: false
 website:
-  title: "Título del curso"
-  site-url: https://username.github.io/course-slug/
-  description: "Recursos del curso"
+  title: "SPA 379 · El español en perspectiva tipológica"
+  site-url: https://francojc.github.io/spa379/
+  description: "Seminario de lingüística hispánica: tipología, variación y contacto del español (WFU, Spring 2027)."
+  open-graph: true
   search:
     location: navbar
     type: overlay
@@ -21,14 +22,14 @@ website:
     left:
       - index.qmd
       - horario.qmd
-      - text: '<i class="fa-solid fa-dumbbell" aria-hidden="true"></i> Práctica'
+      - text: "<i class='fa-solid fa-book-open' aria-hidden='true'></i> Contenido"
         menu:
-          - text: Todas las prácticas
-            href: practica.qmd
+          - planes.qmd
+          - diapositivas.qmd
+          - gramatica.qmd
+          - materiales.qmd
+          - actividades.qmd
     right:
-      - pronunciacion.qmd
-      - discurso.qmd
-      - gramatica.qmd
       - strategies.qmd
 format:
   html:

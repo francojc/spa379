@@ -1,0 +1,51 @@
+---
+title: "S23 · GenAI como agregado: ¿un dato o la norma? (T6)"
+description: |
+    Actividad DISCRETA (no recurrente). El español de un modelo de IA es un agregado sobre su corpus de entrenamiento. Los estudiantes juzgan si ese agregado refleja el uso real del español y conectan la distorsión con el problema de muestreo.
+categories: [Unidad C, genai, T6, ideologia]
+date: 2027-04-06
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Tratar** la salida de un modelo generativo como una **muestra agregada** de su corpus de entrenamiento, NO como "el español".
+- **Detectar** al menos una variedad / dialecto / registro que el modelo **aplanó, borró o estereotipó** (p. ej., *vos*, aspiración, *ustedes* vs. *vosotros*, sustrato andino).
+- **Contrastar** esa representación con **evidencia real** (la app/dataset de Unidad A o C).
+- **Vincular** la distorsión con el **problema del muestreo / comparabilidad (U5)** y con la ideología (¿a quién se trata como normativo?).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- Trae **una pregunta** descriptiva sobre una variedad concreta (p. ej., "¿cómo se conjuga con *vos* en un texto formal?").
+- Revisa la tabla-dato real asignada (unidad A o C).
+
+#### Después de clase
+
+- Entrega **T6** (guía de 3 movimientos). Rúbrica R-T6 (pass/fail en los tres movimientos + 1 ejemplo concreto).
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** ¿"la norma" o "un dato"? la pregunta del curso en versión 2027.
+- **Entrada (15):** qué es un agregado estadístico; por qué un LLM "confla" variedades y prefiere la más representada.
+- **Taller (35):** **Núcleo no delegable — primero el dato real.** Pasos: (1) interpretan la distribución REAL del rasgo; (2) consultan el modelo con su pregunta; (3) señalan dónde difiere y qué variedad desapareció; (4) lo explican por sesgo de muestreo, no por "el modelo está mal".
+- **Plenaria (15):** compartimos casos; discutimos quién se vuelve "autoridad" normativa.
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **T6 ENTREGABLE** (10% con T5). Uso de IA aquí es **el objeto de análisis**, no una ayuda para producir tu idea. Política de IA en el programa (§V): declarabilidad + no-delegabilidad.
+- Optional (herramienta): puedes usar IA para *visualizar* tu análisis, con declaración. No sustituye tu interpretación.

@@ -1,6 +1,6 @@
 ---
 title: "{{< fa handshake >}} Programa"
-subtitle: "{{< var course.title >}}: {{< var course.description >}}"
+subtitle: "{{< var course.title >}}"
 date: today
 language:
   title-block-published: "Actualizado"
@@ -10,47 +10,83 @@ language:
 
 ![]({{< var instructor.photo >}}){style="float: right; margin-right: 1em;" width="150px"}
 
-Profesor: {{< var instructor.name >}} \
+{{< var instructor.name >}} · {{< var instructor.title >}} \
 Correo electrónico: {{< var instructor.email >}} \
 Oficina: {{< var instructor.office >}} \
-Horas de consulta y citas: <a href='{{< var instructor.appointment_url >}}' target="_blank">{{< fa calendar >}}</a>
+Citas: <a href='{{< var instructor.appointment_url >}}' target="_blank">{{< fa calendar >}}</a> \
+**{{< var course.number >}}** · {{< var course.meeting_time >}} · {{< var course.institute >}}, Wake Forest University
 
 ## I. Descripción del curso
 
-<!-- Reemplazar: descripción general del curso, objetivos de aprendizaje, nivel, enfoque pedagógico -->
+**¿Hay un solo español "correcto"? ¿O tu español es, simplemente, un dato más?**
+
+Este seminario usa la **tipología lingüística como una lente** sobre la variación del español. No es un recorrido por las lenguas del mundo, sino una pregunta que guía todo el curso: *¿se diferencian tipológicamente las variedades del español, o solo en la superficie?* Aprendemos a **pensar como lingüistas críticos**: observar cómo varía realmente el español, explicarlo con cuentas lingüísticas comprobables (no con juicios de "correcto/incorrecto"), interrogar las categorías que usamos para describirlo (lengua, dialecto, tipo, norma) y reflexionar sobre nuestra propia posición dentro de esa variación.
+
+Construimos primero el **kit conceptual y metodológico** de la tipología (muestreo, comparabilidad, marcado, universales estadísticos) y luego lo aplicamos al español en tres unidades: el **orden de palabras y la expresión del sujeto** (el continuo *pro*-drop), el **modo y el subjuntivo** (su marcado tipológico y su erosión en contacto), y la **tipología del contacto** (quechua→andino, guaraní→paraguayo, español de EE. UU., bozal/Pichi), que sintetiza todo. La evidencia es real pero **pre-procesada**: **interpretamos distribuciones**, no programamos. Todo el curso se imparte **en español**.
+
+> **Prerrequisito:** SPA 320 (Introducción a la Lingüística Hispánica). No se asume profundidad previa en sintaxis: el curso abre preguntas y las explora con datos.
 
 ## II. Objetivos de aprendizaje
 
-<!-- Reemplazar: lista de objetivos alineados con estándares (p. ej., ACTFL, CEFR, u otros) -->
+Al terminar el curso, podrás **actuar como lingüista crítico sobre el español, en español**:
+
+**Transferencia (lo que harás de forma autónoma en contextos nuevos):**
+- Observar variación real del español y **explicarla con una cuenta lingüística comprobable**, no con un veredicto prescriptivo.
+- **Interrogar las categorías** de análisis: qué cuenta como "una lengua", "la norma", "un tipo", "correcto".
+- **Sopesar evidencia y desacuerdo experto** sin exigir un veredicto cerrado.
+- **Reflexionar sobre tu propia variedad como dato**, no como el punto de neutro.
+
+**Comprensiones perdurables (las ideas grandes):** las categorías lingüísticas son decisiones analíticas; la variación es sistemática y gobernada por reglas; comparar exige una **línea base y una escala** (marcado **tipológico** vs. **interno/área**, sin confundirlos); los universales son **tendencias estadísticas en un continuo**; toda comparación está **limitada por el método** (muestreo, comparabilidad, areal vs. genealógico vs. funcional); bajo variación y contacto, una estructura marcada se puede **renegociar**, moviendo una variedad **hacia o lejos** de lo tipológicamente común.
+
+**Alineación con los resultados del departamento (SLO):** este seminario trabaja activamente y evalúa:
+- **SLO 3.2 Contextualizar** (núcleo): contrastar variedades con terminología; conectar la forma con hablante, contacto y procesos **tipológicamente frecuentes**, incluidas poblaciones históricamente marginadas.
+- **SLO 1.1 Interpretar** y **1.3 Presentar** (en español): comprender textos académicos en español y defender interpretaciones orales/escritas.
+- **SLO 3.1** (p. ej., 3.1.4 descriptivo vs. prescriptivo) se profundiza aquí como evidencia adicional. *(3.3 se apoya, pero lo mide el programa OPE.)*
 
 ## III. Materiales
 
-Libro de texto:
-
-- <!-- Reemplazar: cita del libro de texto con enlace -->
-- <!-- Reemplazar: enlace al cuaderno electrónico u otro recurso complementario requerido -->
-
-Sitio: [Canvas]({{< var canvas.course >}})
+- **Lecturas:** no hay libro único. Se usa un **banco de lecturas *Spanish-first*** (en español siempre que existe; en inglés solo fuentes sin equivalente), con presentaciones propias del curso. Se anuncia cada lectura en su plan de clase.
+- **Herramientas de datos:** aplicaciones interactivas (Tier-1) sobre corpus y bases tipológicas (p. ej., WALS/languatypologies) y conjuntos de datos pre-procesados para interpretar.
+- **Glosario bilingüe** de términos clave (página del curso) y **tarjetas de frases** para la discusión académica en español.
+- **Este sitio:** [Canvas]({{< var canvas.course >}}) · [Horario]({{< var course.schedule >}})
 
 ## IV. Evaluación
 
-<!-- Reemplazar: tabla de componentes de evaluación con porcentajes y descripciones -->
+| Componente | Evidencia | % | Tipo |
+| :-- | :-- | :-- | :-- |
+| **Cuaderno de evidencia** | T1 — entradas breves y frecuentes (ambas escalas de marcado; problema de muestreo; "¿qué evidencia resolvería esto?") | **20%** | formativa (se cuentan las mejores N) |
+| **Análisis contextualizados** | T2 (×2) — interpretar datos reales; colocar variedades; tipo vs. frecuencia (SLO 3.2) | **30%** | sumativa |
+| **Defensa interpretativa (capstone)** | T3 — construir y **defender en español** una interpretación con evidencia; **defensa oral** en el bloque final | **30%** | sumativa |
+| **GenAI + ítem descriptivo/prescriptivo** | T6 + T5 — auditar el español de un modelo; cuenta descriptiva (SLO 3.1.4) | **10%** | sumativa (guiada) |
+| **Lectura + participación** | T4 — comprensión de textos informativos; discusión (modelo de participación **ampliada**) | **10%** | formativa |
 
-| Componente | % | Descripción |
-|------------|---|-------------|
-| <!-- Agregar fila --> | | |
+> **Nota sobre la disposición:** el objetivo del curso es una **habitud de pensamiento**, así que la calificación premia el **razonamiento repetido** (cuaderno + análisis + defensa), no la memoria de definiciones.
 
 **Políticas:**
-
-- **Trabajos tardíos:** <!-- Reemplazar -->
-- **Asistencia:** <!-- Reemplazar -->
+- **Trabajos tardíos:** se espera entrega a tiempo; el cuaderno de evidencia usa la regla "mejores N" para dar margen. Coordina con anticipación lo excepcional.
+- **Asistencia/participación:** la participación incluye escucha activa, preguntas aclaratorias y contribuciones reflexivas (en clase y en el foro), no solo hablar en voz alta.
+- **Piso de proficiencia (SLO 1.3):** la defensa oral debe alcanzar los criterios 1.3.4–6 del departamento. Los apoyos (tarjetas de frases, borradores, T6 opcional) amplían el acceso, **no bajan el estándar**.
 
 ## V. Información adicional
 
 ### Código de honor
-
-<!-- Reemplazar: política de honestidad académica de la institución -->
+<!-- TODO: insertar política institucional de honestidad académica de WFU. -->
+Se requiere trabajo propio en el núcleo evaluado de cada tarea. Consulta la política de integridad académica de la universidad y declara cualquier uso de apoyo externo según la política de IA de abajo.
 
 ### Accesibilidad
+<!-- TODO: enlace y contacto del centro de adaptaciones de WFU. -->
+Si necesitas adaptaciones, contáctame y al centro de servicios de accesibilidad; coordinaremos para que puedas demostrar los resultados del curso.
 
-<!-- Reemplazar: política de adaptaciones y contacto del centro de discapacidad -->
+### Política sobre IA (roles, por tarea)
+
+La IA **no sustituye** tu desempeño demostrado. Distingo tres roles y qué está permitido en cada tarea (núcleo no delegable en **negritas**):
+
+| Rol | Qué es | Regla |
+| :-- | :-- | :-- |
+| **IA como objeto de análisis** | Auditar el español del modelo (actividad T6) | **Permitida y esperada** en T6. **No delegable:** interpretas los datos reales **antes** de consultar el modelo. |
+| **IA como herramienta** | Apoyarte a construir/visualizar un análisis o comunicar hallazgos | **Permitida** (Tier-2/3) con **declaración** de cómo la usaste. No reemplaza tu interpretación ni tu tesis. |
+| **IA como infraestructura** | El/la docente la usó para construir este sitio y las herramientas | Solo contexto; no es una tarea tuya. |
+
+- **Prohibido** para T1, T2, T3 (escrito y oral): usar un LLM para **producir tu análisis, tu tesis o tu defensa**. El razonamiento y la postura defendida deben ser tuyos.
+- En **T4** (lectura): primero interpretas el texto por tu cuenta; después puedes comparar con un resumen automático si quieres — el resumen **no sustituye** tu interpretación inicial.
+- Declara cualquier uso (qué herramienta, para qué). Ante la duda, pregunta. *(Alineado con los documentos de IA del departamento.)*

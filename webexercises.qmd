@@ -3,6 +3,7 @@ title: "Webexercises"
 ---
 
 ```{r, echo = FALSE, results='asis'}
+library(webexercises)
 knitr::opts_chunk$set(echo = FALSE)
 
 # Uncomment to change widget colours:

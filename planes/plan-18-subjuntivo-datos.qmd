@@ -1,0 +1,50 @@
+---
+title: "S18 · Datos reales: el subjuntivo bajo contacto (T2B)"
+description: |
+    Corazón de la Unidad B. Distribuciones de modo y el diagnóstico EN DISPUTA: ¿pérdida del subjuntivo o renegociación forma-función? Enseñamos a pesar la evidencia, no a dar el veredicto.
+categories: [Unidad B, datos, T2]
+date: 2027-03-18
+---
+
+## {{< fa bullseye >}} Objetivos
+
+::: {.plan}
+
+- **Comparar** los *outcomes* (no la teoría): colapso indicativo/subjuntivo en Guinea Ecuatorial (Lipski) vs. pérdida gradual en patrimonio LA (Silva-Corvalán 1994) vs. variación monolingüe (Gal 2019).
+- **Interpretar** distribuciones de uso de modo (Tier-1) y **distinguir** "pérdida" de "renegociación" con evidencia.
+- **Argumentar** por qué NO presentamos la "pérdida del subjuntivo" como hecho cerrado.
+- **Aplicar** la escala tipológica: si el modo es marcado en el mundo, ¿se erosiona primero en contacto? (pregunta, no tesis).
+
+:::
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+- **S15–S17** vistos; lecturas (Gal 2019 *Spanish in Context* en español; Lipski; Silva-Corvalán 1994 en inglés — fuente sin equivalente).
+- T1 #4 entregado (S17).
+
+#### Después de clase
+
+- Entrega **T2B**. Rubrica R-T2 (3.2.1–3, foco 3.2.3 proceso tipológicamente frecuente).
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### En clase (75 min)
+
+- **Arranque (10):** rappel: marcado del irrealis (S14). ¿Qué escala usamos? (tipológica = el subjuntivo es raro en el mundo).
+- **Entrada (15):** ponemos las tres fuentes UNO al lado del otro: mismo "objeto", distinto diagnóstico.
+- **Taller (35):** en parejas, leen las distribuciones de modo; completan T2B: ¿los datos de una variedad favorecen pérdida o renegociación? ¿qué evidencia inclinaría la balanza?
+- **Plenaria (15):** *dónde* discrepan los expertos y *por qué* — modelamos el peso de la evidencia (U7).
+
+:::
+
+## {{< fa medal >}} Aplicaciones
+
+- **T2B ENTREGABLE.** Buen momento para el ítem **T5 (descriptivo vs. prescriptivo, SLO 3.1.4)** en S20: "deja de existir el subjuntivo" es prescriptivo; la cuenta descriptiva describe re-distribución funcional.

@@ -1,0 +1,28 @@
+---
+title: "Contacto y reestructuración tipológica"
+subtitle: "Unidad C"
+description: |
+    Referencia de Unidad C: sustrato, restructuración, criollización y la pregunta de convergencia/divergencia. Sintetiza A y B.
+categories: [sociolingüística, contacto, tipología]
+date: 2027-03-30
+---
+
+## Descripción
+
+El **contacto lingüístico** (bilingüismo, sustrato, transmisión no nativa, situaciones de poder) puede reorganizar forma y función. Pregunta de la unidad: ¿puede el contacto mover el **perfil tipológico** de una variedad, y en qué se diferencia de un cambio "interno"?
+
+## Explicación
+
+- **Mecanismos:** transferencia de **sustrato**, reestructuración calca, simplificación morfosintáctica, **criollización** (gramática nueva a partir de contacto intenso).
+- **Casos del español:** quechua→**español andino**; guaraní→**español paraguayo**; **español de EE.UU.** (contacto inglés, patrimonio); **bozal/Pichi** (AFro-hispánico, situaciones de trata y plantación) — *aquí vive SLO 3.2.3: poblaciones históricamente marginadas.*
+- **Lengua vs. dialecto:** **Abstand** (distancia estructural real) / **Ausbau** (estatus institucional — "un ejército y una marina"). Criterios explícitos para decidir "tipo distinto" vs. "frecuencia distinta".
+- **Convergencia — con contracorriente:** una variedad "desviada" puede moverse **hacia** lo tipológicamente común (sujeto expreso, pérdida de modo) o **hacia un perfil AREAL** marcado por el sustrato (rasgos andinos), **no** globalmente común.
+  - **Sesgo de selección:** notamos rasgos marcados que se erosionan; perdemos los que se **ganan**.
+  - **Arrastre del sustrato:** empuja hacia lo areal ≠ lo universal.
+- Tratamos esto como **tendencia a testear**, no ley (U6 + U5).
+
+## Actividades prácticas
+
+- [Actividad: ¿marcado tipológico o interno?](../actividades/act-marcado-tipologico.html)
+- Síntesis S25: pon **modo + vos/vosotros + cliticos** en un solo caso de contacto y decide tipo vs. frecuencia con criterio.
+- GenAI como agregado (**T6**, S23): ¿qué variedad aplanó el modelo?
