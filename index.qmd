@@ -18,7 +18,7 @@ Citas: <a href='{{< var instructor.appointment_url >}}' target="_blank">{{< fa c
 
 ## I. Descripción del curso
 
-**¿Hay un solo español "correcto"? ¿O cada variedad es, simplemente, un dato más?**
+**¿Qué hace que el español sea *ordinario* – y *extraordinario* – entre las lenguas del mundo?**
 
 Este seminario usa la **tipología lingüística como una lente** sobre la variación del español. No es un recorrido por las lenguas del mundo, sino una pregunta que guía todo el curso: *¿se diferencian tipológicamente las variedades del español, o solo en la superficie?* Aprendemos a **pensar como lingüistas críticos**: observar cómo varía realmente el español, explicarlo con cuentas lingüísticas comprobables (no con juicios de "correcto/incorrecto"), interrogar las categorías que usamos para describirlo (lengua, dialecto, tipo, norma) y reflexionar sobre nuestra propia posición dentro de esa variación.
 
@@ -31,14 +31,23 @@ Construimos primero el **kit conceptual y metodológico** de la tipología (mues
 Al terminar el curso, podrás **actuar como lingüista crítico sobre el español, en español**:
 
 **Transferencia (lo que harás de forma autónoma en contextos nuevos):**
+
 - Observar variación real del español y **explicarla con una cuenta lingüística comprobable**, no con un veredicto prescriptivo.
 - **Interrogar las categorías** de análisis: qué cuenta como "una lengua", "la norma", "un tipo", "correcto".
 - **Sopesar evidencia y desacuerdo experto** sin exigir un veredicto cerrado.
 - **Ver toda variedad —incluida la propia— como dato**, no como el punto neutro.
 
-**Comprensiones perdurables (las ideas grandes):** las categorías lingüísticas son decisiones analíticas; la variación es sistemática y gobernada por reglas; comparar exige una **línea base y una escala** (marcado **tipológico** vs. **interno/área**, sin confundirlos); los universales son **tendencias estadísticas en un continuo**; toda comparación está **limitada por el método** (muestreo, comparabilidad, areal vs. genealógico vs. funcional); bajo variación y contacto, una estructura marcada se puede **renegociar**, moviendo una variedad **hacia o lejos** de lo tipológicamente común.
+**Comprensiones perdurables (las ideas grandes):**
+
+- Las categorías lingüísticas son decisiones analíticas.
+- La variación es sistemática y gobernada por reglas.
+- Comparar exige una **línea base y una escala** (marcado **tipológico** vs. **interno/área**, sin confundirlos).
+- Los universales son **tendencias estadísticas en un continuo**.
+- Toda comparación está **limitada por el método** (muestreo, comparabilidad, areal vs. genealógico vs. funcional).
+- Bajo variación y contacto, una estructura marcada se puede **renegociar**, moviendo una variedad **hacia o lejos** de lo tipológicamente común.
 
 **Alineación con los resultados del departamento (SLO):** este seminario trabaja activamente y evalúa:
+
 - **SLO 3.2 Contextualizar** (núcleo): contrastar variedades con terminología; conectar la forma con hablante, contacto y procesos **tipológicamente frecuentes**, incluidas poblaciones históricamente marginadas.
 - **SLO 1.1 Interpretar** y **1.3 Presentar** (en español): comprender textos académicos en español y defender interpretaciones orales/escritas.
 - **SLO 3.1** (p. ej., 3.1.4 descriptivo vs. prescriptivo) se profundiza aquí como evidencia adicional. *(3.3 se apoya, pero lo mide el programa OPE.)*
@@ -63,6 +72,7 @@ Al terminar el curso, podrás **actuar como lingüista crítico sobre el españo
 > **Nota sobre la disposición:** el objetivo del curso es una **habitud de pensamiento**, así que la calificación premia el **razonamiento repetido** (cuaderno + análisis + defensa), no la memoria de definiciones.
 
 **Políticas:**
+
 - **Trabajos tardíos:** se espera entrega a tiempo; el cuaderno de evidencia usa la regla "mejores N" para dar margen. Coordina con anticipación lo excepcional.
 - **Asistencia/participación:** la participación incluye escucha activa, preguntas aclaratorias y contribuciones reflexivas (en clase y en el foro), no solo hablar en voz alta.
 - **Piso de proficiencia (SLO 1.3):** la defensa oral debe alcanzar los criterios 1.3.4–6 del departamento. Los apoyos (tarjetas de frases, borradores, T6 opcional) amplían el acceso, **no bajan el estándar**.
