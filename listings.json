@@ -1,0 +1,56 @@
+[
+  {
+    "listing": "/pronunciacion.html",
+    "items": []
+  },
+  {
+    "listing": "/planes.html",
+    "items": [
+      "/planes/plan-01-kit.html",
+      "/planes/plan-04-microejemplo.html",
+      "/planes/plan-06-escalas.html",
+      "/planes/plan-11-sujeto-datos.html",
+      "/planes/plan-18-subjuntivo-datos.html",
+      "/planes/plan-23-genai.html",
+      "/planes/plan-25-sintesis-c.html",
+      "/planes/plan-27-defensa.html"
+    ]
+  },
+  {
+    "listing": "/discurso.html",
+    "items": []
+  },
+  {
+    "listing": "/diapositivas.html",
+    "items": [
+      "/diapositivas/diap-01-part1.html",
+      "/diapositivas/diap-07-unidadA.html",
+      "/diapositivas/diap-14-unidadB.html",
+      "/diapositivas/diap-21-unidadC.html",
+      "/diapositivas/diap-27-capstone.html"
+    ]
+  },
+  {
+    "listing": "/actividades.html",
+    "items": [
+      "/actividades/act-marcado-tipologico.html"
+    ]
+  },
+  {
+    "listing": "/gramatica.html",
+    "items": [
+      "/gramatica/pro-drop.html",
+      "/gramatica/subjuntivo-modo.html",
+      "/gramatica/contacto-reestructuracion.html"
+    ]
+  },
+  {
+    "listing": "/materiales.html",
+    "items": [
+      "/materiales/genai-audit.html",
+      "/materiales/lecturas.html",
+      "/materiales/frases-para-discutir.html",
+      "/materiales/glosario.html"
+    ]
+  }
+]

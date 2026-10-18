@@ -1,0 +1,92 @@
+/* Reveal.js slide overrides */
+
+.reveal .slide blockquote {
+  border-left: 3px solid #aaa;
+  padding-left: 0.5em;
+}
+
+.border {
+  border: 2px solid #000;
+  border-radius: 7px;
+}
+
+.smallest {
+  font-size: .5em;
+}
+
+.reveal .slides section div.smaller {
+  font-size: 0.7em;
+}
+
+.precision-ladder {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.35em;
+  margin: 0.35em auto;
+  max-width: 1050px;
+  font-size: 0.65em;
+}
+
+.precision-ladder > div {
+  border-left: 0.45rem solid #777;
+  border-radius: 0.25rem;
+  background: rgba(255, 255, 255, 0.08);
+  padding: 0.3em 0.6em;
+  line-height: 1.15;
+  text-align: left;
+}
+
+.precision-ladder > div:nth-child(2) {
+  border-color: #b48c42;
+}
+
+.precision-ladder > div:nth-child(3) {
+  border-color: #4e8a82;
+}
+
+.precision-ladder > div:nth-child(4) {
+  border-color: #42affa;
+}
+
+.precision-takeaway {
+  color: #42affa;
+  font-size: 0.85em;
+  text-align: center;
+}
+
+/* table styles */
+.reveal table {
+  margin-left: 0;
+  margin-right: auto;
+  border-collapse: collapse;
+  width: 100%;  /* make tables full width by default */
+  border: 1px solid #444; /* add border to entire table */
+}
+
+.reveal th {
+  border-bottom: 2px solid #666;  /* thicker border for header */
+  border: 1px solid #444;
+}
+
+.reveal td {
+  border: 1px solid #444;  /* subtler borders for cells */
+}
+
+.reveal tr:last-child td {
+  border-bottom: 1px solid #444; /* ensure last row has bottom border */
+}
+
+/* optional class for tables that should not be full width */
+.reveal .narrow-table table {
+  width: auto;
+}
+
+.activity-box {
+  background-color: #f9f9f9;
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  padding: 1em 1em 0em 1em;
+  margin: 1em;
+}
+
+
