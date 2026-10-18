@@ -1,0 +1,31 @@
+author:
+
+instructor:
+  name:
+  name_short:
+  title:
+  email:
+  office:
+  appointment_url:
+  photo: assets/instructor.png
+  github:
+
+course:
+  title:
+  description:
+  sticker: assets/course-sticker.png
+  number:
+  semester:
+  year:
+  institute:
+  meeting_time:
+  meeting_location:
+  web:
+  schedule:
+  github:
+  textbook:
+
+# LMS links. Add keys as needed per course (e.g., canvas.quiz_01, canvas.assignment_01).
+# Reference from .qmd with: {{< var canvas.quiz_01 >}}
+canvas:
+  course:

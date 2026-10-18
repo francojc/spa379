@@ -1,0 +1,17 @@
+---
+title: "{{< fa chalkboard-user >}} Diapositivas"
+listing:
+  id: diapositivas-listing
+  contents: diapositivas
+  type: table
+  sort: "date"
+  sort-ui: false
+  filter-ui: false
+  categories: numbered
+  fields: [date, title, subtitle]
+page-layout: full
+title-block-banner: false
+---
+
+Las diapositivas de las clases se encuentran a continuación:
+

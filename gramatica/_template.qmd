@@ -1,0 +1,23 @@
+---
+title: "Título del artículo"
+description: |
+    ...
+categories: []
+date: today
+---
+
+## Descripción
+
+<!-- TODO: Descripción práctica del fenómeno -->
+
+
+## Explicación
+
+<!-- TODO: Ejemplos prácticos -->
+
+
+## Actividades prácticas
+
+<!-- TODO: Actividades prácticas (con {webexercises} package, description can be found here `./actividades/examples.qmd` and here `./_specs/04-support/technical/webexercises-reference.md``): -->
+
+

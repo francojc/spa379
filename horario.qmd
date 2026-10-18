@@ -1,0 +1,116 @@
+---
+title: "{{< fa calendar-check >}} Horario"
+toc: false
+execute:
+  freeze: false
+  always: true
+---
+
+> **Nota:** Este horario es **tentativo** y está sujeto a cambios.
+
+```{r}
+#| label: setup
+#| echo: false
+
+library(googlesheets4)
+library(gt)
+library(tidyverse)
+source("scripts/calendario/schedule-config.R")
+gs4_deauth()
+
+sheet <-
+  read_sheet(
+    schedule_config$workbook,
+    sheet = schedule_config$target_tab,
+    range = "A:I"
+  )
+```
+
+
+```{r}
+#| label: schedule
+#| echo: false
+
+sheet2 <- sheet %>%
+  mutate(
+    Objetivo = ifelse(is.na(Objetivo), "", Objetivo),
+    Fase = ifelse(is.na(Fase), "", Fase),
+    Día = ifelse(is.na(Día), "", Día),
+    Fecha = as.Date(Fecha, format = "%Y-%m-%d")
+  )
+
+sheet2 |>
+  gt(groupname_col = "Fase") |>
+  tab_style(
+    style = list(cell_text(weight = "bold")),
+    locations = cells_row_groups()
+  ) |>
+  cols_label(
+    Objetivo = "",
+  ) |>
+  cols_width(
+    Objetivo ~ pct(4),
+    Capítulo ~ pct(15),
+    Día ~ pct(3),
+    Fecha ~ pct(9),
+    Enfoque ~ pct(35),
+    Plan ~ pct(6),
+    Diapositiva ~ pct(6),
+  ) |>
+  # Alignment for better readability
+  cols_align(
+    align = "left",
+    columns = c(Capítulo, Enfoque)
+  ) |>
+  cols_align(
+    align = "right",
+    columns = c(Día, Fecha)
+  ) |>
+  cols_align(
+    align = "center",
+    columns = c(Plan, Diapositiva, Objetivo)
+  ) |>
+  tab_style(
+    style = list(cell_text(weight = "bold")),
+    locations = cells_row_groups()
+  ) |>
+  text_transform(cells_body(columns = c(Objetivo)), fn = function(x) {
+    case_when(
+      x == "interpretive" ~ as.character(fontawesome::fa("video")),
+      x == "interpersonal" ~ as.character(fontawesome::fa("comments")),
+      x == "presentational" ~ as.character(fontawesome::fa("share-nodes")),
+      x == "assessment" ~ as.character(fontawesome::fa("file-pen")),
+      x %in% c("info", "administración") ~ as.character(fontawesome::fa("info-circle")),
+      TRUE ~ ""
+    )
+  }) |>
+  text_transform(cells_body(columns = c(Plan)), fn = function(x) {
+    ifelse(
+      is.na(x),
+      fontawesome::fa("list-check", fill_opacity = 0.1),
+      glue::glue(
+        "<a href='{x}' target='_blank'>{fontawesome::fa('list-check')}</a>"
+      )
+    )
+  }) |>
+  text_transform(cells_body(columns = c(Diapositiva)), fn = function(x) {
+    ifelse(
+      is.na(x),
+      fontawesome::fa("person-chalkboard", fill_opacity = 0.1),
+      glue::glue(
+        "<a href='{x}' target='_blank'>{fontawesome::fa('person-chalkboard')}</a>"
+      )
+    )
+  }) |>
+  fmt_date(Fecha, date_style = "day_m", locale = "es") |>
+  sub_missing(columns = Fecha, missing_text = "") |>
+  tab_options(table.font.size = "14px")
+```
+
+### Leyenda
+
+{{< fa info-circle >}} = Información \
+{{< fa video >}} = Interpretativo \
+{{< fa comments >}} = Interpersonal \
+{{< fa share-nodes >}} = Presentacional \
+{{< fa file-pen >}} = Evaluación

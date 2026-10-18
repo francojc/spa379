@@ -1,0 +1,4 @@
+language:
+  title-block-published: 'Fecha'
+date-format: full
+page-navigation: true

@@ -1,0 +1,5 @@
+---
+title: Page Not Found
+---
+
+Lo sentimos, pero la página que estás buscando no existe. Por favor, verifica la URL o regresa a la [página principal](../index.html).

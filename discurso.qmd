@@ -1,0 +1,14 @@
+---
+title: "{{< fa right-left >}} Discurso"
+listing:
+  id: discurso-listing
+  contents: discurso
+  type: table
+  filter-ui: true
+  sort: "title"
+  fields: [title, description]
+page-layout: full
+title-block-banner: false
+---
+
+El discurso efectivo es esencial para la comunicación avanzada en cualquier idioma. El discurso se compone de los elementos, 'marcadores', que sirven para organizar y conectar ideas en presentaciones orales y escritas, facilitando la claridad, coherencia y persuasión.

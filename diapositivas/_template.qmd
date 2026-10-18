@@ -1,0 +1,42 @@
+---
+title: "Título"
+subtitle: "Subtítulo"
+categories: [categoría1, categoría2]
+date: 2025-08-25
+---
+
+## Calentamiento {.smaller}
+
+<!-- Aquí va el contenido del calentamiento -->
+
+## Bosquejo
+
+- [Evaluación diaria]({{< var canvas.eval_01 >}})
+- *[Presentación]({{< var course.schedule >}})*
+- ...
+
+## Objetivos
+
+
+::: {.columns}
+::: {.column width="75%"}
+- ...
+- ...
+- ...
+:::
+
+::: {.column width="25%"}
+
+...
+
+:::
+:::
+
+
+## Resumen
+
+
+# Algo más
+
+...
+

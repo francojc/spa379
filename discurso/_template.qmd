@@ -1,0 +1,18 @@
+---
+title: "Cap. [NÚMERO]: [TÍTULO]"
+description: |
+    Añadir descripción breve aquí
+categories: []
+---
+
+## {{< fa comment >}} Descripción
+
+## {{< fa table-list >}} Resumen y ejemplos
+
+<!--
+
+Actividades prácticas (en clase):
+
+
+
+-->

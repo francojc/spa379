@@ -1,0 +1,45 @@
+project:
+  type: website
+  preview:
+    port: 4323
+  render:
+    - "*.qmd"
+    - "!_data/*.pdf"
+    - "!_data/*.epub"
+execute:
+  freeze: auto
+  message: false
+  warning: false
+website:
+  title: "Título del curso"
+  site-url: https://username.github.io/course-slug/
+  description: "Recursos del curso"
+  search:
+    location: navbar
+    type: overlay
+  navbar:
+    left:
+      - index.qmd
+      - horario.qmd
+      - text: '<i class="fa-solid fa-dumbbell" aria-hidden="true"></i> Práctica'
+        menu:
+          - text: Todas las prácticas
+            href: practica.qmd
+    right:
+      - pronunciacion.qmd
+      - discurso.qmd
+      - gramatica.qmd
+      - strategies.qmd
+format:
+  html:
+    link-external-newwindow: true
+    theme:
+      light: cosmo
+      dark: darkly
+    css:
+      - styles.css
+      - include/webex.css
+    toc: true
+    toc-depth: 3
+    include-after-body: include/webex.js
+lang: es

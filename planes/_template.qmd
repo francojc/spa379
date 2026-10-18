@@ -1,0 +1,99 @@
+---
+title: "Añadir Título del Plan Aquí"
+description: |
+    Añadir descripción aquí
+categories: []
+image: ./images/plan-01-intro.png
+date: 2025-08-25
+---
+
+
+## {{< fa bullseye >}} Objetivos
+
+<!-- NOTE: this is where you add specific interpretive, interpersonal, or presentational objectives, cultural competency goals, and grammar/vocabulary targets. Be concise but targeted enough to provide clear guidance to students about what they should be able to do after completing the activities in this plan, no need to use the language of 'interpretive, interpersonal, etc.'. Opt for verbs from Bloom's Taxonomy of learning. Examples below. -->
+
+<!--
+
+- Identificar las ideas principales del documental «América Latina y el Caribe: Riqueza viva» y explicar las cinco historias presentadas
+- Emplear vocabulario ambiental específico (biodiversidad, sostenibilidad, conservación) en contextos auténticos de comunicación
+- Nombrar las letras ambiguas en español y realizar la pronunciación correcta de palabras clave del vocabulario ambiental
+
+-->
+
+::: {.plan}
+
+- Add specific interpretive, interpersonal, or presentational objectives here
+- Include cultural competency goals
+- Specify grammar/vocabulary targets
+
+:::
+
+
+## {{< fa baseball-bat-ball >}} Materiales
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+<!-- NOTE: this is where you add materials that students will need access to. These will either be links to online resources or files that you upload to the course files. Examples below. -->
+
+- add materials for before class here
+
+#### Después de clase
+
+<!-- NOTE: this is where you add materials that students will need access to after class. This is primarily for the slides ('Diapositivas') but could also include other resources like reflection prompts, additional readings, etc. Examples below. -->
+
+- add materials for after class here
+- [Diapositivas](../diapositivas/diap-XX.html) (replace XX with the appropriate number)
+
+:::
+
+## {{< fa person-running >}} Actividades
+
+::: {layout-ncol=2 .plan}
+
+#### Antes de clase
+
+<!-- NOTE: this is where you add activities that need to be completed before class. Be specific about time expectations, purpose of each activity, and any links to resources. Examples below.
+
+<!--
+
+Propósito: Preparar conocimientos lingüísticos y culturales mediante un proceso de observación activa y análisis estructurado.
+
+**1. Ejercicios de vocabulario en cuaderno electrónico (10 min)**
+- Completa los ejercicios de vocabulario en cuaderno electrónico para [tema].
+- Enfócate en la preparación básica del léxico necesario para la comprensión del documental.
+
+**2. Análisis de los medios con notas Cornell (35-40 min)**
+- Mira el documental/Lee la lectura/Escucha el audio tomando notas Cornell. La plantilla de notas Cornell está disponible en Canvas.
+
+-->
+
+- add activities for before class here
+
+
+#### En clase
+
+<!-- NOTE: this is NOT a place for lesson plans. Only add resources/links for in-class activities, computer required, other materials or preparation to bring to class, etc. -->
+
+- Llegar puntalmente y preparado para participar
+- Llegar con el cuaderno electrónico completado
+- Llegar con las notas Cornell completadas
+- Llegar con preguntas y comentarios sobre la lectura y la canción
+- Llegar con [other materials to bring to class]
+
+:::
+
+
+## {{< fa medal >}} Aplicaciones
+
+<!-- NOTE: this is where you will note the next upcoming larger assessment (Examen, etc.) and link to it when available. Examples below. -->
+
+<!--
+**Evaluación Próxima:** [Nombre de la evaluación, e.g., "Examen 1, etc.]
+-->
+
+- Add upcoming evaluations and assessments here, links when available
+
+
+

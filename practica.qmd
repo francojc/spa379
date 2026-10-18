@@ -1,0 +1,16 @@
+---
+title: "{{< fa dumbbell >}} Práctica"
+description: "Aplicaciones interactivas para práctica autónoma."
+lang: es
+format:
+  html:
+    toc: false
+---
+
+## Practica a tu ritmo
+
+Estas herramientas complementan el trabajo del curso con práctica breve, repetición y retroalimentación inmediata.
+
+## Próximamente
+
+Más aplicaciones de práctica se incorporarán aquí a medida que estén listas.

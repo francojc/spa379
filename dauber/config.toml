@@ -1,0 +1,15 @@
+# Dauber configuration — Canvas LMS integration
+# Replace values with your course-specific settings.
+# See: https://github.com/opensec-git/dauber
+
+course_title = ""          # e.g., "Advanced Spanish Language and Grammar"
+course_code = ""           # e.g., "SPA-201-A"
+canvas_course_id = 0       # Numeric Canvas course ID
+term = ""                  # e.g., "Fall", "Spring"
+year = 0                   # e.g., 2026
+level = "undergraduate"    # "undergraduate" or "graduate"
+feedback_language = ""     # Language for student feedback (e.g., "Spanish", "English")
+language_learning = true   # true for language courses
+language_level = ""        # e.g., "Advanced Low", "Intermediate High"
+formality = "casual"       # "casual" or "formal"
+anonymize = true           # Anonymize student names in output

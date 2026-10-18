@@ -1,0 +1,56 @@
+---
+title: "{{< fa handshake >}} Programa"
+subtitle: "{{< var course.title >}}: {{< var course.description >}}"
+date: today
+language:
+  title-block-published: "Actualizado"
+---
+
+## Profesor
+
+![]({{< var instructor.photo >}}){style="float: right; margin-right: 1em;" width="150px"}
+
+Profesor: {{< var instructor.name >}} \
+Correo electrónico: {{< var instructor.email >}} \
+Oficina: {{< var instructor.office >}} \
+Horas de consulta y citas: <a href='{{< var instructor.appointment_url >}}' target="_blank">{{< fa calendar >}}</a>
+
+## I. Descripción del curso
+
+<!-- Reemplazar: descripción general del curso, objetivos de aprendizaje, nivel, enfoque pedagógico -->
+
+## II. Objetivos de aprendizaje
+
+<!-- Reemplazar: lista de objetivos alineados con estándares (p. ej., ACTFL, CEFR, u otros) -->
+
+## III. Materiales
+
+Libro de texto:
+
+- <!-- Reemplazar: cita del libro de texto con enlace -->
+- <!-- Reemplazar: enlace al cuaderno electrónico u otro recurso complementario requerido -->
+
+Sitio: [Canvas]({{< var canvas.course >}})
+
+## IV. Evaluación
+
+<!-- Reemplazar: tabla de componentes de evaluación con porcentajes y descripciones -->
+
+| Componente | % | Descripción |
+|------------|---|-------------|
+| <!-- Agregar fila --> | | |
+
+**Políticas:**
+
+- **Trabajos tardíos:** <!-- Reemplazar -->
+- **Asistencia:** <!-- Reemplazar -->
+
+## V. Información adicional
+
+### Código de honor
+
+<!-- Reemplazar: política de honestidad académica de la institución -->
+
+### Accesibilidad
+
+<!-- Reemplazar: política de adaptaciones y contacto del centro de discapacidad -->

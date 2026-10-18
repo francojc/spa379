@@ -1,0 +1,19 @@
+---
+title: "{{< fa circle-check >}} Actividades"
+listing:
+  id: actividades-listing
+  contents: actividades/*.qmd
+  type: default
+  sort: "date desc"
+  sort-ui: false
+  filter-ui: false
+  categories: numbered
+  fields: [image, title, categories, date]
+page-layout: full
+title-block-banner: false
+---
+
+Las activiades extras de las clases se encuentran a continuación:
+
+::: {#actividades-listing}
+:::

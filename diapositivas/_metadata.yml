@@ -1,0 +1,33 @@
+author: '{{< var instructor.name >}}'
+date-format: full
+format:
+  revealjs:
+    css:
+      - css/custom.css
+      - ../styles.css
+    theme: [simple]
+    logo: images/logo-wfu.jpg
+    code-overflow: wrap
+    fig-width: 5
+    fig-asp: 0.75
+    preview-links: true
+    footnotes-hover: true
+    reference-location: document
+    hash-type: number
+    slide-number: true
+    footer: '{{< var course.institute >}} > [{{< var course.title >}}]({{< var course.web >}}) > {{< meta title >}}'
+    transition: fade
+    embed-resources: false
+    chalkboard:
+      theme: whiteboard
+    menu:
+      numbers: true
+    mermaid:
+      theme: default
+engine: knitr
+execute:
+  echo: true
+  freeze: false
+  always: true
+institute: "{{< var course.institute >}}"
+bibliography: bibliography.bib

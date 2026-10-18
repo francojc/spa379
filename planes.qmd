@@ -1,0 +1,14 @@
+---
+title: "{{< fa list-check >}} Planes"
+listing:
+  id: planes-listing
+  contents: planes
+  type: table
+  filter-ui: true
+  sort: "date"
+  categories: unnumbered
+  fields: [date, title, description]
+page-layout: full
+title-block-banner: false
+---
+

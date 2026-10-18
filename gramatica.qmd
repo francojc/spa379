@@ -1,0 +1,17 @@
+---
+title: "{{< fa circle-info >}} Gramática"
+listing:
+  id: gramatica-listing
+  contents: gramatica
+  type: table
+  filter-ui: true
+  sort: "subtitle"
+  field-display-names:
+    subtitle: "Capítulo"
+    file-modified: "Modificado"
+  fields: [subtitle, title, description, file-modified]
+page-layout: full
+title-block-banner: false
+---
+
+Aquí hay algunos artículos adicionales sobre la gramática que podrían interesarte.
