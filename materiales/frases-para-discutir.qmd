@@ -35,7 +35,7 @@ date: 2027-01-12
 ## Cerrar con posición propia (el final de T3)
 
 - "En mi variedad yo **daba por hecho** que…; los datos me mostraron que…"
-- "Mi español es **un dato más**, no el punto de neutro."
+- "Toda variedad del español es **un dato más**, no el punto neutro."
 - "Lo que antes sonaba 'raro' resulta ser **sistemático**."
 
 > Para la **defensa oral**: prepara 3 de estas antes de entrar. Reduce la carga y sube la calidad del razonamiento. Ver [Estrategias](../strategies.html).

@@ -1,6 +1,6 @@
 # Bienvenida — SPA 379
 
-Hola, y bienvenidos a *El español en perspectiva tipológica*.
+Hola, y bienvenidos a *Los muchos españoles: qué revela la variación del español sobre la lengua misma*.
 
 Antes de la primera clase (martes **12 de enero**), echa un vistazo al **Programa** y responde en el foro del curso:
 

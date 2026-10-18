@@ -10,7 +10,7 @@ Spanish-medium + a critical-linguist disposition + "typology" label is a hard se
 
 Don't sell "tipología." Sell the question:
 
-> **¿Es tu español un dato — o la norma?**
+> **¿Hay una variedad que sea "la norma", o todas son un dato más?**
 > Un seminario en español sobre *por qué* hablan distinto en los países hispanohablantes — y cómo se decide si es "otro tipo de español" o solo "más o menos frecuente".
 
 Catalog blurb (≈ 3 lines, question-led, not label-led):

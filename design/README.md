@@ -1,6 +1,8 @@
 # SPA 379: Seminar in Hispanic Linguistics
 
-> Title: El español en perspectiva tipológica: universales, variación y contacto *(working)*
+> Title: The Many Spanishes: What Spanish Variation Reveals About Language Itself
+> Título (student-facing): Los muchos españoles: qué revela la variación del español sobre la lengua misma
+> Tagline: A question of evidence, not of correctness — learning to think like a linguist about Spanish. / Una cuestión de evidencia, no de corrección: aprender a pensar como lingüista sobre el español.
 > Semester: Spring 2027
 > Meeting:
 > - Dates: Tuesday and Thursday
@@ -162,7 +164,8 @@ What is missing from – and could complement – the language/Hispanic-linguist
 > - **site `planes/`, `diapositivas/`, `materiales/`, `actividades/`** = *delivery*, **student-facing, in Spanish**. Each lesson plan is a **rendering of the Stage 3 session map**, not a copy of the design rationale. The design docs drive them; they do not fork.
 > - Rule to avoid drift: content lives once in delivery dirs; `design/` holds only goals/evidence/rationale + the session *map*. The `_data/horario.csv` + Stage 3 map are the join between the two. See [PLAN.md](../PLAN.md).
 
-**Working title (tentative):** Spanish in Typological Perspective: Universals, Variation, and Contact
+**Title (final):** The Many Spanishes: What Spanish Variation Reveals About Language Itself
+**Título (student-facing):** Los muchos españoles: qué revela la variación del español sobre la lengua misma
 
 **One-line thesis:** *Do Spanish's varieties differ typologically, or only in surface features?* The course uses this question as its engine – taught at a conceptual level, with selective deeper dives, and data central but pre-processed.
 

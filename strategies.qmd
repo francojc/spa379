@@ -8,7 +8,7 @@ date: 2027-01-12
 
 # Cómo trabajar en este seminario
 
-No vienes a "aportar español" (ya lo tienes). Vienes a **usar tu español para analizar el español**. La dificultad no es lingüística, es **conceptual y metodológica**: leer evidencia, manejar categorías, y argumentar en español sobre datos. Estas estrategias te ayudan con eso.
+No vienes a "aportar español". Vienes a **analizar el español del mundo hispanohablante como lingüista**. La dificultad no es lingüística, es **conceptual y metodológica**: leer evidencia, manejar categorías, y argumentar en español sobre datos. Estas estrategias te ayudan con eso.
 
 ## {{< fa bullseye >}} La idea que lo sostiene todo: dos escalas
 
@@ -34,7 +34,7 @@ Movimientos que necesitas en discusión y en tu defensa (T3). Úsalos literalmen
 - **Nombrar la escala:** "Esto es marcado **tipológicamente** (raro en el mundo), no necesariamente dentro del español."
 - **Descriptivo, no prescriptivo:** "No es que se *deje de saber* subjuntivo; se **re-distribuye** la función."
 - **Manejar el desacuerdo:** "Aquí Silva-Corvalán y Gal discrepan sobre **la interpretación**, no sobre el dato."
-- **Posición propia (el cierre de T3):** "En mi variedad yo **daba por hecho** que…; los datos muestran que mi español es **un dato más**."
+- **Posición crítica (el cierre de T3):** "**Daba por hecho** que X era la norma; los datos muestran que es **un rasgo entre variedades**, no el punto neutro."
 
 ## {{< fa book-open >}} Leer textos académicos en español
 

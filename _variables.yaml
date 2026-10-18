@@ -11,8 +11,8 @@ instructor:
   github: ""                   # TODO: GitHub handle (optional)
 
 course:
-  title: "El español en perspectiva tipológica: universales, variación y contacto"
-  description: "¿Se diferencian tipológicamente las variedades del español, o solo en la superficie? Un seminario que usa la tipología como lente sobre la variación del español."
+  title: "Los muchos españoles: qué revela la variación del español sobre la lengua misma"
+  description: "Una cuestión de evidencia, no de corrección: aprender a pensar como lingüista sobre el español."
   sticker: assets/course-sticker.png
   number: SPA 379
   semester: Spring

@@ -3,7 +3,7 @@
 # Filled for SPA 379 (Spring 2027). Live publish happens in Phase 6 and needs
 # canvas_course_id + credentials; those stay as TODO until then.
 
-course_title = "El español en perspectiva tipológica: universales, variación y contacto"
+course_title = "Los muchos españoles: qué revela la variación del español sobre la lengua misma"
 course_code = "SPA-379-A"
 canvas_course_id = 0       # TODO: numeric Canvas course ID (set before Phase 6 publish)
 term = "Spring"

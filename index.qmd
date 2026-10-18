@@ -18,7 +18,7 @@ Citas: <a href='{{< var instructor.appointment_url >}}' target="_blank">{{< fa c
 
 ## I. Descripción del curso
 
-**¿Hay un solo español "correcto"? ¿O tu español es, simplemente, un dato más?**
+**¿Hay un solo español "correcto"? ¿O cada variedad es, simplemente, un dato más?**
 
 Este seminario usa la **tipología lingüística como una lente** sobre la variación del español. No es un recorrido por las lenguas del mundo, sino una pregunta que guía todo el curso: *¿se diferencian tipológicamente las variedades del español, o solo en la superficie?* Aprendemos a **pensar como lingüistas críticos**: observar cómo varía realmente el español, explicarlo con cuentas lingüísticas comprobables (no con juicios de "correcto/incorrecto"), interrogar las categorías que usamos para describirlo (lengua, dialecto, tipo, norma) y reflexionar sobre nuestra propia posición dentro de esa variación.
 
@@ -34,7 +34,7 @@ Al terminar el curso, podrás **actuar como lingüista crítico sobre el españo
 - Observar variación real del español y **explicarla con una cuenta lingüística comprobable**, no con un veredicto prescriptivo.
 - **Interrogar las categorías** de análisis: qué cuenta como "una lengua", "la norma", "un tipo", "correcto".
 - **Sopesar evidencia y desacuerdo experto** sin exigir un veredicto cerrado.
-- **Reflexionar sobre tu propia variedad como dato**, no como el punto de neutro.
+- **Ver toda variedad —incluida la propia— como dato**, no como el punto neutro.
 
 **Comprensiones perdurables (las ideas grandes):** las categorías lingüísticas son decisiones analíticas; la variación es sistemática y gobernada por reglas; comparar exige una **línea base y una escala** (marcado **tipológico** vs. **interno/área**, sin confundirlos); los universales son **tendencias estadísticas en un continuo**; toda comparación está **limitada por el método** (muestreo, comparabilidad, areal vs. genealógico vs. funcional); bajo variación y contacto, una estructura marcada se puede **renegociar**, moviendo una variedad **hacia o lejos** de lo tipológicamente común.
 

@@ -11,9 +11,9 @@ execute:
   message: false
   warning: false
 website:
-  title: "SPA 379 · El español en perspectiva tipológica"
+  title: "SPA 379 · Los muchos españoles"
   site-url: https://francojc.github.io/spa379/
-  description: "Seminario de lingüística hispánica: tipología, variación y contacto del español (WFU, Spring 2027)."
+  description: "Los muchos españoles: qué revela la variación del español sobre la lengua misma. Seminario de lingüística hispánica (WFU, Spring 2027)."
   open-graph: true
   search:
     location: navbar
