@@ -472,8 +472,8 @@
           box(baseline: -1pt, text(font: "Avenir Next", weight: "bold", size: 11.5pt, fill: white, "·  Prof. Jerid Francom")),
         ),
         text(size: 9.8pt, fill: rgb("#CBD5E1"), "Department of Spanish · Wake Forest University"),
-        badge("PREREQUISITE: SPA 320", bg: rgb("#1E2C42"), fg: white, border: teal, size: 8.5pt)
-      ),
+        badge("P SPA 320", bg: rgb("#1E2C42"), fg: white, border: gold, size: 8.5pt),
+        text(size: 8pt, fill: gold, "Note: if you have taken SPA 309, request Workday pre-req override for SPA 320")),
       stack(
         dir: ltr,
         spacing: 12pt,
