@@ -1,0 +1,14 @@
+---
+title: "{{< fa book-open >}} Glosario"
+description: |
+    Glosario bilingüe de términos clave (página del curso) y tarjetas de frases para la discusión académica en español.
+lang: es
+---
+
+<!-- TODO:
+
+- Glosario bilingüe de términos clave (página del curso) y tarjetas de frases para la discusión académica en español.
+
+-->
+
+

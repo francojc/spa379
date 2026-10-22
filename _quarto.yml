@@ -11,9 +11,9 @@ execute:
   message: false
   warning: false
 website:
-  title: "SPA 379 · Los muchos españoles"
+  title: "SPA 379: Los muchos españoles"
   site-url: https://francojc.github.io/spa379/
-  description: "Los muchos españoles: qué revela la variación del español sobre la lengua misma. Seminario de lingüística hispánica (WFU, Spring 2027)."
+  description: "Los muchos españoles: qué revela la variación del español sobre la lengua misma. Seminario de lingüística hispánica (WFU)."
   open-graph: true
   search:
     location: navbar
@@ -22,14 +22,12 @@ website:
     left:
       - index.qmd
       - horario.qmd
-      - text: "<i class='fa-solid fa-book-open' aria-hidden='true'></i> Contenido"
+      - text: '<i class="fa-solid fa-dumbbell" aria-hidden="true"></i> Práctica'
         menu:
-          - planes.qmd
-          - diapositivas.qmd
-          - gramatica.qmd
-          - materiales.qmd
-          - actividades.qmd
+          - text: Por definir
+          - href: ""
     right:
+      - glosario.qmd
       - strategies.qmd
 format:
   html:

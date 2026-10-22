@@ -1,32 +1,29 @@
-author:
-
+author: Jerid Francom
 instructor:
-  name: Jerid C. Francom
-  name_short: Jerid Francom
+  name: Jerid Francom
+  name_short: Jerid
   title: Associate Professor of Spanish and Linguistics
-  email: ""                    # TODO: WFU email
-  office: ""                   # TODO: office/room (Dept. of Spanish / Romance Languages)
-  appointment_url: ""          # TODO: scheduling link
-  photo: assets/instructor.png
-  github: ""                   # TODO: GitHub handle (optional)
-
+  email: "francojc@wfu.edu"
+  office: "Greene Hall 518"
+  appointment_url: "https://cal.com/francojc"
+  photo: './assets/francom.png'
+  github: francojc
 course:
-  title: "Los muchos españoles: qué revela la variación del español sobre la lengua misma"
-  description: "Una cuestión de evidencia, no de corrección: aprender a pensar como lingüista sobre el español."
+  title: "SPA 379 A"
+  description: "Los muchos españoles: qué revela la variación del español sobre la lengua misma"
   sticker: assets/course-sticker.png
-  number: SPA 379
-  semester: Spring
+  number: '379'
+  semester: 'Spring'
   year: 2027
-  institute: Department of Spanish (Romance Languages), Wake Forest University
-  meeting_time: "Martes y jueves · 75 min"
-  meeting_location: ""         # TODO: room
-  web: ""                      # TODO: site URL (set after publish)
-  schedule: ""                 # used by diapositivas template (Presentación link)
-  github: ""                   # TODO: repo (github.com/francojc/spa379)
+  institute: 'Universidad de Wake Forest'
+  meeting_time: "MJ 9:30-10:45 AM"
+  meeting_location: "Sin determinar"
+  web: "https://francojc.github.io/spa379"
+  schedule: 'https://francojc.github.io/spa379/horario.html'
+  github: "https://github.com/francojc/spa379"
   textbook: "Sin libro único: banco de lecturas Spanish-first (personalizadas)"
 
-# LMS links. Add keys as needed per course (e.g., canvas.quiz_01, canvas.assignment_01).
 # Reference from .qmd with: {{< var canvas.quiz_01 >}}
 canvas:
-  course: ""                   # TODO: Canvas course URL
+  course: "https://wakeforest.instructure.com/courses/87858"
   eval_01: ""                  # used by diapositivas template (Evaluación diaria)
