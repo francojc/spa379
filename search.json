@@ -28,340 +28,305 @@
     "text": "Hidden solutions and hints\nYou can fence off a solution area that will be hidden behind a button using hide() before the solution and unhide() after, each as inline R code. Pass the text you want to appear on the button to the hide() function.\nIf the solution is a code chunk, instead of using hide() and unhide(), simply set the webex.hide chunk option to TRUE, or set it to the string you wish to display on the button.\nRecreate the scatterplot below, using the built-in cars dataset.\n\n\n\n\n\n\n\n\n\n\n\nI need a hint\n\nSee the documentation for plot() (?plot)\n\n\n\n\n\nClick here to see the solution\n\nplot(cars$speed, cars$dist)"
   },
   {
-    "objectID": "pronunciacion.html",
-    "href": "pronunciacion.html",
-    "title": " Pronunciación",
+    "objectID": "practica.html",
+    "href": "practica.html",
+    "title": " Práctica",
     "section": "",
-    "text": "La buena pronunciación es esencial para la comunicación efectiva en cualquier idioma. No es solo un aspecto técnico y superficial del habla, sino una habilidad fundamental que afecta la comprensión, la interacción social y la confianza del hablante.\n\n\n\n\n\n\n    \n      \n      \n    \n\n\n\n\nTítulo\nDescripción\n\n\n\n\n\nNo hay resultados"
+    "text": "Estas herramientas complementan el trabajo del curso con práctica breve, repetición y retroalimentación inmediata."
   },
   {
-    "objectID": "planes/plan-27-defensa.html",
-    "href": "planes/plan-27-defensa.html",
-    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
+    "objectID": "practica.html#practica-a-tu-ritmo",
+    "href": "practica.html#practica-a-tu-ritmo",
+    "title": " Práctica",
     "section": "",
-    "text": "Formular una tesis/interpretación defendible sobre una pregunta abierta del curso (p. ej., “¿hay un solo español?”, “¿el contacto cambió el tipo del andino?”, “¿se pierde o se renegocia el subjuntivo?”).\nSustentarla con evidencia real (datos/estudios) y nombrar el desacuerdo experto (U7) — presentar la hipótesis como peso de la evidencia, no como hecho.\nUsar las dos escalas de marcado sin confundirlas (U3) y proponer una dirección de cambio (U6).\nCerrar con positionality: ver toda variedad como dato, incluida la propia + un supuesto que traías (S8 + S10)."
+    "text": "Estas herramientas complementan el trabajo del curso con práctica breve, repetición y retroalimentación inmediata."
   },
   {
-    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
-    "section": "",
-    "text": "Formular una tesis/interpretación defendible sobre una pregunta abierta del curso (p. ej., “¿hay un solo español?”, “¿el contacto cambió el tipo del andino?”, “¿se pierde o se renegocia el subjuntivo?”).\nSustentarla con evidencia real (datos/estudios) y nombrar el desacuerdo experto (U7) — presentar la hipótesis como peso de la evidencia, no como hecho.\nUsar las dos escalas de marcado sin confundirlas (U3) y proponer una dirección de cambio (U6).\nCerrar con positionality: ver toda variedad como dato, incluida la propia + un supuesto que traías (S8 + S10)."
+    "objectID": "practica.html#próximamente",
+    "href": "practica.html#próximamente",
+    "title": " Práctica",
+    "section": "Próximamente",
+    "text": "Próximamente\nMás aplicaciones de práctica se incorporarán aquí a medida que estén listas."
   },
   {
-    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
+    "objectID": "planes/plan-25-sintesis-c.html",
+    "href": "planes/plan-25-sintesis-c.html",
+    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "section": "",
+    "text": "Sintetizar en un solo marco: modo (B) + vos/vosotros + cliticos (A), visto bajo contacto (C).\nEvaluar la pregunta de convergencia: cuando una variedad se desvía internamente, ¿se mueve hacia o lejos de lo tipológicamente común? (contracorrientes: sesgo de selección vs. arrastre del sustrato).\nAplicar el cuadro Abstand/Ausbau (S24) para decidir “tipo distinto vs. frecuencia distinta” con criterio.\nContextualizar con poblaciones históricamente marginadas: quechua→andino, guaraní→paraguayo, bozal/Pichi (SLO 3.2.3)."
+  },
+  {
+    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "section": "",
+    "text": "Sintetizar en un solo marco: modo (B) + vos/vosotros + cliticos (A), visto bajo contacto (C).\nEvaluar la pregunta de convergencia: cuando una variedad se desvía internamente, ¿se mueve hacia o lejos de lo tipológicamente común? (contracorrientes: sesgo de selección vs. arrastre del sustrato).\nAplicar el cuadro Abstand/Ausbau (S24) para decidir “tipo distinto vs. frecuencia distinta” con criterio.\nContextualizar con poblaciones históricamente marginadas: quechua→andino, guaraní→paraguayo, bozal/Pichi (SLO 3.2.3)."
+  },
+  {
+    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nS26 (taller): pregunta elegida + esqueleto de evidencia.\nRúbrica R-T3 (SLO 1.3.4–6) leída.\n\n\n\nDespués de clase\n\nBorrador → retro → entrega escrita en S28; defensa oral en el bloque final (opcional; no hay examen escrito final)."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nS21–S24 vistos (tipología del contacto; casos; GenAI/T6; lengua vs. dialecto).\nT1 #5 entregado (S22).\n\n\n\nDespués de clase\n\nT1 #6 (síntesis de las tres unidades en una entrada).\nElige tu pregunta abierta para el capstone (T3)."
   },
   {
-    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
+    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): criterios de una defensa sólida (de la rúbrica) en la pizarra.\nEntrada (10): cómo no cerrar la pregunta: defender una interpretación matizada.\nTaller (40): escritura guiada en clase + peer-review con la rúbrica (roles: moderador / relator / provocador). Pares cuestionan la evidencia, no la opinión.\nPlenaria (15): 2–3 volunteers presentan su tesis + 1 contra-ejemplo; entrenamos el manejo de la objeción."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel del kit + “una lengua es un dialecto con ejército y marina”.\nEntrada (15): ponemos A y B JUNTO a un caso de contacto: ¿reestructuración o frecuencia? ¿converge o diverge?\nTaller (30): en equipos, un caso de contacto; deciden con criterios explícitos y escriben QUÉ evidencia resolvería el caso.\nPlenaria (20): mapeamos los tres “hilos” del curso (sujeto / modo / contacto) sobre una sola pizarra — el cierre del arco."
   },
   {
-    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
+    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nT3 = 30%. Pisos de SLO 1.3: 1.3.4 tesis, 1.3.5 evidencia, 1.3.6 conectores/organización — deben alcanzarse en la defensa oral. Usa las tarjetas de frases. Núcleo no delegable: tesis y evidencia son tuyas (ver política de IA §V)."
+    "text": "Aplicaciones\n\nCierre de las tres unidades. Mañana: taller del capstone (S26). Tu defensa (T3) debe mostrar las dos escalas y una dirección de cambio con evidencia."
   },
   {
-    "objectID": "planes/plan-23-genai.html",
-    "href": "planes/plan-23-genai.html",
-    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
+    "objectID": "planes/plan-18-subjuntivo-datos.html",
+    "href": "planes/plan-18-subjuntivo-datos.html",
+    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
     "section": "",
-    "text": "Tratar la salida de un modelo generativo como una muestra agregada de su corpus de entrenamiento, NO como “el español”.\nDetectar al menos una variedad / dialecto / registro que el modelo aplanó, borró o estereotipó (p. ej., vos, aspiración, ustedes vs. vosotros, sustrato andino).\nContrastar esa representación con evidencia real (la app/dataset de Unidad A o C).\nVincular la distorsión con el problema del muestreo / comparabilidad (U5) y con la ideología (¿a quién se trata como normativo?)."
+    "text": "Comparar los outcomes (no la teoría): colapso indicativo/subjuntivo en Guinea Ecuatorial (Lipski) vs. pérdida gradual en patrimonio LA (Silva-Corvalán 1994) vs. variación monolingüe (Gal 2019).\nInterpretar distribuciones de uso de modo (Tier-1) y distinguir “pérdida” de “renegociación” con evidencia.\nArgumentar por qué NO presentamos la “pérdida del subjuntivo” como hecho cerrado.\nAplicar la escala tipológica: si el modo es marcado en el mundo, ¿se erosiona primero en contacto? (pregunta, no tesis)."
   },
   {
-    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
+    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
     "section": "",
-    "text": "Tratar la salida de un modelo generativo como una muestra agregada de su corpus de entrenamiento, NO como “el español”.\nDetectar al menos una variedad / dialecto / registro que el modelo aplanó, borró o estereotipó (p. ej., vos, aspiración, ustedes vs. vosotros, sustrato andino).\nContrastar esa representación con evidencia real (la app/dataset de Unidad A o C).\nVincular la distorsión con el problema del muestreo / comparabilidad (U5) y con la ideología (¿a quién se trata como normativo?)."
+    "text": "Comparar los outcomes (no la teoría): colapso indicativo/subjuntivo en Guinea Ecuatorial (Lipski) vs. pérdida gradual en patrimonio LA (Silva-Corvalán 1994) vs. variación monolingüe (Gal 2019).\nInterpretar distribuciones de uso de modo (Tier-1) y distinguir “pérdida” de “renegociación” con evidencia.\nArgumentar por qué NO presentamos la “pérdida del subjuntivo” como hecho cerrado.\nAplicar la escala tipológica: si el modo es marcado en el mundo, ¿se erosiona primero en contacto? (pregunta, no tesis)."
   },
   {
-    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
+    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nTrae una pregunta descriptiva sobre una variedad concreta (p. ej., “¿cómo se conjuga con vos en un texto formal?”).\nRevisa la tabla-dato real asignada (unidad A o C).\n\n\n\nDespués de clase\n\nEntrega T6 (guía de 3 movimientos). Rúbrica R-T6 (pass/fail en los tres movimientos + 1 ejemplo concreto)."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nS15–S17 vistos; lecturas (Gal 2019 Spanish in Context en español; Lipski; Silva-Corvalán 1994 en inglés — fuente sin equivalente).\nT1 #4 entregado (S17).\n\n\n\nDespués de clase\n\nEntrega T2B. Rubrica R-T2 (3.2.1–3, foco 3.2.3 proceso tipológicamente frecuente)."
   },
   {
-    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
+    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): ¿“la norma” o “un dato”? la pregunta del curso en versión 2027.\nEntrada (15): qué es un agregado estadístico; por qué un LLM “confla” variedades y prefiere la más representada.\nTaller (35): Núcleo no delegable — primero el dato real. Pasos: (1) interpretan la distribución REAL del rasgo; (2) consultan el modelo con su pregunta; (3) señalan dónde difiere y qué variedad desapareció; (4) lo explican por sesgo de muestreo, no por “el modelo está mal”.\nPlenaria (15): compartimos casos; discutimos quién se vuelve “autoridad” normativa."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel: marcado del irrealis (S14). ¿Qué escala usamos? (tipológica = el subjuntivo es raro en el mundo).\nEntrada (15): ponemos las tres fuentes UNO al lado del otro: mismo “objeto”, distinto diagnóstico.\nTaller (35): en parejas, leen las distribuciones de modo; completan T2B: ¿los datos de una variedad favorecen pérdida o renegociación? ¿qué evidencia inclinaría la balanza?\nPlenaria (15): dónde discrepan los expertos y por qué — modelamos el peso de la evidencia (U7)."
   },
   {
-    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
+    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nT6 ENTREGABLE (10% con T5). Uso de IA aquí es el objeto de análisis, no una ayuda para producir tu idea. Política de IA en el programa (§V): declarabilidad + no-delegabilidad.\nOptional (herramienta): puedes usar IA para visualizar tu análisis, con declaración. No sustituye tu interpretación."
+    "text": "Aplicaciones\n\nT2B ENTREGABLE. Buen momento para el ítem T5 (descriptivo vs. prescriptivo, SLO 3.1.4) en S20: “deja de existir el subjuntivo” es prescriptivo; la cuenta descriptiva describe re-distribución funcional."
   },
   {
-    "objectID": "planes/plan-11-sujeto-datos.html",
-    "href": "planes/plan-11-sujeto-datos.html",
-    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
+    "objectID": "planes/plan-06-escalas.html",
+    "href": "planes/plan-06-escalas.html",
+    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
     "section": "",
-    "text": "Leer las distribuciones de sujeto expreso vs. nulo por variedad en la app Tier-1.\nAplicar criterios de decisión: ¿en qué caso diríamos “nuevo tipo” y no “misma forma, distinta frecuencia”?\nAnalizar la función sintáctica de constituyentes en datos de variación (SLO 3.1.3): sujeto léxico vs. clítico/empty en contexto de periferia.\nConectar la forma con región/comunidad/contacto (SLO 3.2.2) y con un proceso tipológicamente frecuente (3.2.3): la deriva hacia lenguas no-pro-drop.\nNombrar una limitación de los datos (¿Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES? → problema de muestreo, U5)."
+    "text": "Definir el núcleo pan-hispano como objeto técnico (lo compartido entre variedades), NO una variedad prestigiosa.\nDistinguir y nombrar las dos escalas de marcado: tipológica y interna/área.\nPuntuar el español contra las lenguas del mundo en ambas direcciones:\n\nPoco marcado: alineativo nominativo-acusativo; SVO; 5 vocales; sin tono; dos géneros; aspecto PF/IMP.\nMarcado (las sorpresas): sujeto nulo, subjuntivo, cópula doble ser/estar, cliticos, orden N-Adj mixto, residuo neutro lo.\n\nPreparar la pregunta de Part II: ¿qué le pasa a una estructura marcada bajo variación y contacto? (→ Units A y B)."
   },
   {
-    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
+    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
     "section": "",
-    "text": "Leer las distribuciones de sujeto expreso vs. nulo por variedad en la app Tier-1.\nAplicar criterios de decisión: ¿en qué caso diríamos “nuevo tipo” y no “misma forma, distinta frecuencia”?\nAnalizar la función sintáctica de constituyentes en datos de variación (SLO 3.1.3): sujeto léxico vs. clítico/empty en contexto de periferia.\nConectar la forma con región/comunidad/contacto (SLO 3.2.2) y con un proceso tipológicamente frecuente (3.2.3): la deriva hacia lenguas no-pro-drop.\nNombrar una limitación de los datos (¿Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES? → problema de muestreo, U5)."
+    "text": "Definir el núcleo pan-hispano como objeto técnico (lo compartido entre variedades), NO una variedad prestigiosa.\nDistinguir y nombrar las dos escalas de marcado: tipológica y interna/área.\nPuntuar el español contra las lenguas del mundo en ambas direcciones:\n\nPoco marcado: alineativo nominativo-acusativo; SVO; 5 vocales; sin tono; dos géneros; aspecto PF/IMP.\nMarcado (las sorpresas): sujeto nulo, subjuntivo, cópula doble ser/estar, cliticos, orden N-Adj mixto, residuo neutro lo.\n\nPreparar la pregunta de Part II: ¿qué le pasa a una estructura marcada bajo variación y contacto? (→ Units A y B)."
   },
   {
-    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
+    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nContinúa S09–S10: ya viste el continuo Caribe → Peninsular → Andino y las distribuciones I.\nT4 (S09) leído; trae tus notas del tertium comparationis.\n\n\n\nDespués de clase\n\nEntrega T2A (análisis contextualizado) por Canvas. Rubrica R-T2 (3.2.1–3)."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nS05 (mapa): lecturas sobre el núcleo común; trae tu ejemplo de variedad de la S01.\nComrie (español), cap. de marcado — selección.\n\n\n\nDespués de clase\n\nCuaderno T1 #2: una estructura del español en CADA escala (tipológica e interna), sin confundirlas."
   },
   {
-    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
+    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel del kit (30 s): muestreo / comparabilidad. ¿Qué escala de marcado estamos usando aquí? (interna vs. tipológica).\nEntrada (15): walkthrough de la app Tier-1 con una variable; modelamos leer una distribución sin saltar a “correcto/incorrecto”.\nTaller (35): en parejas, interpretan el continuo de sujeto expreso; completan la ficha T2A: (a) colocan cada variedad; (b) deciden tipo vs. frecuencia con criterio; (c) escriben “¿qué evidencia lo resolvería?”. Núcleo no delegable: interpretan el dato antes de cualquier ayuda.\nPlenaria (15): contrastamos decisiones; discutimos el sesgo de muestreo de los endpoints."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): “un dialecto con ejército y marina” — siembra de lengua vs. dialecto.\nEntrada (20): el núcleo pan-hispano (¿por qué definirlo evita decir que hay un “español real”?); las dos escalas.\nTaller (30): tarjetas de rasgos; en equipos clasifican cada uno: ¿marcado tipológicamente? ¿marcado internamente (alguna variedad se desvía)? — la simetría es la lección crítica.\nPlenaria (15): fijamos el “perfil marcado del español = sujeto nulo + subjuntivo + cliticos” como hilo de todo el curso."
   },
   {
-    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
+    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nT2A ENTREGABLE (30% del componente de análisis). Revisa R-T2 antes de entregar: ¿distingues las dos escalas? ¿nombras una limitación de datos?\nPróximo: cierre de Unidad A (S12–S13) y puente a Unidad B (subjuntivo)."
+    "text": "Aplicaciones\n\nCierre de Part I. Mañana (S07) Unidad A. La defensa capstone (T3) debe usar explícitamente las dos escalas; entrena eso en cada entrada T1."
   },
   {
-    "objectID": "planes/plan-04-microejemplo.html",
-    "href": "planes/plan-04-microejemplo.html",
-    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "objectID": "planes/plan-01-kit.html",
+    "href": "planes/plan-01-kit.html",
+    "title": "S01 · ¿Qué es la tipología?",
     "section": "",
-    "text": "Trazar una variable tipológica desde la muestra de lenguas → codificación del rasgo → normalización → conteos → mapa/estadística.\nIdentificar dónde decidió el analista (comparabilidad: ¿qué cuenta como “el mismo” rasgo?) y cómo eso sesga el resultado.\nDistinguir universal absoluto de estadístico leyendo la distribución.\nJustificar por qué nosotros interpretamos datos pre-procesados (no codificamos): el pipeline ya tomó decisiones."
+    "text": "Definir la tipología por contraste con la clasificación genética (familias) y la gramática descriptiva de una sola lengua.\nExplicar con mis palabras por qué “ninguna lengua es SOV; es más SOV que lo contrario”.\nPlantear la pregunta del curso: ¿las variedades del español difieren tipológicamente o solo en la superficie?\nNombrar los tres problemas que limitarán toda conclusión (muestreo, comparabilidad, correlación ≠ causalidad), que veremos a fondo mañana."
   },
   {
-    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S01 · ¿Qué es la tipología?",
     "section": "",
-    "text": "Trazar una variable tipológica desde la muestra de lenguas → codificación del rasgo → normalización → conteos → mapa/estadística.\nIdentificar dónde decidió el analista (comparabilidad: ¿qué cuenta como “el mismo” rasgo?) y cómo eso sesga el resultado.\nDistinguir universal absoluto de estadístico leyendo la distribución.\nJustificar por qué nosotros interpretamos datos pre-procesados (no codificamos): el pipeline ya tomó decisiones."
+    "text": "Definir la tipología por contraste con la clasificación genética (familias) y la gramática descriptiva de una sola lengua.\nExplicar con mis palabras por qué “ninguna lengua es SOV; es más SOV que lo contrario”.\nPlantear la pregunta del curso: ¿las variedades del español difieren tipológicamente o solo en la superficie?\nNombrar los tres problemas que limitarán toda conclusión (muestreo, comparabilidad, correlación ≠ causalidad), que veremos a fondo mañana."
   },
   {
-    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S01 · ¿Qué es la tipología?",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nExplora libremente una entrada de languatypologies / WALS (elegida en clase). Lee el “How this feature was coded”.\nRevisa el glosario: tertium comparationis, normalización, rasgo.\n\n\n\nDespués de clase\n\nApunte de método en el cuaderno: “3 decisiones que tomó el pipeline de esta variable”."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nLee la presentación del curso (este plan) y la Página 1 del glosario (tipología, muestra, rasgo).\nTrae una forma del español que “suene raro” en otro lado (para S05/S06).\n\n\n\nDespués de clase\n\nDiapositivas\nApunta en tu cuaderno: 3 estructuras del español que crees que son “normales” y una que creas “rara”."
   },
   {
-    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S01 · ¿Qué es la tipología?",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nAntes de clase\nPropósito: ver la “tripa” antes de usar la app.\n\n\n\nCaptura de pantalla del mapa de tu rasgo + 2 lenguas que te sorprendan.\n\n\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel S02-S03 (los 3 problemas; implicaciones de Greenberg).\nEntrada (20): recorremos JUNTOS una variable de punta a punta; el caso paralelo del leveling (hablaste → hablastes: corpus crudo → normalizado → conteos) muestra que “procesar” es decidir.\nTaller (30): en parejas, otra micro-variable; marquen 1 decisión de comparabilidad y 1 riesgo de muestreo.\nPlenaria (15): “¿qué nos hizo decidir el dato por nosotros?” → licencia el diseño Tier-1 de todo el curso."
+    "text": "Actividades\n\n\n\nAntes de clase\nPropósito: llegar con una intuición propia para confrontarla.\n\n\n1. Sondeo rápido (5 min) — en el foro: una forma de español que en otro lugar se marcaría como “incorrecta”. Sin juicio; solo dato.\n\n\n\n\nEn clase (75 min)\n\nArranque / rappel (10): la pregunta del día en la pizarra; no-notes-dump del sondeo.\nEntrada (20): mini-expo + ejemplos: comparar vs. clasificar vs. describir; el continuo, no la caja (un diagrama de gramaje SOV–VSO).\nTaller (30): en parejas, toman 5 lenguas de languatypologies y ubican una estructura; reportan si “encaja en una caja” (no).\nPlenaria (15): ponemos en común; sembramos los tres problemas para S02."
   },
   {
-    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S01 · ¿Qué es la tipología?",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nHoy se entrega T4 (lectura interpretativa breve): reformula la tesis de una nota metodológica en español; identifica 1 evidencia de apoyo. Núcleo no delegable: interpretas antes de cualquier resumen automático."
+    "text": "Aplicaciones\n\nPróxima evaluación: T1 · Cuaderno de evidencia #1 (S02). Empieza hoy la primera entrada de la lista de “supuestos” propios."
   },
   {
-    "objectID": "planes.html",
-    "href": "planes.html",
-    "title": " Planes",
+    "objectID": "materiales/lecturas.html",
+    "href": "materiales/lecturas.html",
+    "title": "Banco de lecturas (Spanish-first)",
     "section": "",
-    "text": "Ordenar por\n      Por defecto\n      \n        Fecha - Más antiguo\n      \n      \n        Fecha - Más reciente\n      \n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFecha\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\n\n\n\n\n\n12 ene 2027\n\n\nS01 · ¿Qué es la tipología?\n\n\nAbrimos el curso y el kit tipológico: comparar estructuras entre lenguas para ver patrones. Des-aprendemos los “cajas”: los tipos son continuos. \n\n\n\n\n\n\n21 ene 2027\n\n\nS04 · Un micro-ejemplo trabajado (cómo se hace el dato)\n\n\nEnseñamos el método POR un caso: una variable WALS/Grambank de principio a fin. Aquí se ve qué decide el pipeline y se mata la crítica de “caja negra”. \n\n\n\n\n\n\n28 ene 2027\n\n\nS06 · Las dos escalas de marcado (y el perfil del español)\n\n\nEl momento bisagra del curso: marcado TIPOLOGICO (vs. el mundo) ≠ marcado INTERNO/AREA (vs. el núcleo pan-hispano). Nombramos ambas escalas para no confundirlas jamás. \n\n\n\n\n\n\n16 feb 2027\n\n\nS11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)\n\n\nCorazón de la Unidad A. Interpretamos distribuciones reales de sujeto expreso y decidimos con criterios explícitos si una variedad cambió su TIPO tipológico o solo la FRECUENCIA de una forma. \n\n\n\n\n\n\n18 mar 2027\n\n\nS18 · Datos reales: el subjuntivo bajo contacto (T2B)\n\n\nCorazón de la Unidad B. Distribuciones de modo y el diagnóstico EN DISPUTA: ¿pérdida del subjuntivo o renegociación forma-función? Enseñamos a pesar la evidencia, no a dar el veredicto. \n\n\n\n\n\n\n6 abr 2027\n\n\nS23 · GenAI como agregado: ¿un dato o la norma? (T6)\n\n\nActividad DISCRETA (no recurrente). El español de un modelo de IA es un agregado sobre su corpus de entrenamiento. Los estudiantes juzgan si ese agregado refleja el uso real del español y conectan la distorsión con el problema de muestreo. \n\n\n\n\n\n\n13 abr 2027\n\n\nS25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas\n\n\nUnidad C sintetiza A y B en un marco: ¿puede el contacto mover el PERFIL tipológico de una variedad, y en qué se diferencia de un cambio “normal”? Aquí aterrizamos SLO 3.2.3 (poblaciones históricamente marginadas). \n\n\n\n\n\n\n20 abr 2027\n\n\nS27 · Escritura de la defensa interpretativa (capstone)\n\n\nAlto y final de la disposición. Cada estudiante construye la defensa de UNA pregunta abierta en español: tesis + evidencia + manejo de contra-evidencia + posición propia (variedad como dato). \n\n\n\n\n\n\nNo hay resultados"
+    "text": "No hay libro único. Cada lectura se anuncia en su plan de clase. Esta es la fuente, por unidad. Spanish-first; inglés solo si no hay equivalente."
   },
   {
-    "objectID": "materiales/glosario.html",
-    "href": "materiales/glosario.html",
-    "title": "Glosario de términos clave",
+    "objectID": "materiales/lecturas.html#part-i-el-kit",
+    "href": "materiales/lecturas.html#part-i-el-kit",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Part I — El kit",
+    "text": "Part I — El kit\n\nComrie, B. — Teoría tipológica de las estructuras naturales (Gredos) — marcado, implicaciones, universales. ES.\nRAE — Nueva gramática de la lengua española — para el núcleo pan-hispano (excerpts). ES. Fuente autorizada en español para la baseline (S05–S06).\nWALS / languatypologies (doc en español) — el micro-ejemplo de S04 y las apps Tier-1. ES/interactiva.\nPresentaciones propias del curso (micro-intro en español del pipeline y la proveniencia de datos). ES (custom)."
+  },
+  {
+    "objectID": "materiales/lecturas.html#unidad-a-sujeto-orden",
+    "href": "materiales/lecturas.html#unidad-a-sujeto-orden",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Unidad A — Sujeto / orden",
+    "text": "Unidad A — Sujeto / orden\n\nFrancom, J. — cap. de The Handbook of Hispanic Linguistics (wh-movement / sintaxis) — adaptado al español para el marco de periferia izquierda. (custom ES)\nReseñas de variación sintáctica del español (sujeto expreso) — ES donde existen.\nIntroducciones a datos: presentación propia para la app de sujeto expreso. ES (custom).\n(Solo si hace falta: estudios primarios de pro-drop en inglés.)"
+  },
+  {
+    "objectID": "materiales/lecturas.html#unidad-b-modo-subjuntivo",
+    "href": "materiales/lecturas.html#unidad-b-modo-subjuntivo",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Unidad B — Modo / subjuntivo",
+    "text": "Unidad B — Modo / subjuntivo\n\nGal, S. et al. (2019), Spanish in Context — variación cross-dialect del subjuntivo. ES.\nLipski, J. — español de Guinea Ecuatorial / contacto — muchos artículos en español. ES.\n⚠️ Silva-Corvalán (1994) — “gradual loss of mood distinctions”, Language Variation and Change — INGLÉS (fuente sin equivalente; la usamos como dato interpretado, no como texto largo)."
+  },
+  {
+    "objectID": "materiales/lecturas.html#unidad-c-contacto-ideología",
+    "href": "materiales/lecturas.html#unidad-c-contacto-ideología",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Unidad C — Contacto + ideología",
+    "text": "Unidad C — Contacto + ideología\n\nLipski y estudios sobre español andino/paraguayo/bozal-Pichi — ES mayormente.\nMarco lengua vs. dialecto (Abstand/Ausbau): explicación propia en español + Brown & Gilman (T/V) para vos/vosotros.\nSheet de auditoría GenAI (actividad T6): GenAI como agregado."
+  },
+  {
+    "objectID": "materiales/lecturas.html#capstone-t3",
+    "href": "materiales/lecturas.html#capstone-t3",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Capstone (T3)",
+    "text": "Capstone (T3)\n\nHoja de tarea + rúbrica en español (custom). Eligen entre las fuentes ya vistas."
+  },
+  {
+    "objectID": "materiales/lecturas.html#sobre-el-libro-quantitative-text-analysis-qta",
+    "href": "materiales/lecturas.html#sobre-el-libro-quantitative-text-analysis-qta",
+    "title": "Banco de lecturas (Spanish-first)",
+    "section": "Sobre el libro Quantitative Text Analysis (QTA)",
+    "text": "Sobre el libro Quantitative Text Analysis (QTA)\n\nRol: soporte metodológico, no texto del curso. El libro es del docente, en inglés, CC BY-NC-ND (qtalr.com/book).\nDónde sirve: el módulo “cómo se hace el dato” (S04) y el pipeline hablaste→hablastes; apoyo para construir las apps (D4).\nUso estudiantil: referencia opcional con atribución; no se redistribuye traducción. Ver nota de licencia.\n\n\nVerificar antes de usar: las citas bibliográficas de design/README.md están marcadas “provisional; verify before use”. Confirma datos exactos de cada fuente al preparar la unidad."
+  },
+  {
+    "objectID": "materiales/genai-audit.html",
+    "href": "materiales/genai-audit.html",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
     "section": "",
-    "text": "Definiciones operativas para el curso. El glo es solo un ancla; el objetivo es usar el término en español."
+    "text": "Nota\n\n\n\nRegla de oro (núcleo no delegable): interpreta primero los datos reales del rasgo. Solo después consultas el modelo. Aquí la IA es el objeto de análisis, no una ayuda para pensar por ti."
   },
   {
-    "objectID": "materiales/glosario.html#tipología-y-método",
-    "href": "materiales/glosario.html#tipología-y-método",
-    "title": "Glosario de términos clave",
-    "section": "Tipología y método",
-    "text": "Tipología y método\n\nTipología lingüística (linguistic typology) — comparación sistemática de estructuras entre lenguas para hallar patrones. No es clasificar por familias.\nMuestra (sample) — las lenguas/variedades que incluimos; nunca neutra. Ver problema del muestreo.\nIndependencia de puntos de datos (data-point independence) — lenguas emparentadas o en contacto no son observaciones independientes.\nComparabilidad / tertium comparationis — “la misma” cosa que comparamos entre lenguas; una decisión del analista, no un hecho.\nAreal / genealógico / funcional — tres explicaciones rivales de un patrón (contacto / herencia / presión cognitiva). Correlación ≠ causalidad."
+    "objectID": "materiales/genai-audit.html#paso-1-el-dato-real-antes-de-la-ia",
+    "href": "materiales/genai-audit.html#paso-1-el-dato-real-antes-de-la-ia",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "section": "Paso 1 — El dato real (antes de la IA)",
+    "text": "Paso 1 — El dato real (antes de la IA)\nElige un rasgo de las unidades (sujeto expreso, subjuntivo, vos/vosotros, cliticos, aspiración). Registra cómo se comporta de verdad:\n\n\n\nPregunta\nTu lectura de los datos / app\n\n\n\n\n¿En qué variedades aparece y con qué frecuencia?\n\n\n\n¿Qué escala de marcado aplica (tipológica o interna)?\n\n\n\n¿Qué dice una fuente real (estudio/recuento)?"
   },
   {
-    "objectID": "materiales/glosario.html#marcado-y-universales",
-    "href": "materiales/glosario.html#marcado-y-universales",
-    "title": "Glosario de términos clave",
-    "section": "Marcado y universales",
-    "text": "Marcado y universales\n\nUniversal absoluto — vale para (casi) todas las lenguas. Universal estadístico — tendencia, no ley.\nImplicacional — “si X, entonces Y” (p. ej., trial → dual → singular/plural).\nMarcado (marked) — raro · tardío en adquisición · primero en perderse · baja frecuencia.\nMarcado tipológico vs. marcado interno/área — las dos escalas del curso. Ver Estrategias.\nNúcleo pan-hispano (cross-varietal common core) — lo compartido entre variedades; no una norma prestigiosa."
+    "objectID": "materiales/genai-audit.html#paso-2-la-salida-del-modelo",
+    "href": "materiales/genai-audit.html#paso-2-la-salida-del-modelo",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "section": "Paso 2 — La salida del modelo",
+    "text": "Paso 2 — La salida del modelo\nEscribe una pregunta descriptiva pero formulada como si fuera prescriptiva (para ver la trampa). Ej.: “¿Cuál es la forma correcta de decir ___ en español?” Guarda la respuesta."
   },
   {
-    "objectID": "materiales/glosario.html#estructuras-del-español-nuestros-casos",
-    "href": "materiales/glosario.html#estructuras-del-español-nuestros-casos",
-    "title": "Glosario de términos clave",
-    "section": "Estructuras del español (nuestros casos)",
-    "text": "Estructuras del español (nuestros casos)\n\nPro-drop / sujeto nulo — permitir/ exigir omitir el sujeto. El español es marcado (lo permite con concordancia rica).\nSujeto expreso / overt — pronombre pronunciado; su tasa define el continuo interno.\nPeriferia izquierda (left periphery) — zona inicial de la oración (foco, tema, dislocación).\nIrrealis / subjuntivo — modo de lo no comprometido; tipológicamente raro.\nCópula doble (ser/estar) y clíticos de objeto — marcas tipológicas del español.\nAbstand / Ausbau — distancia lingüística real vs. construcción institucional de “una lengua”."
+    "objectID": "materiales/genai-audit.html#paso-3-la-auditoría-3-movimientos",
+    "href": "materiales/genai-audit.html#paso-3-la-auditoría-3-movimientos",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "section": "Paso 3 — La auditoría (3 movimientos)",
+    "text": "Paso 3 — La auditoría (3 movimientos)\nCompara Paso 1 vs. Paso 2 y responde:\n\n¿Aplanó dialectos? — ¿el modelo presentó una sola norma donde hay variación real? Da un ejemplo concreto.\n¿Borrase o estereotipó? — ¿desapareció vos, la aspiración, un sustrato andino; o asignó identidad al hablante con exceso de confianza?\n¿Prescribió en vez de describir? — ¿trató variación sistemática como “error”?"
   },
   {
-    "objectID": "materiales/glosario.html#contacto",
-    "href": "materiales/glosario.html#contacto",
-    "title": "Glosario de términos clave",
-    "section": "Contacto",
-    "text": "Contacto\n\nSustrato — influencia de una lengua desplazada sobre la que la sustituye.\nReestructuración — reorganización de forma/función por contacto.\nCriollización — creación de una gramática nueva en contacto intenso.\nConvergencia — moverse hacia lo tipológicamente común (ojo: contracorriente areal del sustrato)."
+    "objectID": "materiales/genai-audit.html#paso-4-explicarlo-por-el-método-el-punto-del-curso",
+    "href": "materiales/genai-audit.html#paso-4-explicarlo-por-el-método-el-punto-del-curso",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "section": "Paso 4 — Explicarlo por el método (el punto del curso)",
+    "text": "Paso 4 — Explicarlo por el método (el punto del curso)\n\nEl modelo es un agregado estadístico sobre su corpus de entrenamiento. ¿Ese corpus es una muestra representativa del español mundial? Discute:\n\n\n¿Qué variedades están sobrerrepresentadas (norma escrita prestigiosa, web en estándar)?\n¿Conecta esto con el problema del muestreo (U5) y la comparabilidad?\n¿A quién se trata como “autoridad” cuando la salida del modelo se toma como “el español”?"
   },
   {
-    "objectID": "materiales/frases-para-discutir.html",
-    "href": "materiales/frases-para-discutir.html",
-    "title": "Frases para discutir en español",
+    "objectID": "materiales/genai-audit.html#entrega",
+    "href": "materiales/genai-audit.html#entrega",
+    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "section": "Entrega",
+    "text": "Entrega\nLos 3 movimientos + 1 ejemplo concreto + la explicación de muestreo = T6 (rubrica R-T6, pass/fail). Rúbrica y política de IA: Programa §IV–V."
+  },
+  {
+    "objectID": "materiales.html",
+    "href": "materiales.html",
+    "title": " Materiales",
     "section": "",
-    "text": "“La evidencia favorece X, aunque Y es un contra-caso porque…”\n“Mi hipótesis es X; lo que la sostendría sería el dato Z.”\n“No diría que es hecho, sino que pesa más la evidencia de…”"
+    "text": "Apoyos del curso (Spanish-first): el glosario, las tarjetas de frases para discutir, el banco de lecturas y la hoja de auditoría GenAI.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSubtítulo\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\n\n\n\n\n\nActividad T6 · Unidad C\n\n\nGenAI como agregado: ¿un dato o la norma?\n\n\nAuditoría discreta (no recurrente) del español de un modelo generativo. Tratas su salida como una MUESTRA de su entrenamiento y juzgas si refleja el uso real del español. \n\n\n\n\n\n\nD3 · Per-unit sourcing\n\n\nBanco de lecturas (Spanish-first)\n\n\nLecturas por unidad, en español siempre que existe; en inglés solo fuente sin equivalente. Presupuesto ≈ 40–60 págs./semana. \n\n\n\n\n\n\nMovimientos de la disposición crítica\n\n\nFrases para discutir en español\n\n\nTarjetas de frases para participar, analizar y defender (T1–T3). Úsalas literalmente; luego hazlas tuyas. \n\n\n\n\n\n\nSPA 379\n\n\nGlosario de términos clave\n\n\nDefiniciones en español (con glos en inglés) de los términos del curso. Página viva: crece con cada unidad. \n\n\n\n\n\n\nNo hay resultados"
   },
   {
-    "objectID": "materiales/frases-para-discutir.html#plantear-una-postura-matizada",
-    "href": "materiales/frases-para-discutir.html#plantear-una-postura-matizada",
-    "title": "Frases para discutir en español",
+    "objectID": "horario.html",
+    "href": "horario.html",
+    "title": " Horario",
     "section": "",
-    "text": "“La evidencia favorece X, aunque Y es un contra-caso porque…”\n“Mi hipótesis es X; lo que la sostendría sería el dato Z.”\n“No diría que es hecho, sino que pesa más la evidencia de…”"
+    "text": "Nota: Este horario es tentativo y está sujeto a cambios.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapítulo\nDía\nFecha\nEnfoque\nPlan\nDiapositiva\n\n\n\n\nPart I · Kit\n\n\n\n\n\nQué es la tipología\n1\n12 ene\nComparar vs. clasificar vs. describir; los tipos son continuos, no cajas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLos 3 problemas del método\n2\n14 ene\nMuestreo · comparabilidad (tertium) · areal/genealógico/funcional — T1 #1\n\n\n\n\n\n\n\n\n\n\n\nUniversales y marcado\n3\n19 ene\nImplicaciones de Greenberg; marcado = raro/tardío/perdido/frecuente\n\n\n\n\n\n\n\n\n\n\n\nMicro-ejemplo trabajado\n4\n21 ene\nUna variable WALS/Grambank: cómo se codifica → qué decide el pipeline — T4\n\n\n\n\n\n\n\n\n\n\nPart I · Mapa\n\n\n\n\n\nPan-hispano como objeto técnico\n5\n26 ene\nEl núcleo común (no prestigio); Nueva gramática de la RAE\n\n\n\n\n\n\n\n\n\n\n\nLas dos escalas de marcado\n6\n28 ene\nTipológico vs. interno/área; perfil del español (sujeto nulo, subjuntivo, cliticos) — T1 #2\n\n\n\n\n\n\n\n\n\n\nUnidad A\n\n\n\n\n\nExpresión del sujeto: parámetro\n7\n2 feb\nRappel del kit; parámetro pro-drop y su rango tipológico\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaseline pan-hispano\n8\n4 feb\nQué hace al español una lengua de sujeto nulo\n\n\n\n\n\n\n\n\n\n\n\nEl continuo pro-drop\n9\n9 feb\nCaribe (sujeto overt alto) → Peninsular → Andino (retención) — T4\n\n\n\n\n\n\n\n\n\n\n\nDatos reales I\n10\n11 feb\nDistribuciones de sujeto overt (app Tier-1)\n\n\n\n\n\n\n\n\n\n\n\nDatos reales II: tipo vs. frecuencia\n11\n16 feb\n¿Cambio de tipo o de frecuencia? criterios de decisión — T2A\n\n\n\n\n\n\n\n\n\n\n\n\n\nInformación estructura\n12\n18 feb\nOrden de palabras y periferia izquierda\n\n\n\n\n\n\n\n\n\n\n\nSíntesis A\n13\n23 feb\n¿Puede un dialecto cambiar su perfil tipológico? — T1 #3\n\n\n\n\n\n\n\n\nUnidad B\n\n\n\n\n\nEl subjuntivo es raro\n14\n25 feb\nRappel del kit; marcado del irrealis\n\n\n\n\n\n\n\n\n\n\n\n\n\nColapso en Guinea Ecuatorial\n15\n2 mar\nIndicativo/subjuntivo (Lipski): outcomes, no teoría\n\n\n\n\n\n\n\n\n\n\n\nPérdida en patrimonio LA\n16\n4 mar\nPérdida gradual del modo (Silva-Corvalán 1994) — T4\n\n\n\n\n\n\n\n\n\n\n\nRealidad monolingüe\n17\n16 mar\nVariación cross-dialect (Gal 2019) como contraste — T1 #4\n\n\n\n\n\n\n\n\n\n\n\nDatos reales: modo\n18\n18 mar\nDistribuciones de modo + diagnóstico en disputa — T2B\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesacuerdo experto\n19\n23 mar\nPérdida vs. renegociación: dónde discrepan y por qué\n\n\n\n\n\n\n\n\n\n\n\nPuente a C: dirección del cambio\n20\n25 mar\nHacia o lejos de los universales — T5 descriptivo/prescriptivo\n\n\n\n\n\n\n\n\nUnidad C\n\n\n\n\n\nTipología del contacto\n21\n30 mar\nRappel; restructuración / sustrato / criollización\n\n\n\n\n\n\n\n\n\n\n\n\n\nCasos de contacto\n22\n1 abr\nQuechua→andino · Guaraní→paraguayo · español EE.UU. · bozal/Pichi — T1 #5\n\n\n\n\n\n\n\n\n\n\n\nGenAI como agregado\n23\n6 abr\nLa salida del modelo: ¿un dato o la norma? — T6\n\n\n\n\n\n\n\n\n\n\n\n\n\nLengua vs. dialecto\n24\n8 abr\nAbstand/Ausbau; ideología lingüística\n\n\n\n\n\n\n\n\n\n\n\nSíntesis C\n25\n13 abr\nModo + vos/vosotros + cliticos; poblaciones marginadas (3.2.3) — T1 #6\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nTaller de la defensa\n26\n15 abr\nElegir pregunta abierta; evidencia; estructura — T1 #7\n\n\n\n\n\n\n\n\n\n\n\nEscritura de la defensa\n27\n20 abr\nTesis + evidencia + positionality (propia variedad como dato)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEntrega y simulacro\n28\n22 abr\nEnsayo entregado; preparación de la defensa oral — T3 escrito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyenda\n = Análisis (datos)\n = Lectura\n = Debate\n = Presentacional\n = Evaluación\n = Información"
   },
   {
-    "objectID": "materiales/frases-para-discutir.html#nombrar-la-escala-el-movimiento-clave",
-    "href": "materiales/frases-para-discutir.html#nombrar-la-escala-el-movimiento-clave",
-    "title": "Frases para discutir en español",
-    "section": "Nombrar la escala (el movimiento clave)",
-    "text": "Nombrar la escala (el movimiento clave)\n\n“Eso es marcado tipológicamente (raro en el mundo), no necesariamente dentro del español.”\n“Cuidado: aquí la desviación es interna (vs. el núcleo pan-hispano), no global.”\n“¿En qué escala lo estamos midiendo?”"
-  },
-  {
-    "objectID": "materiales/frases-para-discutir.html#descriptivo-no-prescriptivo",
-    "href": "materiales/frases-para-discutir.html#descriptivo-no-prescriptivo",
-    "title": "Frases para discutir en español",
-    "section": "Descriptivo, no prescriptivo",
-    "text": "Descriptivo, no prescriptivo\n\n“No es que se pierda la estructura; se re-distribuye la función.”\n“Es variación sistemática, no error.”\n“Deja de ser ‘correcto/incorrecto’ y pasa a ser ‘más/menos frecuente en qué condiciones’.”"
-  },
-  {
-    "objectID": "materiales/frases-para-discutir.html#manejar-el-desacuerdo-y-el-método",
-    "href": "materiales/frases-para-discutir.html#manejar-el-desacuerdo-y-el-método",
-    "title": "Frases para discutir en español",
-    "section": "Manejar el desacuerdo y el método",
-    "text": "Manejar el desacuerdo y el método\n\n“Aquí los autores discrepan sobre la interpretación, no sobre el dato.”\n“Ojo con el muestreo: ¿estos puntos son independientes?”\n“¿Es el mismo rasgo de verdad? — problema de comparabilidad.”\n“¿Frecuencia distinta o tipo distinto? ¿Qué criterio lo decide?”"
-  },
-  {
-    "objectID": "materiales/frases-para-discutir.html#cerrar-con-posición-propia-el-final-de-t3",
-    "href": "materiales/frases-para-discutir.html#cerrar-con-posición-propia-el-final-de-t3",
-    "title": "Frases para discutir en español",
-    "section": "Cerrar con posición propia (el final de T3)",
-    "text": "Cerrar con posición propia (el final de T3)\n\n“En mi variedad yo daba por hecho que…; los datos me mostraron que…”\n“Toda variedad del español es un dato más, no el punto neutro.”\n“Lo que antes sonaba ‘raro’ resulta ser sistemático.”\n\n\nPara la defensa oral: prepara 3 de estas antes de entrar. Reduce la carga y sube la calidad del razonamiento. Ver Estrategias."
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": " Programa",
+    "objectID": "gramatica/pro-drop.html",
+    "href": "gramatica/pro-drop.html",
+    "title": "Expresión del sujeto (pro-drop)",
     "section": "",
-    "text": "Jerid C. Francom · Associate Professor of Spanish and Linguistics\nCorreo electrónico: \nOficina: \nCitas: \nSPA 379 · Martes y jueves · 75 min · Department of Spanish (Romance Languages), Wake Forest University, Wake Forest University"
+    "text": "El parámetro pro-drop (dropping de pronombre) pregunta si una lengua permite/ exige omitir el sujeto sintáctico. El español es, tipológicamente, marcado: permite sujeto nulo con concordancia rica en el verbo (como ‘I eat’), mientras la mayoría de lenguas europeas (inglés, francés) exigen pronombre explícito."
   },
   {
-    "objectID": "index.html#profesor",
-    "href": "index.html#profesor",
-    "title": " Programa",
+    "objectID": "gramatica/pro-drop.html#descripción",
+    "href": "gramatica/pro-drop.html#descripción",
+    "title": "Expresión del sujeto (pro-drop)",
     "section": "",
-    "text": "Jerid C. Francom · Associate Professor of Spanish and Linguistics\nCorreo electrónico: \nOficina: \nCitas: \nSPA 379 · Martes y jueves · 75 min · Department of Spanish (Romance Languages), Wake Forest University, Wake Forest University"
+    "text": "El parámetro pro-drop (dropping de pronombre) pregunta si una lengua permite/ exige omitir el sujeto sintáctico. El español es, tipológicamente, marcado: permite sujeto nulo con concordancia rica en el verbo (como ‘I eat’), mientras la mayoría de lenguas europeas (inglés, francés) exigen pronombre explícito."
   },
   {
-    "objectID": "index.html#i.-descripción-del-curso",
-    "href": "index.html#i.-descripción-del-curso",
-    "title": " Programa",
-    "section": "I. Descripción del curso",
-    "text": "I. Descripción del curso\n¿Qué hace que el español sea ordinario – y extraordinario – entre las lenguas del mundo?\nEste seminario usa la tipología lingüística como una lente sobre la variación del español. No es un recorrido por las lenguas del mundo, sino una pregunta que guía todo el curso: ¿se diferencian tipológicamente las variedades del español, o solo en la superficie? Aprendemos a pensar como lingüistas críticos: observar cómo varía realmente el español, explicarlo con cuentas lingüísticas comprobables (no con juicios de “correcto/incorrecto”), interrogar las categorías que usamos para describirlo (lengua, dialecto, tipo, norma) y reflexionar sobre nuestra propia posición dentro de esa variación.\nConstruimos primero el kit conceptual y metodológico de la tipología (muestreo, comparabilidad, marcado, universales estadísticos) y luego lo aplicamos al español en tres unidades: el orden de palabras y la expresión del sujeto (el continuo pro-drop), el modo y el subjuntivo (su marcado tipológico y su erosión en contacto), y la tipología del contacto (quechua→andino, guaraní→paraguayo, español de EE. UU., bozal/Pichi), que sintetiza todo. La evidencia es real pero pre-procesada: interpretamos distribuciones, no programamos. Todo el curso se imparte en español.\n\nPrerrequisito: SPA 320 (Introducción a la Lingüística Hispánica). No se asume profundidad previa en sintaxis: el curso abre preguntas y las explora con datos."
-  },
-  {
-    "objectID": "index.html#ii.-objetivos-de-aprendizaje",
-    "href": "index.html#ii.-objetivos-de-aprendizaje",
-    "title": " Programa",
-    "section": "II. Objetivos de aprendizaje",
-    "text": "II. Objetivos de aprendizaje\nAl terminar el curso, podrás actuar como lingüista crítico sobre el español, en español:\nTransferencia (lo que harás de forma autónoma en contextos nuevos):\n\nObservar variación real del español y explicarla con una cuenta lingüística comprobable, no con un veredicto prescriptivo.\nInterrogar las categorías de análisis: qué cuenta como “una lengua”, “la norma”, “un tipo”, “correcto”.\nSopesar evidencia y desacuerdo experto sin exigir un veredicto cerrado.\nVer toda variedad —incluida la propia— como dato, no como el punto neutro.\n\nComprensiones perdurables (las ideas grandes):\n\nLas categorías lingüísticas son decisiones analíticas.\nLa variación es sistemática y gobernada por reglas.\nComparar exige una línea base y una escala (marcado tipológico vs. interno/área, sin confundirlos).\nLos universales son tendencias estadísticas en un continuo.\nToda comparación está limitada por el método (muestreo, comparabilidad, areal vs. genealógico vs. funcional).\nBajo variación y contacto, una estructura marcada se puede renegociar, moviendo una variedad hacia o lejos de lo tipológicamente común.\n\nAlineación con los resultados del departamento (SLO): este seminario trabaja activamente y evalúa:\n\nSLO 3.2 Contextualizar (núcleo): contrastar variedades con terminología; conectar la forma con hablante, contacto y procesos tipológicamente frecuentes, incluidas poblaciones históricamente marginadas.\nSLO 1.1 Interpretar y 1.3 Presentar (en español): comprender textos académicos en español y defender interpretaciones orales/escritas.\nSLO 3.1 (p. ej., 3.1.4 descriptivo vs. prescriptivo) se profundiza aquí como evidencia adicional. (3.3 se apoya, pero lo mide el programa OPE.)"
-  },
-  {
-    "objectID": "index.html#iii.-materiales",
-    "href": "index.html#iii.-materiales",
-    "title": " Programa",
-    "section": "III. Materiales",
-    "text": "III. Materiales\n\nLecturas: no hay libro único. Se usa un banco de lecturas Spanish-first (en español siempre que existe; en inglés solo fuentes sin equivalente), con presentaciones propias del curso. Se anuncia cada lectura en su plan de clase.\nHerramientas de datos: aplicaciones interactivas (Tier-1) sobre corpus y bases tipológicas (p. ej., WALS/languatypologies) y conjuntos de datos pre-procesados para interpretar.\nGlosario bilingüe de términos clave (página del curso) y tarjetas de frases para la discusión académica en español.\nEste sitio: Canvas · Horario"
-  },
-  {
-    "objectID": "index.html#iv.-evaluación",
-    "href": "index.html#iv.-evaluación",
-    "title": " Programa",
-    "section": "IV. Evaluación",
-    "text": "IV. Evaluación\n\n\n\n\n\n\n\n\n\nComponente\nEvidencia\n%\nTipo\n\n\n\n\nCuaderno de evidencia\nT1 — entradas breves y frecuentes (ambas escalas de marcado; problema de muestreo; “¿qué evidencia resolvería esto?”)\n20%\nformativa (se cuentan las mejores N)\n\n\nAnálisis contextualizados\nT2 (×2) — interpretar datos reales; colocar variedades; tipo vs. frecuencia (SLO 3.2)\n30%\nsumativa\n\n\nDefensa interpretativa (capstone)\nT3 — construir y defender en español una interpretación con evidencia; defensa oral en el bloque final\n30%\nsumativa\n\n\nGenAI + ítem descriptivo/prescriptivo\nT6 + T5 — auditar el español de un modelo; cuenta descriptiva (SLO 3.1.4)\n10%\nsumativa (guiada)\n\n\nLectura + participación\nT4 — comprensión de textos informativos; discusión (modelo de participación ampliada)\n10%\nformativa\n\n\n\n\nNota sobre la disposición: el objetivo del curso es una habitud de pensamiento, así que la calificación premia el razonamiento repetido (cuaderno + análisis + defensa), no la memoria de definiciones.\n\nPolíticas:\n\nTrabajos tardíos: se espera entrega a tiempo; el cuaderno de evidencia usa la regla “mejores N” para dar margen. Coordina con anticipación lo excepcional.\nAsistencia/participación: la participación incluye escucha activa, preguntas aclaratorias y contribuciones reflexivas (en clase y en el foro), no solo hablar en voz alta.\nPiso de proficiencia (SLO 1.3): la defensa oral debe alcanzar los criterios 1.3.4–6 del departamento. Los apoyos (tarjetas de frases, borradores, T6 opcional) amplían el acceso, no bajan el estándar."
-  },
-  {
-    "objectID": "index.html#v.-información-adicional",
-    "href": "index.html#v.-información-adicional",
-    "title": " Programa",
-    "section": "V. Información adicional",
-    "text": "V. Información adicional\n\nCódigo de honor\n\nSe requiere trabajo propio en el núcleo evaluado de cada tarea. Consulta la política de integridad académica de la universidad y declara cualquier uso de apoyo externo según la política de IA de abajo.\n\n\nAccesibilidad\n\nSi necesitas adaptaciones, contáctame y al centro de servicios de accesibilidad; coordinaremos para que puedas demostrar los resultados del curso.\n\n\nPolítica sobre IA (roles, por tarea)\nLa IA no sustituye tu desempeño demostrado. Distingo tres roles y qué está permitido en cada tarea (núcleo no delegable en negritas):\n\n\n\n\n\n\n\n\nRol\nQué es\nRegla\n\n\n\n\nIA como objeto de análisis\nAuditar el español del modelo (actividad T6)\nPermitida y esperada en T6. No delegable: interpretas los datos reales antes de consultar el modelo.\n\n\nIA como herramienta\nApoyarte a construir/visualizar un análisis o comunicar hallazgos\nPermitida (Tier-2/3) con declaración de cómo la usaste. No reemplaza tu interpretación ni tu tesis.\n\n\nIA como infraestructura\nEl/la docente la usó para construir este sitio y las herramientas\nSolo contexto; no es una tarea tuya.\n\n\n\n\nProhibido para T1, T2, T3 (escrito y oral): usar un LLM para producir tu análisis, tu tesis o tu defensa. El razonamiento y la postura defendida deben ser tuyos.\nEn T4 (lectura): primero interpretas el texto por tu cuenta; después puedes comparar con un resumen automático si quieres — el resumen no sustituye tu interpretación inicial.\nDeclara cualquier uso (qué herramienta, para qué). Ante la duda, pregunta. (Alineado con los documentos de IA del departamento.)"
-  },
-  {
-    "objectID": "gramatica/subjuntivo-modo.html",
-    "href": "gramatica/subjuntivo-modo.html",
-    "title": "Modo y subjuntivo",
-    "section": "",
-    "text": "El subjuntivo marca lo irreal/no comprometido (deseo, duda, emocionalidad, hipotético). Es tipológicamente raro: la mayoría de las lenguas del mundo no tienen un modo subjuntivo gramaticalizado. Por eso el español es marcado en la escala tipológica por tenerlo."
-  },
-  {
-    "objectID": "gramatica/subjuntivo-modo.html#descripción",
-    "href": "gramatica/subjuntivo-modo.html#descripción",
-    "title": "Modo y subjuntivo",
-    "section": "",
-    "text": "El subjuntivo marca lo irreal/no comprometido (deseo, duda, emocionalidad, hipotético). Es tipológicamente raro: la mayoría de las lenguas del mundo no tienen un modo subjuntivo gramaticalizado. Por eso el español es marcado en la escala tipológica por tenerlo."
-  },
-  {
-    "objectID": "gramatica/subjuntivo-modo.html#explicación",
-    "href": "gramatica/subjuntivo-modo.html#explicación",
-    "title": "Modo y subjuntivo",
+    "objectID": "gramatica/pro-drop.html#explicación",
+    "href": "gramatica/pro-drop.html#explicación",
+    "title": "Expresión del sujeto (pro-drop)",
     "section": "Explicación",
-    "text": "Explicación\n\nMarcado del irrealis: baja frecuencia, semánticamente “ligero”, alomorfo rico. El marcado (raro/tardío/primeramente perdido) predice dónde buscar erosión.\nLos outcomes (enseñamos los resultados, no la teoría):\n\nGuinea Ecuatorial: colapso casi total indicativo/subjuntivo (Lipski).\nPatrimonio LA: pérdida gradual de distinciones de modo (Silva-Corvalán 1994).\nContraste monolingüe cross-dialect: variación real (Gal 2019).\n\nDiagnóstico EN DISPUTA: ¿pérdida real del modo, o renegociación forma–función (p. ej., indicadores contextuales sustituyen la marca verbal)? Nunca presentamos “se pierde el subjuntivo” como hecho: la disputa es el modelo de pesar evidencia (U7).\nPuente tipológico: si el subjuntivo es marcado en el mundo, ¿se erosiona primero bajo contacto? La dirección del cambio (hacia el indicativo) es convergencia a lo tipológicamente común — igual que el sujeto expreso en A."
+    "text": "Explicación\n\nRango tipológico: no-pro-drop → parcial (italiano) → pleno (español). “Tipos continuos, no cajas”: ninguna lengua es pro-drop; es más o menos permisiva.\nEl continuo interno del español (marcado interno/área, vs. el núcleo pan-hispano):\n\nCaribe → sujeto expreso alto\nPeninsular → medio\nAndino → fuerte retención del sujeto nulo\n\nCriterio tipo vs. frecuencia: si todas las variedades conservan la regla de omisión y cambian la tasa de pronombres, es frecuencia; si alguna variedad pierde la permisividad estructural (necesita concordancia o sujeto), es candidato a cambio de tipo. Esto es lo que se debate con datos.\nConexión: más sujeto expreso bajo contacto/erosión acerca la variedad al patrón tipológicamente dominante (no-pro-drop). La retención pan-hispana es el estado marcado.\n\nLea también: el constituyente en periferia izquierda (dislocación, focos) para el análisis de función sintáctica (SLO 3.1.3) sobre datos reales."
   },
   {
-    "objectID": "gramatica/subjuntivo-modo.html#actividades-prácticas",
-    "href": "gramatica/subjuntivo-modo.html#actividades-prácticas",
-    "title": "Modo y subjuntivo",
+    "objectID": "gramatica/pro-drop.html#actividades-prácticas",
+    "href": "gramatica/pro-drop.html#actividades-prácticas",
+    "title": "Expresión del sujeto (pro-drop)",
     "section": "Actividades prácticas",
-    "text": "Actividades prácticas\n\nÍtem T5 (S20): reescribe “el subjuntivo está desapareciendo” (prescriptivo/teleológico) como cuenta descriptiva de re-distribución funcional.\nFicha T2B (S18): qué evidencia inclinaría pérdida ↔︎ renegociación."
+    "text": "Actividades prácticas\n\nActividad: marcado tipológico vs. interno\nFicha T2A (S11): coloca cuatro variedades en el continuo y decide tipo vs. frecuencia con criterio.\nLimitación honesta: los endpoints Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES (AR/MX/peninsular) — un problema de muestreo para discutir."
   },
   {
-    "objectID": "gramatica/contacto-reestructuracion.html",
-    "href": "gramatica/contacto-reestructuracion.html",
-    "title": "Contacto y reestructuración tipológica",
+    "objectID": "gramatica.html",
+    "href": "gramatica.html",
+    "title": " Gramática",
     "section": "",
-    "text": "El contacto lingüístico (bilingüismo, sustrato, transmisión no nativa, situaciones de poder) puede reorganizar forma y función. Pregunta de la unidad: ¿puede el contacto mover el perfil tipológico de una variedad, y en qué se diferencia de un cambio “interno”?"
-  },
-  {
-    "objectID": "gramatica/contacto-reestructuracion.html#descripción",
-    "href": "gramatica/contacto-reestructuracion.html#descripción",
-    "title": "Contacto y reestructuración tipológica",
-    "section": "",
-    "text": "El contacto lingüístico (bilingüismo, sustrato, transmisión no nativa, situaciones de poder) puede reorganizar forma y función. Pregunta de la unidad: ¿puede el contacto mover el perfil tipológico de una variedad, y en qué se diferencia de un cambio “interno”?"
-  },
-  {
-    "objectID": "gramatica/contacto-reestructuracion.html#explicación",
-    "href": "gramatica/contacto-reestructuracion.html#explicación",
-    "title": "Contacto y reestructuración tipológica",
-    "section": "Explicación",
-    "text": "Explicación\n\nMecanismos: transferencia de sustrato, reestructuración calca, simplificación morfosintáctica, criollización (gramática nueva a partir de contacto intenso).\nCasos del español: quechua→español andino; guaraní→español paraguayo; español de EE.UU. (contacto inglés, patrimonio); bozal/Pichi (AFro-hispánico, situaciones de trata y plantación) — aquí vive SLO 3.2.3: poblaciones históricamente marginadas.\nLengua vs. dialecto: Abstand (distancia estructural real) / Ausbau (estatus institucional — “un ejército y una marina”). Criterios explícitos para decidir “tipo distinto” vs. “frecuencia distinta”.\nConvergencia — con contracorriente: una variedad “desviada” puede moverse hacia lo tipológicamente común (sujeto expreso, pérdida de modo) o hacia un perfil AREAL marcado por el sustrato (rasgos andinos), no globalmente común.\n\nSesgo de selección: notamos rasgos marcados que se erosionan; perdemos los que se ganan.\nArrastre del sustrato: empuja hacia lo areal ≠ lo universal.\n\nTratamos esto como tendencia a testear, no ley (U6 + U5)."
-  },
-  {
-    "objectID": "gramatica/contacto-reestructuracion.html#actividades-prácticas",
-    "href": "gramatica/contacto-reestructuracion.html#actividades-prácticas",
-    "title": "Contacto y reestructuración tipológica",
-    "section": "Actividades prácticas",
-    "text": "Actividades prácticas\n\nActividad: ¿marcado tipológico o interno?\nSíntesis S25: pon modo + vos/vosotros + cliticos en un solo caso de contacto y decide tipo vs. frecuencia con criterio.\nGenAI como agregado (T6, S23): ¿qué variedad aplanó el modelo?"
+    "text": "Aquí hay algunos artículos adicionales sobre la gramática que podrían interesarte.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nCapítulo\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\nModificado\n\n\n\n\n\n\n\n\nUnidad A\n\n\nExpresión del sujeto (pro-drop)\n\n\nReferencia de la Unidad A: el parámetro de expresión del sujeto, su rango tipológico y el continuo del español. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nUnidad B\n\n\nModo y subjuntivo\n\n\nReferencia de la Unidad B: el marcado tipológico del irrealis y el diagnóstico en disputa sobre la “pérdida” del subjuntivo. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nUnidad C\n\n\nContacto y reestructuración tipológica\n\n\nReferencia de Unidad C: sustrato, restructuración, criollización y la pregunta de convergencia/divergencia. Sintetiza A y B. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nNo hay resultados"
   },
   {
     "objectID": "discurso.html",
@@ -420,305 +385,333 @@
     "text": "Por qué importa\n\nSi confundes las dos escalas, terminas diciendo que una variedad dialectal es “menos española” y “más raro en el mundo” a la vez — o, al revés, que es “más correcta” porque converge a un universal. Las dos conclusiones son malas. El marcador de la buena práctica es poder nombrar en qué escala estás marcando."
   },
   {
-    "objectID": "gramatica.html",
-    "href": "gramatica.html",
-    "title": " Gramática",
+    "objectID": "gramatica/contacto-reestructuracion.html",
+    "href": "gramatica/contacto-reestructuracion.html",
+    "title": "Contacto y reestructuración tipológica",
     "section": "",
-    "text": "Aquí hay algunos artículos adicionales sobre la gramática que podrían interesarte.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nCapítulo\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\nModificado\n\n\n\n\n\n\n\n\nUnidad A\n\n\nExpresión del sujeto (pro-drop)\n\n\nReferencia de la Unidad A: el parámetro de expresión del sujeto, su rango tipológico y el continuo del español. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nUnidad B\n\n\nModo y subjuntivo\n\n\nReferencia de la Unidad B: el marcado tipológico del irrealis y el diagnóstico en disputa sobre la “pérdida” del subjuntivo. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nUnidad C\n\n\nContacto y reestructuración tipológica\n\n\nReferencia de Unidad C: sustrato, restructuración, criollización y la pregunta de convergencia/divergencia. Sintetiza A y B. \n\n\n18/10/26, 17:39:58\n\n\n\n\n\n\nNo hay resultados"
+    "text": "El contacto lingüístico (bilingüismo, sustrato, transmisión no nativa, situaciones de poder) puede reorganizar forma y función. Pregunta de la unidad: ¿puede el contacto mover el perfil tipológico de una variedad, y en qué se diferencia de un cambio “interno”?"
   },
   {
-    "objectID": "gramatica/pro-drop.html",
-    "href": "gramatica/pro-drop.html",
-    "title": "Expresión del sujeto (pro-drop)",
+    "objectID": "gramatica/contacto-reestructuracion.html#descripción",
+    "href": "gramatica/contacto-reestructuracion.html#descripción",
+    "title": "Contacto y reestructuración tipológica",
     "section": "",
-    "text": "El parámetro pro-drop (dropping de pronombre) pregunta si una lengua permite/ exige omitir el sujeto sintáctico. El español es, tipológicamente, marcado: permite sujeto nulo con concordancia rica en el verbo (como ‘I eat’), mientras la mayoría de lenguas europeas (inglés, francés) exigen pronombre explícito."
+    "text": "El contacto lingüístico (bilingüismo, sustrato, transmisión no nativa, situaciones de poder) puede reorganizar forma y función. Pregunta de la unidad: ¿puede el contacto mover el perfil tipológico de una variedad, y en qué se diferencia de un cambio “interno”?"
   },
   {
-    "objectID": "gramatica/pro-drop.html#descripción",
-    "href": "gramatica/pro-drop.html#descripción",
-    "title": "Expresión del sujeto (pro-drop)",
-    "section": "",
-    "text": "El parámetro pro-drop (dropping de pronombre) pregunta si una lengua permite/ exige omitir el sujeto sintáctico. El español es, tipológicamente, marcado: permite sujeto nulo con concordancia rica en el verbo (como ‘I eat’), mientras la mayoría de lenguas europeas (inglés, francés) exigen pronombre explícito."
-  },
-  {
-    "objectID": "gramatica/pro-drop.html#explicación",
-    "href": "gramatica/pro-drop.html#explicación",
-    "title": "Expresión del sujeto (pro-drop)",
+    "objectID": "gramatica/contacto-reestructuracion.html#explicación",
+    "href": "gramatica/contacto-reestructuracion.html#explicación",
+    "title": "Contacto y reestructuración tipológica",
     "section": "Explicación",
-    "text": "Explicación\n\nRango tipológico: no-pro-drop → parcial (italiano) → pleno (español). “Tipos continuos, no cajas”: ninguna lengua es pro-drop; es más o menos permisiva.\nEl continuo interno del español (marcado interno/área, vs. el núcleo pan-hispano):\n\nCaribe → sujeto expreso alto\nPeninsular → medio\nAndino → fuerte retención del sujeto nulo\n\nCriterio tipo vs. frecuencia: si todas las variedades conservan la regla de omisión y cambian la tasa de pronombres, es frecuencia; si alguna variedad pierde la permisividad estructural (necesita concordancia o sujeto), es candidato a cambio de tipo. Esto es lo que se debate con datos.\nConexión: más sujeto expreso bajo contacto/erosión acerca la variedad al patrón tipológicamente dominante (no-pro-drop). La retención pan-hispana es el estado marcado.\n\nLea también: el constituyente en periferia izquierda (dislocación, focos) para el análisis de función sintáctica (SLO 3.1.3) sobre datos reales."
+    "text": "Explicación\n\nMecanismos: transferencia de sustrato, reestructuración calca, simplificación morfosintáctica, criollización (gramática nueva a partir de contacto intenso).\nCasos del español: quechua→español andino; guaraní→español paraguayo; español de EE.UU. (contacto inglés, patrimonio); bozal/Pichi (AFro-hispánico, situaciones de trata y plantación) — aquí vive SLO 3.2.3: poblaciones históricamente marginadas.\nLengua vs. dialecto: Abstand (distancia estructural real) / Ausbau (estatus institucional — “un ejército y una marina”). Criterios explícitos para decidir “tipo distinto” vs. “frecuencia distinta”.\nConvergencia — con contracorriente: una variedad “desviada” puede moverse hacia lo tipológicamente común (sujeto expreso, pérdida de modo) o hacia un perfil AREAL marcado por el sustrato (rasgos andinos), no globalmente común.\n\nSesgo de selección: notamos rasgos marcados que se erosionan; perdemos los que se ganan.\nArrastre del sustrato: empuja hacia lo areal ≠ lo universal.\n\nTratamos esto como tendencia a testear, no ley (U6 + U5)."
   },
   {
-    "objectID": "gramatica/pro-drop.html#actividades-prácticas",
-    "href": "gramatica/pro-drop.html#actividades-prácticas",
-    "title": "Expresión del sujeto (pro-drop)",
+    "objectID": "gramatica/contacto-reestructuracion.html#actividades-prácticas",
+    "href": "gramatica/contacto-reestructuracion.html#actividades-prácticas",
+    "title": "Contacto y reestructuración tipológica",
     "section": "Actividades prácticas",
-    "text": "Actividades prácticas\n\nActividad: marcado tipológico vs. interno\nFicha T2A (S11): coloca cuatro variedades en el continuo y decide tipo vs. frecuencia con criterio.\nLimitación honesta: los endpoints Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES (AR/MX/peninsular) — un problema de muestreo para discutir."
+    "text": "Actividades prácticas\n\nActividad: ¿marcado tipológico o interno?\nSíntesis S25: pon modo + vos/vosotros + cliticos en un solo caso de contacto y decide tipo vs. frecuencia con criterio.\nGenAI como agregado (T6, S23): ¿qué variedad aplanó el modelo?"
   },
   {
-    "objectID": "horario.html",
-    "href": "horario.html",
-    "title": " Horario",
+    "objectID": "gramatica/subjuntivo-modo.html",
+    "href": "gramatica/subjuntivo-modo.html",
+    "title": "Modo y subjuntivo",
     "section": "",
-    "text": "Nota: Este horario es tentativo y está sujeto a cambios.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCapítulo\nDía\nFecha\nEnfoque\nPlan\nDiapositiva\n\n\n\n\nPart I · Kit\n\n\n\n\n\nQué es la tipología\n1\n12 ene\nComparar vs. clasificar vs. describir; los tipos son continuos, no cajas\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLos 3 problemas del método\n2\n14 ene\nMuestreo · comparabilidad (tertium) · areal/genealógico/funcional — T1 #1\n\n\n\n\n\n\n\n\n\n\n\nUniversales y marcado\n3\n19 ene\nImplicaciones de Greenberg; marcado = raro/tardío/perdido/frecuente\n\n\n\n\n\n\n\n\n\n\n\nMicro-ejemplo trabajado\n4\n21 ene\nUna variable WALS/Grambank: cómo se codifica → qué decide el pipeline — T4\n\n\n\n\n\n\n\n\n\n\nPart I · Mapa\n\n\n\n\n\nPan-hispano como objeto técnico\n5\n26 ene\nEl núcleo común (no prestigio); Nueva gramática de la RAE\n\n\n\n\n\n\n\n\n\n\n\nLas dos escalas de marcado\n6\n28 ene\nTipológico vs. interno/área; perfil del español (sujeto nulo, subjuntivo, cliticos) — T1 #2\n\n\n\n\n\n\n\n\n\n\nUnidad A\n\n\n\n\n\nExpresión del sujeto: parámetro\n7\n2 feb\nRappel del kit; parámetro pro-drop y su rango tipológico\n\n\n\n\n\n\n\n\n\n\n\n\n\nBaseline pan-hispano\n8\n4 feb\nQué hace al español una lengua de sujeto nulo\n\n\n\n\n\n\n\n\n\n\n\nEl continuo pro-drop\n9\n9 feb\nCaribe (sujeto overt alto) → Peninsular → Andino (retención) — T4\n\n\n\n\n\n\n\n\n\n\n\nDatos reales I\n10\n11 feb\nDistribuciones de sujeto overt (app Tier-1)\n\n\n\n\n\n\n\n\n\n\n\nDatos reales II: tipo vs. frecuencia\n11\n16 feb\n¿Cambio de tipo o de frecuencia? criterios de decisión — T2A\n\n\n\n\n\n\n\n\n\n\n\n\n\nInformación estructura\n12\n18 feb\nOrden de palabras y periferia izquierda\n\n\n\n\n\n\n\n\n\n\n\nSíntesis A\n13\n23 feb\n¿Puede un dialecto cambiar su perfil tipológico? — T1 #3\n\n\n\n\n\n\n\n\nUnidad B\n\n\n\n\n\nEl subjuntivo es raro\n14\n25 feb\nRappel del kit; marcado del irrealis\n\n\n\n\n\n\n\n\n\n\n\n\n\nColapso en Guinea Ecuatorial\n15\n2 mar\nIndicativo/subjuntivo (Lipski): outcomes, no teoría\n\n\n\n\n\n\n\n\n\n\n\nPérdida en patrimonio LA\n16\n4 mar\nPérdida gradual del modo (Silva-Corvalán 1994) — T4\n\n\n\n\n\n\n\n\n\n\n\nRealidad monolingüe\n17\n16 mar\nVariación cross-dialect (Gal 2019) como contraste — T1 #4\n\n\n\n\n\n\n\n\n\n\n\nDatos reales: modo\n18\n18 mar\nDistribuciones de modo + diagnóstico en disputa — T2B\n\n\n\n\n\n\n\n\n\n\n\n\n\nDesacuerdo experto\n19\n23 mar\nPérdida vs. renegociación: dónde discrepan y por qué\n\n\n\n\n\n\n\n\n\n\n\nPuente a C: dirección del cambio\n20\n25 mar\nHacia o lejos de los universales — T5 descriptivo/prescriptivo\n\n\n\n\n\n\n\n\nUnidad C\n\n\n\n\n\nTipología del contacto\n21\n30 mar\nRappel; restructuración / sustrato / criollización\n\n\n\n\n\n\n\n\n\n\n\n\n\nCasos de contacto\n22\n1 abr\nQuechua→andino · Guaraní→paraguayo · español EE.UU. · bozal/Pichi — T1 #5\n\n\n\n\n\n\n\n\n\n\n\nGenAI como agregado\n23\n6 abr\nLa salida del modelo: ¿un dato o la norma? — T6\n\n\n\n\n\n\n\n\n\n\n\n\n\nLengua vs. dialecto\n24\n8 abr\nAbstand/Ausbau; ideología lingüística\n\n\n\n\n\n\n\n\n\n\n\nSíntesis C\n25\n13 abr\nModo + vos/vosotros + cliticos; poblaciones marginadas (3.2.3) — T1 #6\n\n\n\n\n\n\n\n\n\n\nCapstone\n\n\n\n\n\nTaller de la defensa\n26\n15 abr\nElegir pregunta abierta; evidencia; estructura — T1 #7\n\n\n\n\n\n\n\n\n\n\n\nEscritura de la defensa\n27\n20 abr\nTesis + evidencia + positionality (propia variedad como dato)\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEntrega y simulacro\n28\n22 abr\nEnsayo entregado; preparación de la defensa oral — T3 escrito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nLeyenda\n = Análisis (datos)\n = Lectura\n = Debate\n = Presentacional\n = Evaluación\n = Información"
+    "text": "El subjuntivo marca lo irreal/no comprometido (deseo, duda, emocionalidad, hipotético). Es tipológicamente raro: la mayoría de las lenguas del mundo no tienen un modo subjuntivo gramaticalizado. Por eso el español es marcado en la escala tipológica por tenerlo."
   },
   {
-    "objectID": "materiales.html",
-    "href": "materiales.html",
-    "title": " Materiales",
+    "objectID": "gramatica/subjuntivo-modo.html#descripción",
+    "href": "gramatica/subjuntivo-modo.html#descripción",
+    "title": "Modo y subjuntivo",
     "section": "",
-    "text": "Apoyos del curso (Spanish-first): el glosario, las tarjetas de frases para discutir, el banco de lecturas y la hoja de auditoría GenAI.\n\n\n\n\n\n\n   \n    \n    \n      Ordenar por\n      Por defecto\n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nSubtítulo\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\n\n\n\n\n\nActividad T6 · Unidad C\n\n\nGenAI como agregado: ¿un dato o la norma?\n\n\nAuditoría discreta (no recurrente) del español de un modelo generativo. Tratas su salida como una MUESTRA de su entrenamiento y juzgas si refleja el uso real del español. \n\n\n\n\n\n\nD3 · Per-unit sourcing\n\n\nBanco de lecturas (Spanish-first)\n\n\nLecturas por unidad, en español siempre que existe; en inglés solo fuente sin equivalente. Presupuesto ≈ 40–60 págs./semana. \n\n\n\n\n\n\nMovimientos de la disposición crítica\n\n\nFrases para discutir en español\n\n\nTarjetas de frases para participar, analizar y defender (T1–T3). Úsalas literalmente; luego hazlas tuyas. \n\n\n\n\n\n\nSPA 379\n\n\nGlosario de términos clave\n\n\nDefiniciones en español (con glos en inglés) de los términos del curso. Página viva: crece con cada unidad. \n\n\n\n\n\n\nNo hay resultados"
+    "text": "El subjuntivo marca lo irreal/no comprometido (deseo, duda, emocionalidad, hipotético). Es tipológicamente raro: la mayoría de las lenguas del mundo no tienen un modo subjuntivo gramaticalizado. Por eso el español es marcado en la escala tipológica por tenerlo."
   },
   {
-    "objectID": "materiales/genai-audit.html",
-    "href": "materiales/genai-audit.html",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
+    "objectID": "gramatica/subjuntivo-modo.html#explicación",
+    "href": "gramatica/subjuntivo-modo.html#explicación",
+    "title": "Modo y subjuntivo",
+    "section": "Explicación",
+    "text": "Explicación\n\nMarcado del irrealis: baja frecuencia, semánticamente “ligero”, alomorfo rico. El marcado (raro/tardío/primeramente perdido) predice dónde buscar erosión.\nLos outcomes (enseñamos los resultados, no la teoría):\n\nGuinea Ecuatorial: colapso casi total indicativo/subjuntivo (Lipski).\nPatrimonio LA: pérdida gradual de distinciones de modo (Silva-Corvalán 1994).\nContraste monolingüe cross-dialect: variación real (Gal 2019).\n\nDiagnóstico EN DISPUTA: ¿pérdida real del modo, o renegociación forma–función (p. ej., indicadores contextuales sustituyen la marca verbal)? Nunca presentamos “se pierde el subjuntivo” como hecho: la disputa es el modelo de pesar evidencia (U7).\nPuente tipológico: si el subjuntivo es marcado en el mundo, ¿se erosiona primero bajo contacto? La dirección del cambio (hacia el indicativo) es convergencia a lo tipológicamente común — igual que el sujeto expreso en A."
+  },
+  {
+    "objectID": "gramatica/subjuntivo-modo.html#actividades-prácticas",
+    "href": "gramatica/subjuntivo-modo.html#actividades-prácticas",
+    "title": "Modo y subjuntivo",
+    "section": "Actividades prácticas",
+    "text": "Actividades prácticas\n\nÍtem T5 (S20): reescribe “el subjuntivo está desapareciendo” (prescriptivo/teleológico) como cuenta descriptiva de re-distribución funcional.\nFicha T2B (S18): qué evidencia inclinaría pérdida ↔︎ renegociación."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": " Programa",
     "section": "",
-    "text": "Nota\n\n\n\nRegla de oro (núcleo no delegable): interpreta primero los datos reales del rasgo. Solo después consultas el modelo. Aquí la IA es el objeto de análisis, no una ayuda para pensar por ti."
+    "text": "Nota\n\n\n\nOJO: Este curso sigue en desarrollo."
   },
   {
-    "objectID": "materiales/genai-audit.html#paso-1-el-dato-real-antes-de-la-ia",
-    "href": "materiales/genai-audit.html#paso-1-el-dato-real-antes-de-la-ia",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
-    "section": "Paso 1 — El dato real (antes de la IA)",
-    "text": "Paso 1 — El dato real (antes de la IA)\nElige un rasgo de las unidades (sujeto expreso, subjuntivo, vos/vosotros, cliticos, aspiración). Registra cómo se comporta de verdad:\n\n\n\nPregunta\nTu lectura de los datos / app\n\n\n\n\n¿En qué variedades aparece y con qué frecuencia?\n\n\n\n¿Qué escala de marcado aplica (tipológica o interna)?\n\n\n\n¿Qué dice una fuente real (estudio/recuento)?"
+    "objectID": "index.html#profesor",
+    "href": "index.html#profesor",
+    "title": " Programa",
+    "section": "Profesor",
+    "text": "Profesor\n\nProfesor: Jerid Francom\nCorreo electrónico: francojc@wfu.edu\nOficina: Greene Hall 518\nHoras de consulta:"
   },
   {
-    "objectID": "materiales/genai-audit.html#paso-2-la-salida-del-modelo",
-    "href": "materiales/genai-audit.html#paso-2-la-salida-del-modelo",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
-    "section": "Paso 2 — La salida del modelo",
-    "text": "Paso 2 — La salida del modelo\nEscribe una pregunta descriptiva pero formulada como si fuera prescriptiva (para ver la trampa). Ej.: “¿Cuál es la forma correcta de decir ___ en español?” Guarda la respuesta."
+    "objectID": "index.html#i.-descripción-del-curso",
+    "href": "index.html#i.-descripción-del-curso",
+    "title": " Programa",
+    "section": "I. Descripción del curso",
+    "text": "I. Descripción del curso\nEste seminario usa la tipología lingüística como una lente sobre la variación del español. No es un recorrido por las lenguas del mundo, sino una pregunta que guía todo el curso: ¿se diferencian tipológicamente las variedades del español, o solo en la superficie? Aprendemos a pensar como lingüistas críticos: observar cómo varía realmente el español, explicarlo con cuentas lingüísticas comprobables (no con juicios de “correcto/incorrecto”), interrogar las categorías que usamos para describirlo (lengua, dialecto, tipo, norma) y reflexionar sobre nuestra propia posición dentro de esa variación.\nConstruimos primero el kit conceptual y metodológico de la tipología (muestreo, comparabilidad, marcado, universales estadísticos) y luego lo aplicamos al español en tres unidades: el orden de palabras y la expresión del sujeto (el continuo pro-drop), el modo y el subjuntivo (su marcado tipológico y su erosión en contacto), y la tipología del contacto (quechua→andino, guaraní→paraguayo, español de EE.UU., bozal/Pichi), que sintetiza todo. Rastreamos la evidencia de fuentes del uso del español, formulamos hipótesis e interpretamos resultados estadísticos y/o visuales."
   },
   {
-    "objectID": "materiales/genai-audit.html#paso-3-la-auditoría-3-movimientos",
-    "href": "materiales/genai-audit.html#paso-3-la-auditoría-3-movimientos",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
-    "section": "Paso 3 — La auditoría (3 movimientos)",
-    "text": "Paso 3 — La auditoría (3 movimientos)\nCompara Paso 1 vs. Paso 2 y responde:\n\n¿Aplanó dialectos? — ¿el modelo presentó una sola norma donde hay variación real? Da un ejemplo concreto.\n¿Borrase o estereotipó? — ¿desapareció vos, la aspiración, un sustrato andino; o asignó identidad al hablante con exceso de confianza?\n¿Prescribió en vez de describir? — ¿trató variación sistemática como “error”?"
+    "objectID": "index.html#ii.-objetivos-de-aprendizaje",
+    "href": "index.html#ii.-objetivos-de-aprendizaje",
+    "title": " Programa",
+    "section": "II. Objetivos de aprendizaje",
+    "text": "II. Objetivos de aprendizaje\nAl terminar el curso, podrás:\n\nObservar variación real del español y explicarla con una cuenta lingüística comprobable, no con un veredicto prescriptivo.\nInterrogar las categorías de análisis: qué cuenta como “una lengua”, “la norma”, “un tipo”, “correcto”.\nSopesar evidencia y desacuerdo experto sin exigir un veredicto cerrado.\nVer toda variedad —incluida la propia— como dato, no como el punto neutro.\n\nComprensiones perdurables (las ideas grandes):\n\nLas categorías lingüísticas son decisiones analíticas.\nLa variación es sistemática y gobernada por reglas.\nComparar exige una línea base y una escala (marcado tipológico vs. interno/área, sin confundirlos).\nLos universales son tendencias estadísticas en un continuo.\nToda comparación está limitada por el método (muestreo, comparabilidad, areal vs. genealógico vs. funcional).\nBajo variación y contacto, una estructura marcada se puede renegociar, moviendo una variedad hacia o lejos de lo tipológicamente común."
   },
   {
-    "objectID": "materiales/genai-audit.html#paso-4-explicarlo-por-el-método-el-punto-del-curso",
-    "href": "materiales/genai-audit.html#paso-4-explicarlo-por-el-método-el-punto-del-curso",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
-    "section": "Paso 4 — Explicarlo por el método (el punto del curso)",
-    "text": "Paso 4 — Explicarlo por el método (el punto del curso)\n\nEl modelo es un agregado estadístico sobre su corpus de entrenamiento. ¿Ese corpus es una muestra representativa del español mundial? Discute:\n\n\n¿Qué variedades están sobrerrepresentadas (norma escrita prestigiosa, web en estándar)?\n¿Conecta esto con el problema del muestreo (U5) y la comparabilidad?\n¿A quién se trata como “autoridad” cuando la salida del modelo se toma como “el español”?"
+    "objectID": "index.html#iii.-materiales",
+    "href": "index.html#iii.-materiales",
+    "title": " Programa",
+    "section": "III. Materiales",
+    "text": "III. Materiales\n\nLectura\nSe proverá un banco de lecturas en formato PDF.\nHerramientas de datos:\nAplicaciones interactivas (Tier-1) sobre corpus y bases tipológicas (p. ej., WALS/languatypologies)\nDatos pre-procesados y/o recursos visuales para interpretar\nCanvas\nCalificaciones, calendario, anuncios, etc.\nEste sitio\nPlanes, diapositivas, recursos adicionales, etc."
   },
   {
-    "objectID": "materiales/genai-audit.html#entrega",
-    "href": "materiales/genai-audit.html#entrega",
-    "title": "GenAI como agregado: ¿un dato o la norma?",
-    "section": "Entrega",
-    "text": "Entrega\nLos 3 movimientos + 1 ejemplo concreto + la explicación de muestreo = T6 (rubrica R-T6, pass/fail). Rúbrica y política de IA: Programa §IV–V."
+    "objectID": "index.html#iv.-evaluación",
+    "href": "index.html#iv.-evaluación",
+    "title": " Programa",
+    "section": "IV. Evaluación",
+    "text": "IV. Evaluación\n\n\n\nComponente\nEvidencia\n%\nTipo\n\n\n\n\n…\n…\n…\n…\n\n\n\n\nPolíticas:\n\nTrabajos tardíos: se espera entrega a tiempo; el cuaderno de evidencia usa la regla “mejores N” para dar margen. Coordina con anticipación lo excepcional.\nAsistencia/participación: la participación incluye escucha activa, preguntas aclaratorias y contribuciones reflexivas (en clase y en el foro), no solo hablar en voz alta.\nPiso de proficiencia (SLO 1.3): la defensa oral debe alcanzar los criterios 1.3.4–6 del departamento. Los apoyos (tarjetas de frases, borradores, T6 opcional) amplían el acceso, no bajan el estándar."
   },
   {
-    "objectID": "materiales/lecturas.html",
-    "href": "materiales/lecturas.html",
-    "title": "Banco de lecturas (Spanish-first)",
+    "objectID": "index.html#v.-información-adicional",
+    "href": "index.html#v.-información-adicional",
+    "title": " Programa",
+    "section": "V. Información adicional",
+    "text": "V. Información adicional\n\nCódigo de honor\n\nSe requiere trabajo propio en el núcleo evaluado de cada tarea. Consulta la política de integridad académica de la universidad y declara cualquier uso de apoyo externo según la política de IA de abajo.\n\n\nAccesibilidad\n\nSi necesitas adaptaciones, contáctame y al centro de servicios de accesibilidad; coordinaremos para que puedas demostrar los resultados del curso.\n\n\nPolítica sobre IA (roles, por tarea)\nLa IA no sustituye tu desempeño demostrado. Distingo tres roles y qué está permitido en cada tarea (núcleo no delegable en negritas):\n\n\n\n\n\n\n\n\nRol\nQué es\nRegla\n\n\n\n\nIA como objeto de análisis\nAuditar el español del modelo (actividad T6)\nPermitida y esperada en T6. No delegable: interpretas los datos reales antes de consultar el modelo.\n\n\nIA como herramienta\nApoyarte a construir/visualizar un análisis o comunicar hallazgos\nPermitida (Tier-2/3) con declaración de cómo la usaste. No reemplaza tu interpretación ni tu tesis.\n\n\nIA como infraestructura\nEl/la docente la usó para construir este sitio y las herramientas\nSolo contexto; no es una tarea tuya.\n\n\n\n\nProhibido para T1, T2, T3 (escrito y oral): usar un LLM para producir tu análisis, tu tesis o tu defensa. El razonamiento y la postura defendida deben ser tuyos.\nEn T4 (lectura): primero interpretas el texto por tu cuenta; después puedes comparar con un resumen automático si quieres — el resumen no sustituye tu interpretación inicial.\nDeclara cualquier uso (qué herramienta, para qué). Ante la duda, pregunta. (Alineado con los documentos de IA del departamento.)"
+  },
+  {
+    "objectID": "materiales/frases-para-discutir.html",
+    "href": "materiales/frases-para-discutir.html",
+    "title": "Frases para discutir en español",
     "section": "",
-    "text": "No hay libro único. Cada lectura se anuncia en su plan de clase. Esta es la fuente, por unidad. Spanish-first; inglés solo si no hay equivalente."
+    "text": "“La evidencia favorece X, aunque Y es un contra-caso porque…”\n“Mi hipótesis es X; lo que la sostendría sería el dato Z.”\n“No diría que es hecho, sino que pesa más la evidencia de…”"
   },
   {
-    "objectID": "materiales/lecturas.html#part-i-el-kit",
-    "href": "materiales/lecturas.html#part-i-el-kit",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Part I — El kit",
-    "text": "Part I — El kit\n\nComrie, B. — Teoría tipológica de las estructuras naturales (Gredos) — marcado, implicaciones, universales. ES.\nRAE — Nueva gramática de la lengua española — para el núcleo pan-hispano (excerpts). ES. Fuente autorizada en español para la baseline (S05–S06).\nWALS / languatypologies (doc en español) — el micro-ejemplo de S04 y las apps Tier-1. ES/interactiva.\nPresentaciones propias del curso (micro-intro en español del pipeline y la proveniencia de datos). ES (custom)."
-  },
-  {
-    "objectID": "materiales/lecturas.html#unidad-a-sujeto-orden",
-    "href": "materiales/lecturas.html#unidad-a-sujeto-orden",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Unidad A — Sujeto / orden",
-    "text": "Unidad A — Sujeto / orden\n\nFrancom, J. — cap. de The Handbook of Hispanic Linguistics (wh-movement / sintaxis) — adaptado al español para el marco de periferia izquierda. (custom ES)\nReseñas de variación sintáctica del español (sujeto expreso) — ES donde existen.\nIntroducciones a datos: presentación propia para la app de sujeto expreso. ES (custom).\n(Solo si hace falta: estudios primarios de pro-drop en inglés.)"
-  },
-  {
-    "objectID": "materiales/lecturas.html#unidad-b-modo-subjuntivo",
-    "href": "materiales/lecturas.html#unidad-b-modo-subjuntivo",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Unidad B — Modo / subjuntivo",
-    "text": "Unidad B — Modo / subjuntivo\n\nGal, S. et al. (2019), Spanish in Context — variación cross-dialect del subjuntivo. ES.\nLipski, J. — español de Guinea Ecuatorial / contacto — muchos artículos en español. ES.\n⚠️ Silva-Corvalán (1994) — “gradual loss of mood distinctions”, Language Variation and Change — INGLÉS (fuente sin equivalente; la usamos como dato interpretado, no como texto largo)."
-  },
-  {
-    "objectID": "materiales/lecturas.html#unidad-c-contacto-ideología",
-    "href": "materiales/lecturas.html#unidad-c-contacto-ideología",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Unidad C — Contacto + ideología",
-    "text": "Unidad C — Contacto + ideología\n\nLipski y estudios sobre español andino/paraguayo/bozal-Pichi — ES mayormente.\nMarco lengua vs. dialecto (Abstand/Ausbau): explicación propia en español + Brown & Gilman (T/V) para vos/vosotros.\nSheet de auditoría GenAI (actividad T6): GenAI como agregado."
-  },
-  {
-    "objectID": "materiales/lecturas.html#capstone-t3",
-    "href": "materiales/lecturas.html#capstone-t3",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Capstone (T3)",
-    "text": "Capstone (T3)\n\nHoja de tarea + rúbrica en español (custom). Eligen entre las fuentes ya vistas."
-  },
-  {
-    "objectID": "materiales/lecturas.html#sobre-el-libro-quantitative-text-analysis-qta",
-    "href": "materiales/lecturas.html#sobre-el-libro-quantitative-text-analysis-qta",
-    "title": "Banco de lecturas (Spanish-first)",
-    "section": "Sobre el libro Quantitative Text Analysis (QTA)",
-    "text": "Sobre el libro Quantitative Text Analysis (QTA)\n\nRol: soporte metodológico, no texto del curso. El libro es del docente, en inglés, CC BY-NC-ND (qtalr.com/book).\nDónde sirve: el módulo “cómo se hace el dato” (S04) y el pipeline hablaste→hablastes; apoyo para construir las apps (D4).\nUso estudiantil: referencia opcional con atribución; no se redistribuye traducción. Ver nota de licencia.\n\n\nVerificar antes de usar: las citas bibliográficas de design/README.md están marcadas “provisional; verify before use”. Confirma datos exactos de cada fuente al preparar la unidad."
-  },
-  {
-    "objectID": "planes/plan-01-kit.html",
-    "href": "planes/plan-01-kit.html",
-    "title": "S01 · ¿Qué es la tipología?",
+    "objectID": "materiales/frases-para-discutir.html#plantear-una-postura-matizada",
+    "href": "materiales/frases-para-discutir.html#plantear-una-postura-matizada",
+    "title": "Frases para discutir en español",
     "section": "",
-    "text": "Definir la tipología por contraste con la clasificación genética (familias) y la gramática descriptiva de una sola lengua.\nExplicar con mis palabras por qué “ninguna lengua es SOV; es más SOV que lo contrario”.\nPlantear la pregunta del curso: ¿las variedades del español difieren tipológicamente o solo en la superficie?\nNombrar los tres problemas que limitarán toda conclusión (muestreo, comparabilidad, correlación ≠ causalidad), que veremos a fondo mañana."
+    "text": "“La evidencia favorece X, aunque Y es un contra-caso porque…”\n“Mi hipótesis es X; lo que la sostendría sería el dato Z.”\n“No diría que es hecho, sino que pesa más la evidencia de…”"
   },
   {
-    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S01 · ¿Qué es la tipología?",
+    "objectID": "materiales/frases-para-discutir.html#nombrar-la-escala-el-movimiento-clave",
+    "href": "materiales/frases-para-discutir.html#nombrar-la-escala-el-movimiento-clave",
+    "title": "Frases para discutir en español",
+    "section": "Nombrar la escala (el movimiento clave)",
+    "text": "Nombrar la escala (el movimiento clave)\n\n“Eso es marcado tipológicamente (raro en el mundo), no necesariamente dentro del español.”\n“Cuidado: aquí la desviación es interna (vs. el núcleo pan-hispano), no global.”\n“¿En qué escala lo estamos midiendo?”"
+  },
+  {
+    "objectID": "materiales/frases-para-discutir.html#descriptivo-no-prescriptivo",
+    "href": "materiales/frases-para-discutir.html#descriptivo-no-prescriptivo",
+    "title": "Frases para discutir en español",
+    "section": "Descriptivo, no prescriptivo",
+    "text": "Descriptivo, no prescriptivo\n\n“No es que se pierda la estructura; se re-distribuye la función.”\n“Es variación sistemática, no error.”\n“Deja de ser ‘correcto/incorrecto’ y pasa a ser ‘más/menos frecuente en qué condiciones’.”"
+  },
+  {
+    "objectID": "materiales/frases-para-discutir.html#manejar-el-desacuerdo-y-el-método",
+    "href": "materiales/frases-para-discutir.html#manejar-el-desacuerdo-y-el-método",
+    "title": "Frases para discutir en español",
+    "section": "Manejar el desacuerdo y el método",
+    "text": "Manejar el desacuerdo y el método\n\n“Aquí los autores discrepan sobre la interpretación, no sobre el dato.”\n“Ojo con el muestreo: ¿estos puntos son independientes?”\n“¿Es el mismo rasgo de verdad? — problema de comparabilidad.”\n“¿Frecuencia distinta o tipo distinto? ¿Qué criterio lo decide?”"
+  },
+  {
+    "objectID": "materiales/frases-para-discutir.html#cerrar-con-posición-propia-el-final-de-t3",
+    "href": "materiales/frases-para-discutir.html#cerrar-con-posición-propia-el-final-de-t3",
+    "title": "Frases para discutir en español",
+    "section": "Cerrar con posición propia (el final de T3)",
+    "text": "Cerrar con posición propia (el final de T3)\n\n“En mi variedad yo daba por hecho que…; los datos me mostraron que…”\n“Toda variedad del español es un dato más, no el punto neutro.”\n“Lo que antes sonaba ‘raro’ resulta ser sistemático.”\n\n\nPara la defensa oral: prepara 3 de estas antes de entrar. Reduce la carga y sube la calidad del razonamiento. Ver Estrategias."
+  },
+  {
+    "objectID": "materiales/glosario.html",
+    "href": "materiales/glosario.html",
+    "title": "Glosario de términos clave",
     "section": "",
-    "text": "Definir la tipología por contraste con la clasificación genética (familias) y la gramática descriptiva de una sola lengua.\nExplicar con mis palabras por qué “ninguna lengua es SOV; es más SOV que lo contrario”.\nPlantear la pregunta del curso: ¿las variedades del español difieren tipológicamente o solo en la superficie?\nNombrar los tres problemas que limitarán toda conclusión (muestreo, comparabilidad, correlación ≠ causalidad), que veremos a fondo mañana."
+    "text": "Definiciones operativas para el curso. El glo es solo un ancla; el objetivo es usar el término en español."
   },
   {
-    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S01 · ¿Qué es la tipología?",
+    "objectID": "materiales/glosario.html#tipología-y-método",
+    "href": "materiales/glosario.html#tipología-y-método",
+    "title": "Glosario de términos clave",
+    "section": "Tipología y método",
+    "text": "Tipología y método\n\nTipología lingüística (linguistic typology) — comparación sistemática de estructuras entre lenguas para hallar patrones. No es clasificar por familias.\nMuestra (sample) — las lenguas/variedades que incluimos; nunca neutra. Ver problema del muestreo.\nIndependencia de puntos de datos (data-point independence) — lenguas emparentadas o en contacto no son observaciones independientes.\nComparabilidad / tertium comparationis — “la misma” cosa que comparamos entre lenguas; una decisión del analista, no un hecho.\nAreal / genealógico / funcional — tres explicaciones rivales de un patrón (contacto / herencia / presión cognitiva). Correlación ≠ causalidad."
+  },
+  {
+    "objectID": "materiales/glosario.html#marcado-y-universales",
+    "href": "materiales/glosario.html#marcado-y-universales",
+    "title": "Glosario de términos clave",
+    "section": "Marcado y universales",
+    "text": "Marcado y universales\n\nUniversal absoluto — vale para (casi) todas las lenguas. Universal estadístico — tendencia, no ley.\nImplicacional — “si X, entonces Y” (p. ej., trial → dual → singular/plural).\nMarcado (marked) — raro · tardío en adquisición · primero en perderse · baja frecuencia.\nMarcado tipológico vs. marcado interno/área — las dos escalas del curso. Ver Estrategias.\nNúcleo pan-hispano (cross-varietal common core) — lo compartido entre variedades; no una norma prestigiosa."
+  },
+  {
+    "objectID": "materiales/glosario.html#estructuras-del-español-nuestros-casos",
+    "href": "materiales/glosario.html#estructuras-del-español-nuestros-casos",
+    "title": "Glosario de términos clave",
+    "section": "Estructuras del español (nuestros casos)",
+    "text": "Estructuras del español (nuestros casos)\n\nPro-drop / sujeto nulo — permitir/ exigir omitir el sujeto. El español es marcado (lo permite con concordancia rica).\nSujeto expreso / overt — pronombre pronunciado; su tasa define el continuo interno.\nPeriferia izquierda (left periphery) — zona inicial de la oración (foco, tema, dislocación).\nIrrealis / subjuntivo — modo de lo no comprometido; tipológicamente raro.\nCópula doble (ser/estar) y clíticos de objeto — marcas tipológicas del español.\nAbstand / Ausbau — distancia lingüística real vs. construcción institucional de “una lengua”."
+  },
+  {
+    "objectID": "materiales/glosario.html#contacto",
+    "href": "materiales/glosario.html#contacto",
+    "title": "Glosario de términos clave",
+    "section": "Contacto",
+    "text": "Contacto\n\nSustrato — influencia de una lengua desplazada sobre la que la sustituye.\nReestructuración — reorganización de forma/función por contacto.\nCriollización — creación de una gramática nueva en contacto intenso.\nConvergencia — moverse hacia lo tipológicamente común (ojo: contracorriente areal del sustrato)."
+  },
+  {
+    "objectID": "planes.html",
+    "href": "planes.html",
+    "title": " Planes",
+    "section": "",
+    "text": "Ordenar por\n      Por defecto\n      \n        Fecha - Más antiguo\n      \n      \n        Fecha - Más reciente\n      \n      \n        Título\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\n\n\nFecha\n\n\n\nTítulo\n\n\n\nDescripción\n\n\n\n\n\n\n\n\n12 ene 2027\n\n\nS01 · ¿Qué es la tipología?\n\n\nAbrimos el curso y el kit tipológico: comparar estructuras entre lenguas para ver patrones. Des-aprendemos los “cajas”: los tipos son continuos. \n\n\n\n\n\n\n21 ene 2027\n\n\nS04 · Un micro-ejemplo trabajado (cómo se hace el dato)\n\n\nEnseñamos el método POR un caso: una variable WALS/Grambank de principio a fin. Aquí se ve qué decide el pipeline y se mata la crítica de “caja negra”. \n\n\n\n\n\n\n28 ene 2027\n\n\nS06 · Las dos escalas de marcado (y el perfil del español)\n\n\nEl momento bisagra del curso: marcado TIPOLOGICO (vs. el mundo) ≠ marcado INTERNO/AREA (vs. el núcleo pan-hispano). Nombramos ambas escalas para no confundirlas jamás. \n\n\n\n\n\n\n16 feb 2027\n\n\nS11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)\n\n\nCorazón de la Unidad A. Interpretamos distribuciones reales de sujeto expreso y decidimos con criterios explícitos si una variedad cambió su TIPO tipológico o solo la FRECUENCIA de una forma. \n\n\n\n\n\n\n18 mar 2027\n\n\nS18 · Datos reales: el subjuntivo bajo contacto (T2B)\n\n\nCorazón de la Unidad B. Distribuciones de modo y el diagnóstico EN DISPUTA: ¿pérdida del subjuntivo o renegociación forma-función? Enseñamos a pesar la evidencia, no a dar el veredicto. \n\n\n\n\n\n\n6 abr 2027\n\n\nS23 · GenAI como agregado: ¿un dato o la norma? (T6)\n\n\nActividad DISCRETA (no recurrente). El español de un modelo de IA es un agregado sobre su corpus de entrenamiento. Los estudiantes juzgan si ese agregado refleja el uso real del español y conectan la distorsión con el problema de muestreo. \n\n\n\n\n\n\n13 abr 2027\n\n\nS25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas\n\n\nUnidad C sintetiza A y B en un marco: ¿puede el contacto mover el PERFIL tipológico de una variedad, y en qué se diferencia de un cambio “normal”? Aquí aterrizamos SLO 3.2.3 (poblaciones históricamente marginadas). \n\n\n\n\n\n\n20 abr 2027\n\n\nS27 · Escritura de la defensa interpretativa (capstone)\n\n\nAlto y final de la disposición. Cada estudiante construye la defensa de UNA pregunta abierta en español: tesis + evidencia + manejo de contra-evidencia + posición propia (variedad como dato). \n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "planes/plan-04-microejemplo.html",
+    "href": "planes/plan-04-microejemplo.html",
+    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "section": "",
+    "text": "Trazar una variable tipológica desde la muestra de lenguas → codificación del rasgo → normalización → conteos → mapa/estadística.\nIdentificar dónde decidió el analista (comparabilidad: ¿qué cuenta como “el mismo” rasgo?) y cómo eso sesga el resultado.\nDistinguir universal absoluto de estadístico leyendo la distribución.\nJustificar por qué nosotros interpretamos datos pre-procesados (no codificamos): el pipeline ya tomó decisiones."
+  },
+  {
+    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
+    "section": "",
+    "text": "Trazar una variable tipológica desde la muestra de lenguas → codificación del rasgo → normalización → conteos → mapa/estadística.\nIdentificar dónde decidió el analista (comparabilidad: ¿qué cuenta como “el mismo” rasgo?) y cómo eso sesga el resultado.\nDistinguir universal absoluto de estadístico leyendo la distribución.\nJustificar por qué nosotros interpretamos datos pre-procesados (no codificamos): el pipeline ya tomó decisiones."
+  },
+  {
+    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nLee la presentación del curso (este plan) y la Página 1 del glosario (tipología, muestra, rasgo).\nTrae una forma del español que “suene raro” en otro lado (para S05/S06).\n\n\n\nDespués de clase\n\nDiapositivas\nApunta en tu cuaderno: 3 estructuras del español que crees que son “normales” y una que creas “rara”."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nExplora libremente una entrada de languatypologies / WALS (elegida en clase). Lee el “How this feature was coded”.\nRevisa el glosario: tertium comparationis, normalización, rasgo.\n\n\n\nDespués de clase\n\nApunte de método en el cuaderno: “3 decisiones que tomó el pipeline de esta variable”."
   },
   {
-    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S01 · ¿Qué es la tipología?",
+    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nAntes de clase\nPropósito: llegar con una intuición propia para confrontarla.\n\n\n1. Sondeo rápido (5 min) — en el foro: una forma de español que en otro lugar se marcaría como “incorrecta”. Sin juicio; solo dato.\n\n\n\n\nEn clase (75 min)\n\nArranque / rappel (10): la pregunta del día en la pizarra; no-notes-dump del sondeo.\nEntrada (20): mini-expo + ejemplos: comparar vs. clasificar vs. describir; el continuo, no la caja (un diagrama de gramaje SOV–VSO).\nTaller (30): en parejas, toman 5 lenguas de languatypologies y ubican una estructura; reportan si “encaja en una caja” (no).\nPlenaria (15): ponemos en común; sembramos los tres problemas para S02."
+    "text": "Actividades\n\n\n\nAntes de clase\nPropósito: ver la “tripa” antes de usar la app.\n\n\n\nCaptura de pantalla del mapa de tu rasgo + 2 lenguas que te sorprendan.\n\n\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel S02-S03 (los 3 problemas; implicaciones de Greenberg).\nEntrada (20): recorremos JUNTOS una variable de punta a punta; el caso paralelo del leveling (hablaste → hablastes: corpus crudo → normalizado → conteos) muestra que “procesar” es decidir.\nTaller (30): en parejas, otra micro-variable; marquen 1 decisión de comparabilidad y 1 riesgo de muestreo.\nPlenaria (15): “¿qué nos hizo decidir el dato por nosotros?” → licencia el diseño Tier-1 de todo el curso."
   },
   {
-    "objectID": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-01-kit.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S01 · ¿Qué es la tipología?",
+    "objectID": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-04-microejemplo.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S04 · Un micro-ejemplo trabajado (cómo se hace el dato)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nPróxima evaluación: T1 · Cuaderno de evidencia #1 (S02). Empieza hoy la primera entrada de la lista de “supuestos” propios."
+    "text": "Aplicaciones\n\nHoy se entrega T4 (lectura interpretativa breve): reformula la tesis de una nota metodológica en español; identifica 1 evidencia de apoyo. Núcleo no delegable: interpretas antes de cualquier resumen automático."
   },
   {
-    "objectID": "planes/plan-06-escalas.html",
-    "href": "planes/plan-06-escalas.html",
-    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
+    "objectID": "planes/plan-11-sujeto-datos.html",
+    "href": "planes/plan-11-sujeto-datos.html",
+    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
     "section": "",
-    "text": "Definir el núcleo pan-hispano como objeto técnico (lo compartido entre variedades), NO una variedad prestigiosa.\nDistinguir y nombrar las dos escalas de marcado: tipológica y interna/área.\nPuntuar el español contra las lenguas del mundo en ambas direcciones:\n\nPoco marcado: alineativo nominativo-acusativo; SVO; 5 vocales; sin tono; dos géneros; aspecto PF/IMP.\nMarcado (las sorpresas): sujeto nulo, subjuntivo, cópula doble ser/estar, cliticos, orden N-Adj mixto, residuo neutro lo.\n\nPreparar la pregunta de Part II: ¿qué le pasa a una estructura marcada bajo variación y contacto? (→ Units A y B)."
+    "text": "Leer las distribuciones de sujeto expreso vs. nulo por variedad en la app Tier-1.\nAplicar criterios de decisión: ¿en qué caso diríamos “nuevo tipo” y no “misma forma, distinta frecuencia”?\nAnalizar la función sintáctica de constituyentes en datos de variación (SLO 3.1.3): sujeto léxico vs. clítico/empty en contexto de periferia.\nConectar la forma con región/comunidad/contacto (SLO 3.2.2) y con un proceso tipológicamente frecuente (3.2.3): la deriva hacia lenguas no-pro-drop.\nNombrar una limitación de los datos (¿Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES? → problema de muestreo, U5)."
   },
   {
-    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
+    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
     "section": "",
-    "text": "Definir el núcleo pan-hispano como objeto técnico (lo compartido entre variedades), NO una variedad prestigiosa.\nDistinguir y nombrar las dos escalas de marcado: tipológica y interna/área.\nPuntuar el español contra las lenguas del mundo en ambas direcciones:\n\nPoco marcado: alineativo nominativo-acusativo; SVO; 5 vocales; sin tono; dos géneros; aspecto PF/IMP.\nMarcado (las sorpresas): sujeto nulo, subjuntivo, cópula doble ser/estar, cliticos, orden N-Adj mixto, residuo neutro lo.\n\nPreparar la pregunta de Part II: ¿qué le pasa a una estructura marcada bajo variación y contacto? (→ Units A y B)."
+    "text": "Leer las distribuciones de sujeto expreso vs. nulo por variedad en la app Tier-1.\nAplicar criterios de decisión: ¿en qué caso diríamos “nuevo tipo” y no “misma forma, distinta frecuencia”?\nAnalizar la función sintáctica de constituyentes en datos de variación (SLO 3.1.3): sujeto léxico vs. clítico/empty en contexto de periferia.\nConectar la forma con región/comunidad/contacto (SLO 3.2.2) y con un proceso tipológicamente frecuente (3.2.3): la deriva hacia lenguas no-pro-drop.\nNombrar una limitación de los datos (¿Caribe/Andino vienen de recuentos publicados, no de ACTIV-ES? → problema de muestreo, U5)."
   },
   {
-    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
+    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nS05 (mapa): lecturas sobre el núcleo común; trae tu ejemplo de variedad de la S01.\nComrie (español), cap. de marcado — selección.\n\n\n\nDespués de clase\n\nCuaderno T1 #2: una estructura del español en CADA escala (tipológica e interna), sin confundirlas."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nContinúa S09–S10: ya viste el continuo Caribe → Peninsular → Andino y las distribuciones I.\nT4 (S09) leído; trae tus notas del tertium comparationis.\n\n\n\nDespués de clase\n\nEntrega T2A (análisis contextualizado) por Canvas. Rubrica R-T2 (3.2.1–3)."
   },
   {
-    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
+    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): “un dialecto con ejército y marina” — siembra de lengua vs. dialecto.\nEntrada (20): el núcleo pan-hispano (¿por qué definirlo evita decir que hay un “español real”?); las dos escalas.\nTaller (30): tarjetas de rasgos; en equipos clasifican cada uno: ¿marcado tipológicamente? ¿marcado internamente (alguna variedad se desvía)? — la simetría es la lección crítica.\nPlenaria (15): fijamos el “perfil marcado del español = sujeto nulo + subjuntivo + cliticos” como hilo de todo el curso."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel del kit (30 s): muestreo / comparabilidad. ¿Qué escala de marcado estamos usando aquí? (interna vs. tipológica).\nEntrada (15): walkthrough de la app Tier-1 con una variable; modelamos leer una distribución sin saltar a “correcto/incorrecto”.\nTaller (35): en parejas, interpretan el continuo de sujeto expreso; completan la ficha T2A: (a) colocan cada variedad; (b) deciden tipo vs. frecuencia con criterio; (c) escriben “¿qué evidencia lo resolvería?”. Núcleo no delegable: interpretan el dato antes de cualquier ayuda.\nPlenaria (15): contrastamos decisiones; discutimos el sesgo de muestreo de los endpoints."
   },
   {
-    "objectID": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-06-escalas.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S06 · Las dos escalas de marcado (y el perfil del español)",
+    "objectID": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-11-sujeto-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S11 · Datos reales: ¿cambio de tipo o de frecuencia? (T2A)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nCierre de Part I. Mañana (S07) Unidad A. La defensa capstone (T3) debe usar explícitamente las dos escalas; entrena eso en cada entrada T1."
+    "text": "Aplicaciones\n\nT2A ENTREGABLE (30% del componente de análisis). Revisa R-T2 antes de entregar: ¿distingues las dos escalas? ¿nombras una limitación de datos?\nPróximo: cierre de Unidad A (S12–S13) y puente a Unidad B (subjuntivo)."
   },
   {
-    "objectID": "planes/plan-18-subjuntivo-datos.html",
-    "href": "planes/plan-18-subjuntivo-datos.html",
-    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
+    "objectID": "planes/plan-23-genai.html",
+    "href": "planes/plan-23-genai.html",
+    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
     "section": "",
-    "text": "Comparar los outcomes (no la teoría): colapso indicativo/subjuntivo en Guinea Ecuatorial (Lipski) vs. pérdida gradual en patrimonio LA (Silva-Corvalán 1994) vs. variación monolingüe (Gal 2019).\nInterpretar distribuciones de uso de modo (Tier-1) y distinguir “pérdida” de “renegociación” con evidencia.\nArgumentar por qué NO presentamos la “pérdida del subjuntivo” como hecho cerrado.\nAplicar la escala tipológica: si el modo es marcado en el mundo, ¿se erosiona primero en contacto? (pregunta, no tesis)."
+    "text": "Tratar la salida de un modelo generativo como una muestra agregada de su corpus de entrenamiento, NO como “el español”.\nDetectar al menos una variedad / dialecto / registro que el modelo aplanó, borró o estereotipó (p. ej., vos, aspiración, ustedes vs. vosotros, sustrato andino).\nContrastar esa representación con evidencia real (la app/dataset de Unidad A o C).\nVincular la distorsión con el problema del muestreo / comparabilidad (U5) y con la ideología (¿a quién se trata como normativo?)."
   },
   {
-    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
+    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
     "section": "",
-    "text": "Comparar los outcomes (no la teoría): colapso indicativo/subjuntivo en Guinea Ecuatorial (Lipski) vs. pérdida gradual en patrimonio LA (Silva-Corvalán 1994) vs. variación monolingüe (Gal 2019).\nInterpretar distribuciones de uso de modo (Tier-1) y distinguir “pérdida” de “renegociación” con evidencia.\nArgumentar por qué NO presentamos la “pérdida del subjuntivo” como hecho cerrado.\nAplicar la escala tipológica: si el modo es marcado en el mundo, ¿se erosiona primero en contacto? (pregunta, no tesis)."
+    "text": "Tratar la salida de un modelo generativo como una muestra agregada de su corpus de entrenamiento, NO como “el español”.\nDetectar al menos una variedad / dialecto / registro que el modelo aplanó, borró o estereotipó (p. ej., vos, aspiración, ustedes vs. vosotros, sustrato andino).\nContrastar esa representación con evidencia real (la app/dataset de Unidad A o C).\nVincular la distorsión con el problema del muestreo / comparabilidad (U5) y con la ideología (¿a quién se trata como normativo?)."
   },
   {
-    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
+    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nS15–S17 vistos; lecturas (Gal 2019 Spanish in Context en español; Lipski; Silva-Corvalán 1994 en inglés — fuente sin equivalente).\nT1 #4 entregado (S17).\n\n\n\nDespués de clase\n\nEntrega T2B. Rubrica R-T2 (3.2.1–3, foco 3.2.3 proceso tipológicamente frecuente)."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nTrae una pregunta descriptiva sobre una variedad concreta (p. ej., “¿cómo se conjuga con vos en un texto formal?”).\nRevisa la tabla-dato real asignada (unidad A o C).\n\n\n\nDespués de clase\n\nEntrega T6 (guía de 3 movimientos). Rúbrica R-T6 (pass/fail en los tres movimientos + 1 ejemplo concreto)."
   },
   {
-    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
+    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel: marcado del irrealis (S14). ¿Qué escala usamos? (tipológica = el subjuntivo es raro en el mundo).\nEntrada (15): ponemos las tres fuentes UNO al lado del otro: mismo “objeto”, distinto diagnóstico.\nTaller (35): en parejas, leen las distribuciones de modo; completan T2B: ¿los datos de una variedad favorecen pérdida o renegociación? ¿qué evidencia inclinaría la balanza?\nPlenaria (15): dónde discrepan los expertos y por qué — modelamos el peso de la evidencia (U7)."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): ¿“la norma” o “un dato”? la pregunta del curso en versión 2027.\nEntrada (15): qué es un agregado estadístico; por qué un LLM “confla” variedades y prefiere la más representada.\nTaller (35): Núcleo no delegable — primero el dato real. Pasos: (1) interpretan la distribución REAL del rasgo; (2) consultan el modelo con su pregunta; (3) señalan dónde difiere y qué variedad desapareció; (4) lo explican por sesgo de muestreo, no por “el modelo está mal”.\nPlenaria (15): compartimos casos; discutimos quién se vuelve “autoridad” normativa."
   },
   {
-    "objectID": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-18-subjuntivo-datos.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S18 · Datos reales: el subjuntivo bajo contacto (T2B)",
+    "objectID": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-23-genai.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S23 · GenAI como agregado: ¿un dato o la norma? (T6)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nT2B ENTREGABLE. Buen momento para el ítem T5 (descriptivo vs. prescriptivo, SLO 3.1.4) en S20: “deja de existir el subjuntivo” es prescriptivo; la cuenta descriptiva describe re-distribución funcional."
+    "text": "Aplicaciones\n\nT6 ENTREGABLE (10% con T5). Uso de IA aquí es el objeto de análisis, no una ayuda para producir tu idea. Política de IA en el programa (§V): declarabilidad + no-delegabilidad.\nOptional (herramienta): puedes usar IA para visualizar tu análisis, con declaración. No sustituye tu interpretación."
   },
   {
-    "objectID": "planes/plan-25-sintesis-c.html",
-    "href": "planes/plan-25-sintesis-c.html",
-    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "objectID": "planes/plan-27-defensa.html",
+    "href": "planes/plan-27-defensa.html",
+    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
     "section": "",
-    "text": "Sintetizar en un solo marco: modo (B) + vos/vosotros + cliticos (A), visto bajo contacto (C).\nEvaluar la pregunta de convergencia: cuando una variedad se desvía internamente, ¿se mueve hacia o lejos de lo tipológicamente común? (contracorrientes: sesgo de selección vs. arrastre del sustrato).\nAplicar el cuadro Abstand/Ausbau (S24) para decidir “tipo distinto vs. frecuencia distinta” con criterio.\nContextualizar con poblaciones históricamente marginadas: quechua→andino, guaraní→paraguayo, bozal/Pichi (SLO 3.2.3)."
+    "text": "Formular una tesis/interpretación defendible sobre una pregunta abierta del curso (p. ej., “¿hay un solo español?”, “¿el contacto cambió el tipo del andino?”, “¿se pierde o se renegocia el subjuntivo?”).\nSustentarla con evidencia real (datos/estudios) y nombrar el desacuerdo experto (U7) — presentar la hipótesis como peso de la evidencia, no como hecho.\nUsar las dos escalas de marcado sin confundirlas (U3) y proponer una dirección de cambio (U6).\nCerrar con positionality: ver toda variedad como dato, incluida la propia + un supuesto que traías (S8 + S10)."
   },
   {
-    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
-    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c2066612062756c6c73657965203e7d7d-objetivos",
+    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
     "section": "",
-    "text": "Sintetizar en un solo marco: modo (B) + vos/vosotros + cliticos (A), visto bajo contacto (C).\nEvaluar la pregunta de convergencia: cuando una variedad se desvía internamente, ¿se mueve hacia o lejos de lo tipológicamente común? (contracorrientes: sesgo de selección vs. arrastre del sustrato).\nAplicar el cuadro Abstand/Ausbau (S24) para decidir “tipo distinto vs. frecuencia distinta” con criterio.\nContextualizar con poblaciones históricamente marginadas: quechua→andino, guaraní→paraguayo, bozal/Pichi (SLO 3.2.3)."
+    "text": "Formular una tesis/interpretación defendible sobre una pregunta abierta del curso (p. ej., “¿hay un solo español?”, “¿el contacto cambió el tipo del andino?”, “¿se pierde o se renegocia el subjuntivo?”).\nSustentarla con evidencia real (datos/estudios) y nombrar el desacuerdo experto (U7) — presentar la hipótesis como peso de la evidencia, no como hecho.\nUsar las dos escalas de marcado sin confundirlas (U3) y proponer una dirección de cambio (U6).\nCerrar con positionality: ver toda variedad como dato, incluida la propia + un supuesto que traías (S8 + S10)."
   },
   {
-    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
-    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206261736562616c6c2d6261742d62616c6c203e7d7d-materiales",
+    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
     "section": " Materiales",
-    "text": "Materiales\n\n\n\nAntes de clase\n\nS21–S24 vistos (tipología del contacto; casos; GenAI/T6; lengua vs. dialecto).\nT1 #5 entregado (S22).\n\n\n\nDespués de clase\n\nT1 #6 (síntesis de las tres unidades en una entrada).\nElige tu pregunta abierta para el capstone (T3)."
+    "text": "Materiales\n\n\n\nAntes de clase\n\nS26 (taller): pregunta elegida + esqueleto de evidencia.\nRúbrica R-T3 (SLO 1.3.4–6) leída.\n\n\n\nDespués de clase\n\nBorrador → retro → entrega escrita en S28; defensa oral en el bloque final (opcional; no hay examen escrito final)."
   },
   {
-    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
-    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c20666120706572736f6e2d72756e6e696e67203e7d7d-actividades",
+    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
     "section": " Actividades",
-    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): rappel del kit + “una lengua es un dialecto con ejército y marina”.\nEntrada (15): ponemos A y B JUNTO a un caso de contacto: ¿reestructuración o frecuencia? ¿converge o diverge?\nTaller (30): en equipos, un caso de contacto; deciden con criterios explícitos y escriben QUÉ evidencia resolvería el caso.\nPlenaria (20): mapeamos los tres “hilos” del curso (sujeto / modo / contacto) sobre una sola pizarra — el cierre del arco."
+    "text": "Actividades\n\n\n\nEn clase (75 min)\n\nArranque (10): criterios de una defensa sólida (de la rúbrica) en la pizarra.\nEntrada (10): cómo no cerrar la pregunta: defender una interpretación matizada.\nTaller (40): escritura guiada en clase + peer-review con la rúbrica (roles: moderador / relator / provocador). Pares cuestionan la evidencia, no la opinión.\nPlenaria (15): 2–3 volunteers presentan su tesis + 1 contra-ejemplo; entrenamos el manejo de la objeción."
   },
   {
-    "objectID": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "href": "planes/plan-25-sintesis-c.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
-    "title": "S25 · Síntesis Unidad C: contacto, ideología y poblaciones marginadas",
+    "objectID": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "href": "planes/plan-27-defensa.html#b58fc729-690b-4000-b19f-365a4093b2ff7b7b3c206661206d6564616c203e7d7d-aplicaciones",
+    "title": "S27 · Escritura de la defensa interpretativa (capstone)",
     "section": " Aplicaciones",
-    "text": "Aplicaciones\n\nCierre de las tres unidades. Mañana: taller del capstone (S26). Tu defensa (T3) debe mostrar las dos escalas y una dirección de cambio con evidencia."
-  },
-  {
-    "objectID": "practica.html",
-    "href": "practica.html",
-    "title": " Práctica",
-    "section": "",
-    "text": "Estas herramientas complementan el trabajo del curso con práctica breve, repetición y retroalimentación inmediata."
-  },
-  {
-    "objectID": "practica.html#practica-a-tu-ritmo",
-    "href": "practica.html#practica-a-tu-ritmo",
-    "title": " Práctica",
-    "section": "",
-    "text": "Estas herramientas complementan el trabajo del curso con práctica breve, repetición y retroalimentación inmediata."
-  },
-  {
-    "objectID": "practica.html#próximamente",
-    "href": "practica.html#próximamente",
-    "title": " Práctica",
-    "section": "Próximamente",
-    "text": "Próximamente\nMás aplicaciones de práctica se incorporarán aquí a medida que estén listas."
+    "text": "Aplicaciones\n\nT3 = 30%. Pisos de SLO 1.3: 1.3.4 tesis, 1.3.5 evidencia, 1.3.6 conectores/organización — deben alcanzarse en la defensa oral. Usa las tarjetas de frases. Núcleo no delegable: tesis y evidencia son tuyas (ver política de IA §V)."
   },
   {
     "objectID": "strategies.html",

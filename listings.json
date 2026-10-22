@@ -1,19 +1,19 @@
 [
   {
-    "listing": "/pronunciacion.html",
-    "items": []
+    "listing": "/materiales.html",
+    "items": [
+      "/materiales/genai-audit.html",
+      "/materiales/lecturas.html",
+      "/materiales/frases-para-discutir.html",
+      "/materiales/glosario.html"
+    ]
   },
   {
-    "listing": "/planes.html",
+    "listing": "/gramatica.html",
     "items": [
-      "/planes/plan-01-kit.html",
-      "/planes/plan-04-microejemplo.html",
-      "/planes/plan-06-escalas.html",
-      "/planes/plan-11-sujeto-datos.html",
-      "/planes/plan-18-subjuntivo-datos.html",
-      "/planes/plan-23-genai.html",
-      "/planes/plan-25-sintesis-c.html",
-      "/planes/plan-27-defensa.html"
+      "/gramatica/pro-drop.html",
+      "/gramatica/subjuntivo-modo.html",
+      "/gramatica/contacto-reestructuracion.html"
     ]
   },
   {
@@ -37,20 +37,16 @@
     ]
   },
   {
-    "listing": "/gramatica.html",
+    "listing": "/planes.html",
     "items": [
-      "/gramatica/pro-drop.html",
-      "/gramatica/subjuntivo-modo.html",
-      "/gramatica/contacto-reestructuracion.html"
-    ]
-  },
-  {
-    "listing": "/materiales.html",
-    "items": [
-      "/materiales/genai-audit.html",
-      "/materiales/lecturas.html",
-      "/materiales/frases-para-discutir.html",
-      "/materiales/glosario.html"
+      "/planes/plan-01-kit.html",
+      "/planes/plan-04-microejemplo.html",
+      "/planes/plan-06-escalas.html",
+      "/planes/plan-11-sujeto-datos.html",
+      "/planes/plan-18-subjuntivo-datos.html",
+      "/planes/plan-23-genai.html",
+      "/planes/plan-25-sintesis-c.html",
+      "/planes/plan-27-defensa.html"
     ]
   }
 ]
